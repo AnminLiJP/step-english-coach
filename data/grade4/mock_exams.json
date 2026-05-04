@@ -1,0 +1,3842 @@
+[
+  {
+    "examId": "g4-mock-1",
+    "level": "grade4",
+    "title": "英检4级 Mock Exam 1",
+    "estimatedMinutes": 35,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g4-q-001",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"borrow\" in a short message about school club. What does \"borrow\" mean here? [Set 1]",
+          "choices": [
+            "borrow 的反义表达",
+            "借入，借来",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "借入，借来",
+          "explanationChinese": "根据上下文，borrow 在这里表示“借入，借来”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から borrow は「借りる」の意味です。"
+        },
+        {
+          "id": "g4-q-006",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"ticket\" in a short message about music lesson. What does \"ticket\" mean here? [Set 6]",
+          "choices": [
+            "music lesson 相关地点",
+            "ticket 的反义表达",
+            "票",
+            "不符合上下文的意思"
+          ],
+          "answer": "票",
+          "explanationChinese": "根据上下文，ticket 在这里表示“票”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から ticket は「切符」の意味です。"
+        },
+        {
+          "id": "g4-q-011",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"activity\" in a short message about school club. What does \"activity\" mean here? [Set 11]",
+          "choices": [
+            "不符合上下文的意思",
+            "activity 的反义表达",
+            "school club 相关地点",
+            "activity 的意思"
+          ],
+          "answer": "activity 的意思",
+          "explanationChinese": "根据上下文，activity 在这里表示“activity 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-016",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"careless\" in a short message about music lesson. What does \"careless\" mean here? [Set 16]",
+          "choices": [
+            "careless 的意思",
+            "careless 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "careless 的意思",
+          "explanationChinese": "根据上下文，careless 在这里表示“careless 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-021",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"condition\" in a short message about school club. What does \"condition\" mean here? [Set 21]",
+          "choices": [
+            "condition 的反义表达",
+            "condition 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "condition 的意思",
+          "explanationChinese": "根据上下文，condition 在这里表示“condition 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-026",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"describe\" in a short message about music lesson. What does \"describe\" mean here? [Set 26]",
+          "choices": [
+            "music lesson 相关地点",
+            "describe 的反义表达",
+            "describe 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "describe 的意思",
+          "explanationChinese": "根据上下文，describe 在这里表示“describe 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から describe は「describe の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-031",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"event\" in a short message about school club. What does \"event\" mean here? [Set 31]",
+          "choices": [
+            "不符合上下文的意思",
+            "event 的反义表达",
+            "school club 相关地点",
+            "event 的意思"
+          ],
+          "answer": "event 的意思",
+          "explanationChinese": "根据上下文，event 在这里表示“event 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から event は「event の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-036",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"interest\" in a short message about music lesson. What does \"interest\" mean here? [Set 36]",
+          "choices": [
+            "interest 的意思",
+            "interest 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "interest 的意思",
+          "explanationChinese": "根据上下文，interest 在这里表示“interest 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から interest は「interest の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g4-q-002",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "visited",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-007",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-012",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / library event / Q12)",
+          "choices": [
+            "to learn",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-017",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / weather report / Q17)",
+          "choices": [
+            "play",
+            "visited",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-022",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / library event / Q22)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-027",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / weather report / Q27)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "to learn"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-032",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q32)",
+          "choices": [
+            "visited",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-037",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q37)",
+          "choices": [
+            "play",
+            "more useful",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g4-q-003",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-008",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q8)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-013",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-018",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-023",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q23)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-028",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q28)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-033",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q33)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-038",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q38)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g4-q-005",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 5. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-010",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 10. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-015",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 15. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "When do you have to finish it?"
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-020",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 20. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "When do you have to finish it?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-025",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 25. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "sentenceOrder": [
+        {
+          "id": "g4-q-004",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q4)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-009",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q9)",
+          "choices": [
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-014",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q14)",
+          "choices": [
+            "I am going English after school to study.",
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-019",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q19)",
+          "choices": [
+            "school after English study to going am I.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "I am going to study English after school."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-024",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q24)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        }
+      ],
+      "answerKey": {
+        "g4-q-001": "借入，借来",
+        "g4-q-006": "票",
+        "g4-q-011": "activity 的意思",
+        "g4-q-016": "careless 的意思",
+        "g4-q-021": "condition 的意思",
+        "g4-q-026": "describe 的意思",
+        "g4-q-031": "event 的意思",
+        "g4-q-036": "interest 的意思",
+        "g4-q-002": "visited",
+        "g4-q-007": "more useful",
+        "g4-q-012": "to learn",
+        "g4-q-017": "visited",
+        "g4-q-022": "more useful",
+        "g4-q-027": "to learn",
+        "g4-q-032": "visited",
+        "g4-q-037": "more useful",
+        "g4-q-003": "Rina enjoyed the shopping street.",
+        "g4-q-008": "Rina enjoyed the station meeting.",
+        "g4-q-013": "Rina enjoyed the shopping street.",
+        "g4-q-018": "Rina enjoyed the station meeting.",
+        "g4-q-023": "Rina enjoyed the shopping street.",
+        "g4-q-028": "Rina enjoyed the station meeting.",
+        "g4-q-033": "Rina enjoyed the shopping street.",
+        "g4-q-038": "Rina enjoyed the station meeting.",
+        "g4-q-005": "When do you have to finish it?",
+        "g4-q-010": "When do you have to finish it?",
+        "g4-q-015": "When do you have to finish it?",
+        "g4-q-020": "When do you have to finish it?",
+        "g4-q-025": "When do you have to finish it?",
+        "g4-q-004": "I am going to study English after school.",
+        "g4-q-009": "I am going to study English after school.",
+        "g4-q-014": "I am going to study English after school.",
+        "g4-q-019": "I am going to study English after school.",
+        "g4-q-024": "I am going to study English after school."
+      }
+    }
+  },
+  {
+    "examId": "g4-mock-2",
+    "level": "grade4",
+    "title": "英检4级 Mock Exam 2",
+    "estimatedMinutes": 35,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g4-q-086",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"public\" in a short message about music lesson. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "music lesson 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-091",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"serious\" in a short message about school club. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "school club 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-096",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"suggestion\" in a short message about music lesson. What does \"suggestion\" mean here? [Set 96]",
+          "choices": [
+            "suggestion 的意思",
+            "suggestion 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "suggestion 的意思",
+          "explanationChinese": "根据上下文，suggestion 在这里表示“suggestion 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-001",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"borrow\" in a short message about school club. What does \"borrow\" mean here? [Set 1]",
+          "choices": [
+            "borrow 的反义表达",
+            "借入，借来",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "借入，借来",
+          "explanationChinese": "根据上下文，borrow 在这里表示“借入，借来”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から borrow は「借りる」の意味です。"
+        },
+        {
+          "id": "g4-q-006",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"ticket\" in a short message about music lesson. What does \"ticket\" mean here? [Set 6]",
+          "choices": [
+            "music lesson 相关地点",
+            "ticket 的反义表达",
+            "票",
+            "不符合上下文的意思"
+          ],
+          "answer": "票",
+          "explanationChinese": "根据上下文，ticket 在这里表示“票”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から ticket は「切符」の意味です。"
+        },
+        {
+          "id": "g4-q-011",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"activity\" in a short message about school club. What does \"activity\" mean here? [Set 11]",
+          "choices": [
+            "不符合上下文的意思",
+            "activity 的反义表达",
+            "school club 相关地点",
+            "activity 的意思"
+          ],
+          "answer": "activity 的意思",
+          "explanationChinese": "根据上下文，activity 在这里表示“activity 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-016",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"careless\" in a short message about music lesson. What does \"careless\" mean here? [Set 16]",
+          "choices": [
+            "careless 的意思",
+            "careless 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "careless 的意思",
+          "explanationChinese": "根据上下文，careless 在这里表示“careless 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-021",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"condition\" in a short message about school club. What does \"condition\" mean here? [Set 21]",
+          "choices": [
+            "condition 的反义表达",
+            "condition 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "condition 的意思",
+          "explanationChinese": "根据上下文，condition 在这里表示“condition 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g4-q-087",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / weather report / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "to learn"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-092",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q92)",
+          "choices": [
+            "visited",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-097",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q97)",
+          "choices": [
+            "play",
+            "more useful",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-002",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "visited",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-007",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-012",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / library event / Q12)",
+          "choices": [
+            "to learn",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-017",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / weather report / Q17)",
+          "choices": [
+            "play",
+            "visited",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-022",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / library event / Q22)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g4-q-088",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q88)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-093",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-098",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-003",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-008",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q8)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-013",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-018",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-023",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q23)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g4-q-090",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 90. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-095",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 95. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "When do you have to finish it?"
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-100",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 100. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "When do you have to finish it?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-005",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 5. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-010",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 10. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "sentenceOrder": [
+        {
+          "id": "g4-q-089",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q89)",
+          "choices": [
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-094",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q94)",
+          "choices": [
+            "I am going English after school to study.",
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-099",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q99)",
+          "choices": [
+            "school after English study to going am I.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "I am going to study English after school."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-004",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q4)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-009",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q9)",
+          "choices": [
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        }
+      ],
+      "answerKey": {
+        "g4-q-086": "public 的意思",
+        "g4-q-091": "serious 的意思",
+        "g4-q-096": "suggestion 的意思",
+        "g4-q-001": "借入，借来",
+        "g4-q-006": "票",
+        "g4-q-011": "activity 的意思",
+        "g4-q-016": "careless 的意思",
+        "g4-q-021": "condition 的意思",
+        "g4-q-087": "to learn",
+        "g4-q-092": "visited",
+        "g4-q-097": "more useful",
+        "g4-q-002": "visited",
+        "g4-q-007": "more useful",
+        "g4-q-012": "to learn",
+        "g4-q-017": "visited",
+        "g4-q-022": "more useful",
+        "g4-q-088": "Rina enjoyed the station meeting.",
+        "g4-q-093": "Rina enjoyed the shopping street.",
+        "g4-q-098": "Rina enjoyed the station meeting.",
+        "g4-q-003": "Rina enjoyed the shopping street.",
+        "g4-q-008": "Rina enjoyed the station meeting.",
+        "g4-q-013": "Rina enjoyed the shopping street.",
+        "g4-q-018": "Rina enjoyed the station meeting.",
+        "g4-q-023": "Rina enjoyed the shopping street.",
+        "g4-q-090": "When do you have to finish it?",
+        "g4-q-095": "When do you have to finish it?",
+        "g4-q-100": "When do you have to finish it?",
+        "g4-q-005": "When do you have to finish it?",
+        "g4-q-010": "When do you have to finish it?",
+        "g4-q-089": "I am going to study English after school.",
+        "g4-q-094": "I am going to study English after school.",
+        "g4-q-099": "I am going to study English after school.",
+        "g4-q-004": "I am going to study English after school.",
+        "g4-q-009": "I am going to study English after school."
+      }
+    }
+  },
+  {
+    "examId": "g4-mock-3",
+    "level": "grade4",
+    "title": "英检4级 Mock Exam 3",
+    "estimatedMinutes": 35,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g4-q-071",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"decision\" in a short message about school club. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "school club 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-076",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"habit\" in a short message about music lesson. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-081",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"natural\" in a short message about school club. What does \"natural\" mean here? [Set 81]",
+          "choices": [
+            "natural 的反义表达",
+            "natural 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "natural 的意思",
+          "explanationChinese": "根据上下文，natural 在这里表示“natural 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-086",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"public\" in a short message about music lesson. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "music lesson 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-091",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"serious\" in a short message about school club. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "school club 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-096",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"suggestion\" in a short message about music lesson. What does \"suggestion\" mean here? [Set 96]",
+          "choices": [
+            "suggestion 的意思",
+            "suggestion 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "suggestion 的意思",
+          "explanationChinese": "根据上下文，suggestion 在这里表示“suggestion 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-001",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"borrow\" in a short message about school club. What does \"borrow\" mean here? [Set 1]",
+          "choices": [
+            "borrow 的反义表达",
+            "借入，借来",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "借入，借来",
+          "explanationChinese": "根据上下文，borrow 在这里表示“借入，借来”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から borrow は「借りる」の意味です。"
+        },
+        {
+          "id": "g4-q-006",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"ticket\" in a short message about music lesson. What does \"ticket\" mean here? [Set 6]",
+          "choices": [
+            "music lesson 相关地点",
+            "ticket 的反义表达",
+            "票",
+            "不符合上下文的意思"
+          ],
+          "answer": "票",
+          "explanationChinese": "根据上下文，ticket 在这里表示“票”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から ticket は「切符」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g4-q-072",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / library event / Q72)",
+          "choices": [
+            "to learn",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-077",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / weather report / Q77)",
+          "choices": [
+            "play",
+            "visited",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-082",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / library event / Q82)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-087",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / weather report / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "to learn"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-092",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q92)",
+          "choices": [
+            "visited",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-097",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q97)",
+          "choices": [
+            "play",
+            "more useful",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-002",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "visited",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-007",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g4-q-073",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-078",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-083",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-088",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q88)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-093",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-098",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-003",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-008",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q8)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g4-q-075",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 75. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "When do you have to finish it?"
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-080",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 80. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "When do you have to finish it?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-085",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 85. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-090",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 90. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-095",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 95. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "When do you have to finish it?"
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "sentenceOrder": [
+        {
+          "id": "g4-q-074",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q74)",
+          "choices": [
+            "I am going English after school to study.",
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-079",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q79)",
+          "choices": [
+            "school after English study to going am I.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "I am going to study English after school."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-084",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q84)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-089",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q89)",
+          "choices": [
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-094",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q94)",
+          "choices": [
+            "I am going English after school to study.",
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        }
+      ],
+      "answerKey": {
+        "g4-q-071": "decision 的意思",
+        "g4-q-076": "habit 的意思",
+        "g4-q-081": "natural 的意思",
+        "g4-q-086": "public 的意思",
+        "g4-q-091": "serious 的意思",
+        "g4-q-096": "suggestion 的意思",
+        "g4-q-001": "借入，借来",
+        "g4-q-006": "票",
+        "g4-q-072": "to learn",
+        "g4-q-077": "visited",
+        "g4-q-082": "more useful",
+        "g4-q-087": "to learn",
+        "g4-q-092": "visited",
+        "g4-q-097": "more useful",
+        "g4-q-002": "visited",
+        "g4-q-007": "more useful",
+        "g4-q-073": "Rina enjoyed the shopping street.",
+        "g4-q-078": "Rina enjoyed the station meeting.",
+        "g4-q-083": "Rina enjoyed the shopping street.",
+        "g4-q-088": "Rina enjoyed the station meeting.",
+        "g4-q-093": "Rina enjoyed the shopping street.",
+        "g4-q-098": "Rina enjoyed the station meeting.",
+        "g4-q-003": "Rina enjoyed the shopping street.",
+        "g4-q-008": "Rina enjoyed the station meeting.",
+        "g4-q-075": "When do you have to finish it?",
+        "g4-q-080": "When do you have to finish it?",
+        "g4-q-085": "When do you have to finish it?",
+        "g4-q-090": "When do you have to finish it?",
+        "g4-q-095": "When do you have to finish it?",
+        "g4-q-074": "I am going to study English after school.",
+        "g4-q-079": "I am going to study English after school.",
+        "g4-q-084": "I am going to study English after school.",
+        "g4-q-089": "I am going to study English after school.",
+        "g4-q-094": "I am going to study English after school."
+      }
+    }
+  },
+  {
+    "examId": "g4-mock-4",
+    "level": "grade4",
+    "title": "英检4级 Mock Exam 4",
+    "estimatedMinutes": 35,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g4-q-056",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"useful\" in a short message about music lesson. What does \"useful\" mean here? [Set 56]",
+          "choices": [
+            "useful 的意思",
+            "useful 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "useful 的意思",
+          "explanationChinese": "根据上下文，useful 在这里表示“useful 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-061",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"achieve\" in a short message about school club. What does \"achieve\" mean here? [Set 61]",
+          "choices": [
+            "achieve 的反义表达",
+            "achieve 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "achieve 的意思",
+          "explanationChinese": "根据上下文，achieve 在这里表示“achieve 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-066",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"benefit\" in a short message about music lesson. What does \"benefit\" mean here? [Set 66]",
+          "choices": [
+            "music lesson 相关地点",
+            "benefit 的反义表达",
+            "benefit 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "benefit 的意思",
+          "explanationChinese": "根据上下文，benefit 在这里表示“benefit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-071",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"decision\" in a short message about school club. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "school club 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-076",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"habit\" in a short message about music lesson. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-081",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"natural\" in a short message about school club. What does \"natural\" mean here? [Set 81]",
+          "choices": [
+            "natural 的反义表达",
+            "natural 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "natural 的意思",
+          "explanationChinese": "根据上下文，natural 在这里表示“natural 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-086",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"public\" in a short message about music lesson. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "music lesson 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-091",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"serious\" in a short message about school club. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "school club 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g4-q-057",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / weather report / Q57)",
+          "choices": [
+            "play",
+            "to learn",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-062",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q62)",
+          "choices": [
+            "playing",
+            "play",
+            "visited",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-067",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q67)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-072",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / library event / Q72)",
+          "choices": [
+            "to learn",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-077",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / weather report / Q77)",
+          "choices": [
+            "play",
+            "visited",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-082",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / library event / Q82)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-087",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / weather report / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "to learn"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-092",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q92)",
+          "choices": [
+            "visited",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g4-q-058",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q58)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-063",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q63)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-068",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q68)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-073",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-078",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-083",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-088",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q88)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-093",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g4-q-060",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 60. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "When do you have to finish it?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-065",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 65. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-070",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 70. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-075",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 75. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "When do you have to finish it?"
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-080",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 80. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "When do you have to finish it?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "sentenceOrder": [
+        {
+          "id": "g4-q-059",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q59)",
+          "choices": [
+            "school after English study to going am I.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "I am going to study English after school."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-064",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q64)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-069",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q69)",
+          "choices": [
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-074",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q74)",
+          "choices": [
+            "I am going English after school to study.",
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-079",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q79)",
+          "choices": [
+            "school after English study to going am I.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "I am going to study English after school."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        }
+      ],
+      "answerKey": {
+        "g4-q-056": "useful 的意思",
+        "g4-q-061": "achieve 的意思",
+        "g4-q-066": "benefit 的意思",
+        "g4-q-071": "decision 的意思",
+        "g4-q-076": "habit 的意思",
+        "g4-q-081": "natural 的意思",
+        "g4-q-086": "public 的意思",
+        "g4-q-091": "serious 的意思",
+        "g4-q-057": "to learn",
+        "g4-q-062": "visited",
+        "g4-q-067": "more useful",
+        "g4-q-072": "to learn",
+        "g4-q-077": "visited",
+        "g4-q-082": "more useful",
+        "g4-q-087": "to learn",
+        "g4-q-092": "visited",
+        "g4-q-058": "Rina enjoyed the station meeting.",
+        "g4-q-063": "Rina enjoyed the shopping street.",
+        "g4-q-068": "Rina enjoyed the station meeting.",
+        "g4-q-073": "Rina enjoyed the shopping street.",
+        "g4-q-078": "Rina enjoyed the station meeting.",
+        "g4-q-083": "Rina enjoyed the shopping street.",
+        "g4-q-088": "Rina enjoyed the station meeting.",
+        "g4-q-093": "Rina enjoyed the shopping street.",
+        "g4-q-060": "When do you have to finish it?",
+        "g4-q-065": "When do you have to finish it?",
+        "g4-q-070": "When do you have to finish it?",
+        "g4-q-075": "When do you have to finish it?",
+        "g4-q-080": "When do you have to finish it?",
+        "g4-q-059": "I am going to study English after school.",
+        "g4-q-064": "I am going to study English after school.",
+        "g4-q-069": "I am going to study English after school.",
+        "g4-q-074": "I am going to study English after school.",
+        "g4-q-079": "I am going to study English after school."
+      }
+    }
+  },
+  {
+    "examId": "g4-mock-5",
+    "level": "grade4",
+    "title": "英检4级 Mock Exam 5",
+    "estimatedMinutes": 35,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g4-q-041",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"notice\" in a short message about school club. What does \"notice\" mean here? [Set 41]",
+          "choices": [
+            "notice 的反义表达",
+            "notice 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "notice 的意思",
+          "explanationChinese": "根据上下文，notice 在这里表示“notice 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から notice は「notice の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-046",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"receive\" in a short message about music lesson. What does \"receive\" mean here? [Set 46]",
+          "choices": [
+            "music lesson 相关地点",
+            "receive 的反义表达",
+            "receive 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "receive 的意思",
+          "explanationChinese": "根据上下文，receive 在这里表示“receive 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から receive は「receive の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-051",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"share\" in a short message about school club. What does \"share\" mean here? [Set 51]",
+          "choices": [
+            "不符合上下文的意思",
+            "share 的反义表达",
+            "school club 相关地点",
+            "share 的意思"
+          ],
+          "answer": "share 的意思",
+          "explanationChinese": "根据上下文，share 在这里表示“share 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から share は「share の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-056",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"useful\" in a short message about music lesson. What does \"useful\" mean here? [Set 56]",
+          "choices": [
+            "useful 的意思",
+            "useful 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "useful 的意思",
+          "explanationChinese": "根据上下文，useful 在这里表示“useful 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-061",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"achieve\" in a short message about school club. What does \"achieve\" mean here? [Set 61]",
+          "choices": [
+            "achieve 的反义表达",
+            "achieve 的意思",
+            "school club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "achieve 的意思",
+          "explanationChinese": "根据上下文，achieve 在这里表示“achieve 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-066",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"benefit\" in a short message about music lesson. What does \"benefit\" mean here? [Set 66]",
+          "choices": [
+            "music lesson 相关地点",
+            "benefit 的反义表达",
+            "benefit 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "benefit 的意思",
+          "explanationChinese": "根据上下文，benefit 在这里表示“benefit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-071",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "vocabulary",
+            "school_club"
+          ],
+          "question": "Mika used \"decision\" in a short message about school club. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "school club 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "g4-q-076",
+          "level": "grade4",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "music_lesson"
+          ],
+          "question": "Mika used \"habit\" in a short message about music lesson. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "music lesson 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g4-q-042",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / library event / Q42)",
+          "choices": [
+            "playing",
+            "play",
+            "to learn",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-047",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / weather report / Q47)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "visited"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-052",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / library event / Q52)",
+          "choices": [
+            "more useful",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-057",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / weather report / Q57)",
+          "choices": [
+            "play",
+            "to learn",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-062",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / library event / Q62)",
+          "choices": [
+            "playing",
+            "play",
+            "visited",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-067",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (比较级 / weather report / Q67)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较级。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较级 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-072",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "library_event"
+          ],
+          "question": "I went to the library (   ) about history. (不定词基础 / library event / Q72)",
+          "choices": [
+            "to learn",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "to learn",
+          "explanationChinese": "本题考查 不定词基础。应选择符合结构“to + base verb”的形式。",
+          "explanationJapanese": "不定词基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g4-q-077",
+          "level": "grade4",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "grammar",
+            "weather_report"
+          ],
+          "question": "My sister (   ) tennis on Sundays. (一般过去时 / weather report / Q77)",
+          "choices": [
+            "play",
+            "visited",
+            "playing",
+            "to played"
+          ],
+          "answer": "visited",
+          "explanationChinese": "本题考查 一般过去时。应选择符合结构“subject + verb + object”的形式。",
+          "explanationJapanese": "一般过去时 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g4-q-043",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q43)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-048",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q48)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-053",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q53)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-058",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q58)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-063",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q63)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Rina enjoyed the shopping street."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-068",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q68)",
+          "choices": [
+            "Rina enjoyed the station meeting.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-073",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a shopping street. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "shopping_street"
+          ],
+          "question": "What is the main point of this shopping street passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Rina enjoyed the shopping street.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the shopping street.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the shopping street.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g4-q-078",
+          "level": "grade4",
+          "type": "reading",
+          "passage": "Last Sunday, Rina joined a station meeting. She arrived early and helped her friend. She was tired at night, but she was happy.",
+          "difficulty": 2,
+          "skillTags": [
+            "reading",
+            "station_meeting"
+          ],
+          "question": "What is the main point of this station meeting passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Rina enjoyed the station meeting.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Rina enjoyed the station meeting.",
+          "explanationChinese": "短文主要说明 Rina enjoyed the station meeting.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g4-q-045",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 45. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-050",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 50. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-055",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 55. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "When do you have to finish it?"
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-060",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "community_park"
+          ],
+          "question": "A: I am preparing for our community park task 60. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "When do you have to finish it?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g4-q-065",
+          "level": "grade4",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "short_dialogue",
+            "sports_day"
+          ],
+          "question": "A: I am preparing for our sports day task 65. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "When do you have to finish it?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "When do you have to finish it?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "sentenceOrder": [
+        {
+          "id": "g4-q-044",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q44)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-049",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q49)",
+          "choices": [
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-054",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q54)",
+          "choices": [
+            "I am going English after school to study.",
+            "am I going to study English after school.",
+            "I am going to study English after school.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-059",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 2,
+          "skillTags": [
+            "sentence_order",
+            "book_exchange"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (book exchange / Q59)",
+          "choices": [
+            "school after English study to going am I.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "I am going to study English after school."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        },
+        {
+          "id": "g4-q-064",
+          "level": "grade4",
+          "type": "sentence_order",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "sentence_order",
+            "family_trip"
+          ],
+          "question": "Choose the best sentence order for this meaning: I am going to study English after school. (family trip / Q64)",
+          "choices": [
+            "I am going to study English after school.",
+            "am I going to study English after school.",
+            "I am going English after school to study.",
+            "school after English study to going am I."
+          ],
+          "answer": "I am going to study English after school.",
+          "explanationChinese": "正确语序是：I am going to study English after school.。注意主语、助动词、动词和时间地点的位置。",
+          "explanationJapanese": "正しい語順は I am going to study English after school. です。"
+        }
+      ],
+      "answerKey": {
+        "g4-q-041": "notice 的意思",
+        "g4-q-046": "receive 的意思",
+        "g4-q-051": "share 的意思",
+        "g4-q-056": "useful 的意思",
+        "g4-q-061": "achieve 的意思",
+        "g4-q-066": "benefit 的意思",
+        "g4-q-071": "decision 的意思",
+        "g4-q-076": "habit 的意思",
+        "g4-q-042": "to learn",
+        "g4-q-047": "visited",
+        "g4-q-052": "more useful",
+        "g4-q-057": "to learn",
+        "g4-q-062": "visited",
+        "g4-q-067": "more useful",
+        "g4-q-072": "to learn",
+        "g4-q-077": "visited",
+        "g4-q-043": "Rina enjoyed the shopping street.",
+        "g4-q-048": "Rina enjoyed the station meeting.",
+        "g4-q-053": "Rina enjoyed the shopping street.",
+        "g4-q-058": "Rina enjoyed the station meeting.",
+        "g4-q-063": "Rina enjoyed the shopping street.",
+        "g4-q-068": "Rina enjoyed the station meeting.",
+        "g4-q-073": "Rina enjoyed the shopping street.",
+        "g4-q-078": "Rina enjoyed the station meeting.",
+        "g4-q-045": "When do you have to finish it?",
+        "g4-q-050": "When do you have to finish it?",
+        "g4-q-055": "When do you have to finish it?",
+        "g4-q-060": "When do you have to finish it?",
+        "g4-q-065": "When do you have to finish it?",
+        "g4-q-044": "I am going to study English after school.",
+        "g4-q-049": "I am going to study English after school.",
+        "g4-q-054": "I am going to study English after school.",
+        "g4-q-059": "I am going to study English after school.",
+        "g4-q-064": "I am going to study English after school."
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Student {
+  id                 String              @id @default(cuid())
+  name               String
+  level              String
+  targetMinutesDaily Int                 @default(15)
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+  attempts           Attempt[]
+  writingSubmissions WritingSubmission[]
+}
+
+model Question {
+  id          String    @id
+  level       String
+  type        String
+  question    String
+  choices     String
+  answer      String
+  explanation String
+  difficulty  Int
+  createdAt   DateTime  @default(now())
+  attempts    Attempt[]
+}
+
+model Attempt {
+  id         String   @id @default(cuid())
+  studentId String?
+  questionId String
+  selected   String
+  isCorrect  Boolean
+  createdAt  DateTime @default(now())
+  student    Student? @relation(fields: [studentId], references: [id])
+  question   Question @relation(fields: [questionId], references: [id])
+}
+
+model WritingSubmission {
+  id        String   @id @default(cuid())
+  studentId String?
+  level     String
+  prompt    String
+  content   String
+  feedback  String?
+  createdAt DateTime @default(now())
+  student   Student? @relation(fields: [studentId], references: [id])
+}

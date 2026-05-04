@@ -1,0 +1,3622 @@
+[
+  {
+    "examId": "p2-mock-1",
+    "level": "pre2",
+    "title": "英检準2级 Mock Exam 1",
+    "estimatedMinutes": 80,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "p2-q-001",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"opportunity\" helped students express a more detailed opinion. What does \"opportunity\" mean here? [Set 1]",
+          "choices": [
+            "opportunity 的反义表达",
+            "机会",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "机会",
+          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から opportunity は「機会」の意味です。"
+        },
+        {
+          "id": "p2-q-006",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"communicate\" helped students express a more detailed opinion. What does \"communicate\" mean here? [Set 6]",
+          "choices": [
+            "school technology 相关地点",
+            "communicate 的反义表达",
+            "交流，沟通",
+            "不符合上下文的意思"
+          ],
+          "answer": "交流，沟通",
+          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から communicate は「伝える」の意味です。"
+        },
+        {
+          "id": "p2-q-011",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"activity\" helped students express a more detailed opinion. What does \"activity\" mean here? [Set 11]",
+          "choices": [
+            "不符合上下文的意思",
+            "activity 的反义表达",
+            "digital textbooks 相关地点",
+            "activity 的意思"
+          ],
+          "answer": "activity 的意思",
+          "explanationChinese": "根据上下文，activity 在这里表示“activity 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-016",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"careless\" helped students express a more detailed opinion. What does \"careless\" mean here? [Set 16]",
+          "choices": [
+            "careless 的意思",
+            "careless 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "careless 的意思",
+          "explanationChinese": "根据上下文，careless 在这里表示“careless 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-021",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"condition\" helped students express a more detailed opinion. What does \"condition\" mean here? [Set 21]",
+          "choices": [
+            "condition 的反义表达",
+            "condition 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "condition 的意思",
+          "explanationChinese": "根据上下文，condition 在这里表示“condition 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-026",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"describe\" helped students express a more detailed opinion. What does \"describe\" mean here? [Set 26]",
+          "choices": [
+            "school technology 相关地点",
+            "describe 的反义表达",
+            "describe 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "describe 的意思",
+          "explanationChinese": "根据上下文，describe 在这里表示“describe 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から describe は「describe の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-031",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"event\" helped students express a more detailed opinion. What does \"event\" mean here? [Set 31]",
+          "choices": [
+            "不符合上下文的意思",
+            "event 的反义表达",
+            "digital textbooks 相关地点",
+            "event 的意思"
+          ],
+          "answer": "event 的意思",
+          "explanationChinese": "根据上下文，event 在这里表示“event 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から event は「event の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-036",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"interest\" helped students express a more detailed opinion. What does \"interest\" mean here? [Set 36]",
+          "choices": [
+            "interest 的意思",
+            "interest 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "interest 的意思",
+          "explanationChinese": "根据上下文，interest 在这里表示“interest 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から interest は「interest の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "p2-q-002",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-007",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-012",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / environmental project / Q12)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-017",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / local tourism / Q17)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-022",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / environmental project / Q22)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-027",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / local tourism / Q27)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-032",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q32)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-037",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q37)",
+          "choices": [
+            "play",
+            "more useful",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "p2-q-003",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-008",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q8)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-013",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-018",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-023",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q23)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-028",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q28)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-033",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q33)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-038",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q38)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-043",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q43)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-048",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q48)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "p2-q-005",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 5. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-010",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 10. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-015",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 15. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What part of the project is the most difficult?"
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-020",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 20. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What part of the project is the most difficult?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-025",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 25. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "p2-w-1-email",
+          "prompt": "You received an e-mail about a school project. Write a reply, answer the question, and ask one question.",
+          "targetWords": "40-50 words",
+          "sampleAnswer": "Hi Emma,\n\nThank you for your e-mail. Our class is going to make a recycling poster for the school festival. I think it will help students think about the environment. What kind of projects do students do at your school?\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Ask one question.",
+            "Use a clear opening and closing."
+          ]
+        },
+        {
+          "id": "p2-w-1-opinion",
+          "prompt": "Do you think students should do volunteer work in their communities?",
+          "targetWords": "50-60 words",
+          "sampleAnswer": "I think students should do volunteer work in their communities. First, they can learn responsibility by helping other people. For example, cleaning a park teaches them to care about public places. Second, they can communicate with people of different ages. These experiences are useful for their future.",
+          "points": [
+            "State your opinion.",
+            "Give reasons.",
+            "Use examples and linking words."
+          ]
+        }
+      ],
+      "answerKey": {
+        "p2-q-001": "机会",
+        "p2-q-006": "交流，沟通",
+        "p2-q-011": "activity 的意思",
+        "p2-q-016": "careless 的意思",
+        "p2-q-021": "condition 的意思",
+        "p2-q-026": "describe 的意思",
+        "p2-q-031": "event 的意思",
+        "p2-q-036": "interest 的意思",
+        "p2-q-002": "plays",
+        "p2-q-007": "more useful",
+        "p2-q-012": "plays",
+        "p2-q-017": "plays",
+        "p2-q-022": "more useful",
+        "p2-q-027": "plays",
+        "p2-q-032": "plays",
+        "p2-q-037": "more useful",
+        "p2-q-003": "Students learned that community action can make a difference.",
+        "p2-q-008": "Students learned that community action can make a difference.",
+        "p2-q-013": "Students learned that community action can make a difference.",
+        "p2-q-018": "Students learned that community action can make a difference.",
+        "p2-q-023": "Students learned that community action can make a difference.",
+        "p2-q-028": "Students learned that community action can make a difference.",
+        "p2-q-033": "Students learned that community action can make a difference.",
+        "p2-q-038": "Students learned that community action can make a difference.",
+        "p2-q-043": "Students learned that community action can make a difference.",
+        "p2-q-048": "Students learned that community action can make a difference.",
+        "p2-q-005": "What part of the project is the most difficult?",
+        "p2-q-010": "What part of the project is the most difficult?",
+        "p2-q-015": "What part of the project is the most difficult?",
+        "p2-q-020": "What part of the project is the most difficult?",
+        "p2-q-025": "What part of the project is the most difficult?"
+      }
+    }
+  },
+  {
+    "examId": "p2-mock-2",
+    "level": "pre2",
+    "title": "英检準2级 Mock Exam 2",
+    "estimatedMinutes": 80,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "p2-q-086",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"public\" helped students express a more detailed opinion. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "school technology 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-091",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"serious\" helped students express a more detailed opinion. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "digital textbooks 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-096",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"suggestion\" helped students express a more detailed opinion. What does \"suggestion\" mean here? [Set 96]",
+          "choices": [
+            "suggestion 的意思",
+            "suggestion 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "suggestion 的意思",
+          "explanationChinese": "根据上下文，suggestion 在这里表示“suggestion 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-001",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"opportunity\" helped students express a more detailed opinion. What does \"opportunity\" mean here? [Set 1]",
+          "choices": [
+            "opportunity 的反义表达",
+            "机会",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "机会",
+          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から opportunity は「機会」の意味です。"
+        },
+        {
+          "id": "p2-q-006",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"communicate\" helped students express a more detailed opinion. What does \"communicate\" mean here? [Set 6]",
+          "choices": [
+            "school technology 相关地点",
+            "communicate 的反义表达",
+            "交流，沟通",
+            "不符合上下文的意思"
+          ],
+          "answer": "交流，沟通",
+          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から communicate は「伝える」の意味です。"
+        },
+        {
+          "id": "p2-q-011",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"activity\" helped students express a more detailed opinion. What does \"activity\" mean here? [Set 11]",
+          "choices": [
+            "不符合上下文的意思",
+            "activity 的反义表达",
+            "digital textbooks 相关地点",
+            "activity 的意思"
+          ],
+          "answer": "activity 的意思",
+          "explanationChinese": "根据上下文，activity 在这里表示“activity 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-016",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"careless\" helped students express a more detailed opinion. What does \"careless\" mean here? [Set 16]",
+          "choices": [
+            "careless 的意思",
+            "careless 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "careless 的意思",
+          "explanationChinese": "根据上下文，careless 在这里表示“careless 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-021",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"condition\" helped students express a more detailed opinion. What does \"condition\" mean here? [Set 21]",
+          "choices": [
+            "condition 的反义表达",
+            "condition 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "condition 的意思",
+          "explanationChinese": "根据上下文，condition 在这里表示“condition 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "p2-q-087",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / local tourism / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-092",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q92)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-097",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q97)",
+          "choices": [
+            "play",
+            "more useful",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-002",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-007",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-012",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / environmental project / Q12)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-017",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / local tourism / Q17)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-022",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / environmental project / Q22)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "p2-q-088",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q88)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-093",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-098",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-003",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-008",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q8)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-013",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-018",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-023",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q23)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-028",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q28)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-033",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q33)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "p2-q-090",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 90. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-095",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 95. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What part of the project is the most difficult?"
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-100",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 100. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What part of the project is the most difficult?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-005",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 5. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-010",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 10. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "p2-w-2-email",
+          "prompt": "You received an e-mail about a school project. Write a reply, answer the question, and ask one question.",
+          "targetWords": "40-50 words",
+          "sampleAnswer": "Hi Emma,\n\nThank you for your e-mail. Our class is going to make a recycling poster for the school festival. I think it will help students think about the environment. What kind of projects do students do at your school?\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Ask one question.",
+            "Use a clear opening and closing."
+          ]
+        },
+        {
+          "id": "p2-w-2-opinion",
+          "prompt": "Do you think students should do volunteer work in their communities?",
+          "targetWords": "50-60 words",
+          "sampleAnswer": "I think students should do volunteer work in their communities. First, they can learn responsibility by helping other people. For example, cleaning a park teaches them to care about public places. Second, they can communicate with people of different ages. These experiences are useful for their future.",
+          "points": [
+            "State your opinion.",
+            "Give reasons.",
+            "Use examples and linking words."
+          ]
+        }
+      ],
+      "answerKey": {
+        "p2-q-086": "public 的意思",
+        "p2-q-091": "serious 的意思",
+        "p2-q-096": "suggestion 的意思",
+        "p2-q-001": "机会",
+        "p2-q-006": "交流，沟通",
+        "p2-q-011": "activity 的意思",
+        "p2-q-016": "careless 的意思",
+        "p2-q-021": "condition 的意思",
+        "p2-q-087": "plays",
+        "p2-q-092": "plays",
+        "p2-q-097": "more useful",
+        "p2-q-002": "plays",
+        "p2-q-007": "more useful",
+        "p2-q-012": "plays",
+        "p2-q-017": "plays",
+        "p2-q-022": "more useful",
+        "p2-q-088": "Students learned that community action can make a difference.",
+        "p2-q-093": "Students learned that community action can make a difference.",
+        "p2-q-098": "Students learned that community action can make a difference.",
+        "p2-q-003": "Students learned that community action can make a difference.",
+        "p2-q-008": "Students learned that community action can make a difference.",
+        "p2-q-013": "Students learned that community action can make a difference.",
+        "p2-q-018": "Students learned that community action can make a difference.",
+        "p2-q-023": "Students learned that community action can make a difference.",
+        "p2-q-028": "Students learned that community action can make a difference.",
+        "p2-q-033": "Students learned that community action can make a difference.",
+        "p2-q-090": "What part of the project is the most difficult?",
+        "p2-q-095": "What part of the project is the most difficult?",
+        "p2-q-100": "What part of the project is the most difficult?",
+        "p2-q-005": "What part of the project is the most difficult?",
+        "p2-q-010": "What part of the project is the most difficult?"
+      }
+    }
+  },
+  {
+    "examId": "p2-mock-3",
+    "level": "pre2",
+    "title": "英检準2级 Mock Exam 3",
+    "estimatedMinutes": 80,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "p2-q-071",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"decision\" helped students express a more detailed opinion. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "digital textbooks 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-076",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"habit\" helped students express a more detailed opinion. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-081",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"natural\" helped students express a more detailed opinion. What does \"natural\" mean here? [Set 81]",
+          "choices": [
+            "natural 的反义表达",
+            "natural 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "natural 的意思",
+          "explanationChinese": "根据上下文，natural 在这里表示“natural 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-086",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"public\" helped students express a more detailed opinion. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "school technology 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-091",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"serious\" helped students express a more detailed opinion. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "digital textbooks 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-096",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"suggestion\" helped students express a more detailed opinion. What does \"suggestion\" mean here? [Set 96]",
+          "choices": [
+            "suggestion 的意思",
+            "suggestion 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "suggestion 的意思",
+          "explanationChinese": "根据上下文，suggestion 在这里表示“suggestion 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-001",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"opportunity\" helped students express a more detailed opinion. What does \"opportunity\" mean here? [Set 1]",
+          "choices": [
+            "opportunity 的反义表达",
+            "机会",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "机会",
+          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から opportunity は「機会」の意味です。"
+        },
+        {
+          "id": "p2-q-006",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"communicate\" helped students express a more detailed opinion. What does \"communicate\" mean here? [Set 6]",
+          "choices": [
+            "school technology 相关地点",
+            "communicate 的反义表达",
+            "交流，沟通",
+            "不符合上下文的意思"
+          ],
+          "answer": "交流，沟通",
+          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から communicate は「伝える」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "p2-q-072",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / environmental project / Q72)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-077",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / local tourism / Q77)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-082",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / environmental project / Q82)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-087",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / local tourism / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-092",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q92)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-097",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q97)",
+          "choices": [
+            "play",
+            "more useful",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-002",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-007",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "p2-q-073",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-078",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-083",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-088",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q88)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-093",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-098",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-003",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-008",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q8)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-013",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-018",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "p2-q-075",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 75. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What part of the project is the most difficult?"
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-080",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 80. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What part of the project is the most difficult?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-085",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 85. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-090",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 90. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-095",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 95. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What part of the project is the most difficult?"
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "p2-w-3-email",
+          "prompt": "You received an e-mail about a school project. Write a reply, answer the question, and ask one question.",
+          "targetWords": "40-50 words",
+          "sampleAnswer": "Hi Emma,\n\nThank you for your e-mail. Our class is going to make a recycling poster for the school festival. I think it will help students think about the environment. What kind of projects do students do at your school?\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Ask one question.",
+            "Use a clear opening and closing."
+          ]
+        },
+        {
+          "id": "p2-w-3-opinion",
+          "prompt": "Do you think students should do volunteer work in their communities?",
+          "targetWords": "50-60 words",
+          "sampleAnswer": "I think students should do volunteer work in their communities. First, they can learn responsibility by helping other people. For example, cleaning a park teaches them to care about public places. Second, they can communicate with people of different ages. These experiences are useful for their future.",
+          "points": [
+            "State your opinion.",
+            "Give reasons.",
+            "Use examples and linking words."
+          ]
+        }
+      ],
+      "answerKey": {
+        "p2-q-071": "decision 的意思",
+        "p2-q-076": "habit 的意思",
+        "p2-q-081": "natural 的意思",
+        "p2-q-086": "public 的意思",
+        "p2-q-091": "serious 的意思",
+        "p2-q-096": "suggestion 的意思",
+        "p2-q-001": "机会",
+        "p2-q-006": "交流，沟通",
+        "p2-q-072": "plays",
+        "p2-q-077": "plays",
+        "p2-q-082": "more useful",
+        "p2-q-087": "plays",
+        "p2-q-092": "plays",
+        "p2-q-097": "more useful",
+        "p2-q-002": "plays",
+        "p2-q-007": "more useful",
+        "p2-q-073": "Students learned that community action can make a difference.",
+        "p2-q-078": "Students learned that community action can make a difference.",
+        "p2-q-083": "Students learned that community action can make a difference.",
+        "p2-q-088": "Students learned that community action can make a difference.",
+        "p2-q-093": "Students learned that community action can make a difference.",
+        "p2-q-098": "Students learned that community action can make a difference.",
+        "p2-q-003": "Students learned that community action can make a difference.",
+        "p2-q-008": "Students learned that community action can make a difference.",
+        "p2-q-013": "Students learned that community action can make a difference.",
+        "p2-q-018": "Students learned that community action can make a difference.",
+        "p2-q-075": "What part of the project is the most difficult?",
+        "p2-q-080": "What part of the project is the most difficult?",
+        "p2-q-085": "What part of the project is the most difficult?",
+        "p2-q-090": "What part of the project is the most difficult?",
+        "p2-q-095": "What part of the project is the most difficult?"
+      }
+    }
+  },
+  {
+    "examId": "p2-mock-4",
+    "level": "pre2",
+    "title": "英检準2级 Mock Exam 4",
+    "estimatedMinutes": 80,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "p2-q-056",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"useful\" helped students express a more detailed opinion. What does \"useful\" mean here? [Set 56]",
+          "choices": [
+            "useful 的意思",
+            "useful 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "useful 的意思",
+          "explanationChinese": "根据上下文，useful 在这里表示“useful 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-061",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"achieve\" helped students express a more detailed opinion. What does \"achieve\" mean here? [Set 61]",
+          "choices": [
+            "achieve 的反义表达",
+            "achieve 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "achieve 的意思",
+          "explanationChinese": "根据上下文，achieve 在这里表示“achieve 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-066",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"benefit\" helped students express a more detailed opinion. What does \"benefit\" mean here? [Set 66]",
+          "choices": [
+            "school technology 相关地点",
+            "benefit 的反义表达",
+            "benefit 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "benefit 的意思",
+          "explanationChinese": "根据上下文，benefit 在这里表示“benefit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-071",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"decision\" helped students express a more detailed opinion. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "digital textbooks 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-076",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"habit\" helped students express a more detailed opinion. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-081",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"natural\" helped students express a more detailed opinion. What does \"natural\" mean here? [Set 81]",
+          "choices": [
+            "natural 的反义表达",
+            "natural 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "natural 的意思",
+          "explanationChinese": "根据上下文，natural 在这里表示“natural 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-086",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"public\" helped students express a more detailed opinion. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "school technology 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-091",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"serious\" helped students express a more detailed opinion. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "digital textbooks 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "p2-q-057",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / local tourism / Q57)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-062",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q62)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-067",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q67)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-072",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / environmental project / Q72)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-077",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / local tourism / Q77)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-082",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / environmental project / Q82)",
+          "choices": [
+            "playing",
+            "play",
+            "more useful",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-087",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / local tourism / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-092",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q92)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "p2-q-058",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q58)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-063",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q63)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-068",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q68)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-073",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-078",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-083",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-088",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q88)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-093",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-098",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-003",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "p2-q-060",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 60. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What part of the project is the most difficult?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-065",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 65. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-070",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 70. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-075",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 75. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What part of the project is the most difficult?"
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-080",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 80. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What part of the project is the most difficult?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "p2-w-4-email",
+          "prompt": "You received an e-mail about a school project. Write a reply, answer the question, and ask one question.",
+          "targetWords": "40-50 words",
+          "sampleAnswer": "Hi Emma,\n\nThank you for your e-mail. Our class is going to make a recycling poster for the school festival. I think it will help students think about the environment. What kind of projects do students do at your school?\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Ask one question.",
+            "Use a clear opening and closing."
+          ]
+        },
+        {
+          "id": "p2-w-4-opinion",
+          "prompt": "Do you think students should do volunteer work in their communities?",
+          "targetWords": "50-60 words",
+          "sampleAnswer": "I think students should do volunteer work in their communities. First, they can learn responsibility by helping other people. For example, cleaning a park teaches them to care about public places. Second, they can communicate with people of different ages. These experiences are useful for their future.",
+          "points": [
+            "State your opinion.",
+            "Give reasons.",
+            "Use examples and linking words."
+          ]
+        }
+      ],
+      "answerKey": {
+        "p2-q-056": "useful 的意思",
+        "p2-q-061": "achieve 的意思",
+        "p2-q-066": "benefit 的意思",
+        "p2-q-071": "decision 的意思",
+        "p2-q-076": "habit 的意思",
+        "p2-q-081": "natural 的意思",
+        "p2-q-086": "public 的意思",
+        "p2-q-091": "serious 的意思",
+        "p2-q-057": "plays",
+        "p2-q-062": "plays",
+        "p2-q-067": "more useful",
+        "p2-q-072": "plays",
+        "p2-q-077": "plays",
+        "p2-q-082": "more useful",
+        "p2-q-087": "plays",
+        "p2-q-092": "plays",
+        "p2-q-058": "Students learned that community action can make a difference.",
+        "p2-q-063": "Students learned that community action can make a difference.",
+        "p2-q-068": "Students learned that community action can make a difference.",
+        "p2-q-073": "Students learned that community action can make a difference.",
+        "p2-q-078": "Students learned that community action can make a difference.",
+        "p2-q-083": "Students learned that community action can make a difference.",
+        "p2-q-088": "Students learned that community action can make a difference.",
+        "p2-q-093": "Students learned that community action can make a difference.",
+        "p2-q-098": "Students learned that community action can make a difference.",
+        "p2-q-003": "Students learned that community action can make a difference.",
+        "p2-q-060": "What part of the project is the most difficult?",
+        "p2-q-065": "What part of the project is the most difficult?",
+        "p2-q-070": "What part of the project is the most difficult?",
+        "p2-q-075": "What part of the project is the most difficult?",
+        "p2-q-080": "What part of the project is the most difficult?"
+      }
+    }
+  },
+  {
+    "examId": "p2-mock-5",
+    "level": "pre2",
+    "title": "英检準2级 Mock Exam 5",
+    "estimatedMinutes": 80,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "p2-q-041",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"notice\" helped students express a more detailed opinion. What does \"notice\" mean here? [Set 41]",
+          "choices": [
+            "notice 的反义表达",
+            "notice 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "notice 的意思",
+          "explanationChinese": "根据上下文，notice 在这里表示“notice 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から notice は「notice の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-046",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"receive\" helped students express a more detailed opinion. What does \"receive\" mean here? [Set 46]",
+          "choices": [
+            "school technology 相关地点",
+            "receive 的反义表达",
+            "receive 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "receive 的意思",
+          "explanationChinese": "根据上下文，receive 在这里表示“receive 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から receive は「receive の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-051",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"share\" helped students express a more detailed opinion. What does \"share\" mean here? [Set 51]",
+          "choices": [
+            "不符合上下文的意思",
+            "share 的反义表达",
+            "digital textbooks 相关地点",
+            "share 的意思"
+          ],
+          "answer": "share 的意思",
+          "explanationChinese": "根据上下文，share 在这里表示“share 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から share は「share の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-056",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"useful\" helped students express a more detailed opinion. What does \"useful\" mean here? [Set 56]",
+          "choices": [
+            "useful 的意思",
+            "useful 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "useful 的意思",
+          "explanationChinese": "根据上下文，useful 在这里表示“useful 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-061",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"achieve\" helped students express a more detailed opinion. What does \"achieve\" mean here? [Set 61]",
+          "choices": [
+            "achieve 的反义表达",
+            "achieve 的意思",
+            "digital textbooks 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "achieve 的意思",
+          "explanationChinese": "根据上下文，achieve 在这里表示“achieve 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-066",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"benefit\" helped students express a more detailed opinion. What does \"benefit\" mean here? [Set 66]",
+          "choices": [
+            "school technology 相关地点",
+            "benefit 的反义表达",
+            "benefit 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "benefit 的意思",
+          "explanationChinese": "根据上下文，benefit 在这里表示“benefit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-071",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "digital_textbooks"
+          ],
+          "question": "In a discussion about digital textbooks, the word \"decision\" helped students express a more detailed opinion. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "digital textbooks 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "p2-q-076",
+          "level": "pre2",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "vocabulary",
+            "school_technology"
+          ],
+          "question": "In a discussion about school technology, the word \"habit\" helped students express a more detailed opinion. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "school technology 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "p2-q-042",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / environmental project / Q42)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-047",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / local tourism / Q47)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-052",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / environmental project / Q52)",
+          "choices": [
+            "more useful",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-057",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / local tourism / Q57)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-062",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / environmental project / Q62)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-067",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (比较表达进阶 / local tourism / Q67)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "more useful"
+          ],
+          "answer": "more useful",
+          "explanationChinese": "本题考查 比较表达进阶。应选择符合结构“comparative / superlative + than / as ... as”的形式。",
+          "explanationJapanese": "比较表达进阶 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-072",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "grammar",
+            "environmental_project"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (however / therefore / environmental project / Q72)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 however / therefore。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "however / therefore の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "p2-q-077",
+          "level": "pre2",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "local_tourism"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (過去分詞短语 / local tourism / Q77)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 過去分詞短语。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "過去分詞短语 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "p2-q-043",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q43)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-048",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q48)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-053",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q53)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-058",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q58)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-063",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q63)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-068",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q68)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-073",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-078",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Students learned that community action can make a difference.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-083",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a community volunteer to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_volunteer"
+          ],
+          "question": "What is the main point of this community volunteer passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Students learned that community action can make a difference."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "p2-q-088",
+          "level": "pre2",
+          "type": "reading",
+          "passage": "A local school started a recycling plan to help students think about society. Some students were unsure at first because the work looked difficult. However, after interviewing people in the community, they found that small actions could create meaningful change.",
+          "difficulty": 5,
+          "skillTags": [
+            "reading",
+            "recycling_plan"
+          ],
+          "question": "What is the main point of this recycling plan passage? (Q88)",
+          "choices": [
+            "Students learned that community action can make a difference.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Students learned that community action can make a difference.",
+          "explanationChinese": "短文主要说明 Students learned that community action can make a difference.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "p2-q-045",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 45. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-050",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 50. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-055",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 55. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What part of the project is the most difficult?"
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-060",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 5,
+          "skillTags": [
+            "short_dialogue",
+            "online_communication"
+          ],
+          "question": "A: I am preparing for our online communication task 60. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What part of the project is the most difficult?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "p2-q-065",
+          "level": "pre2",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "part-time_jobs"
+          ],
+          "question": "A: I am preparing for our part-time jobs task 65. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What part of the project is the most difficult?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What part of the project is the most difficult?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "p2-w-5-email",
+          "prompt": "You received an e-mail about a school project. Write a reply, answer the question, and ask one question.",
+          "targetWords": "40-50 words",
+          "sampleAnswer": "Hi Emma,\n\nThank you for your e-mail. Our class is going to make a recycling poster for the school festival. I think it will help students think about the environment. What kind of projects do students do at your school?\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Ask one question.",
+            "Use a clear opening and closing."
+          ]
+        },
+        {
+          "id": "p2-w-5-opinion",
+          "prompt": "Do you think students should do volunteer work in their communities?",
+          "targetWords": "50-60 words",
+          "sampleAnswer": "I think students should do volunteer work in their communities. First, they can learn responsibility by helping other people. For example, cleaning a park teaches them to care about public places. Second, they can communicate with people of different ages. These experiences are useful for their future.",
+          "points": [
+            "State your opinion.",
+            "Give reasons.",
+            "Use examples and linking words."
+          ]
+        }
+      ],
+      "answerKey": {
+        "p2-q-041": "notice 的意思",
+        "p2-q-046": "receive 的意思",
+        "p2-q-051": "share 的意思",
+        "p2-q-056": "useful 的意思",
+        "p2-q-061": "achieve 的意思",
+        "p2-q-066": "benefit 的意思",
+        "p2-q-071": "decision 的意思",
+        "p2-q-076": "habit 的意思",
+        "p2-q-042": "plays",
+        "p2-q-047": "plays",
+        "p2-q-052": "more useful",
+        "p2-q-057": "plays",
+        "p2-q-062": "plays",
+        "p2-q-067": "more useful",
+        "p2-q-072": "plays",
+        "p2-q-077": "plays",
+        "p2-q-043": "Students learned that community action can make a difference.",
+        "p2-q-048": "Students learned that community action can make a difference.",
+        "p2-q-053": "Students learned that community action can make a difference.",
+        "p2-q-058": "Students learned that community action can make a difference.",
+        "p2-q-063": "Students learned that community action can make a difference.",
+        "p2-q-068": "Students learned that community action can make a difference.",
+        "p2-q-073": "Students learned that community action can make a difference.",
+        "p2-q-078": "Students learned that community action can make a difference.",
+        "p2-q-083": "Students learned that community action can make a difference.",
+        "p2-q-088": "Students learned that community action can make a difference.",
+        "p2-q-045": "What part of the project is the most difficult?",
+        "p2-q-050": "What part of the project is the most difficult?",
+        "p2-q-055": "What part of the project is the most difficult?",
+        "p2-q-060": "What part of the project is the most difficult?",
+        "p2-q-065": "What part of the project is the most difficult?"
+      }
+    }
+  }
+]

@@ -1,0 +1,2286 @@
+[
+  {
+    "id": "p2-v-001",
+    "word": "opportunity",
+    "phonetic": "/ˌɑːpərˈtuːnəti/",
+    "japaneseMeaning": "機会",
+    "chineseMeaning": "机会",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "The program gave students an opportunity to speak English.",
+    "exampleTranslationChinese": "这个项目给了学生说英语的机会。",
+    "exampleTranslationJapanese": "そのプログラムは生徒に英語を話す機会を与えました。",
+    "synonyms": [
+      "chance"
+    ],
+    "antonyms": [],
+    "difficulty": 4,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "p2-v-002",
+    "word": "responsibility",
+    "phonetic": "/rɪˌspɑːnsəˈbɪləti/",
+    "japaneseMeaning": "責任",
+    "chineseMeaning": "责任",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Taking care of a pet is a big responsibility.",
+    "exampleTranslationChinese": "照顾宠物是一项很大的责任。",
+    "exampleTranslationJapanese": "ペットの世話は大きな責任です。",
+    "synonyms": [
+      "duty"
+    ],
+    "antonyms": [],
+    "difficulty": 4,
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "id": "p2-v-003",
+    "word": "community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "japaneseMeaning": "地域社会",
+    "chineseMeaning": "社区",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "The community cleaned the river together.",
+    "exampleTranslationChinese": "社区一起清理了河流。",
+    "exampleTranslationJapanese": "地域社会は一緒に川を掃除しました。",
+    "synonyms": [
+      "local area"
+    ],
+    "antonyms": [],
+    "difficulty": 4,
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "id": "p2-v-004",
+    "word": "reduce",
+    "phonetic": "/rɪˈduːs/",
+    "japaneseMeaning": "減らす",
+    "chineseMeaning": "减少",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "We should reduce plastic waste.",
+    "exampleTranslationChinese": "我们应该减少塑料垃圾。",
+    "exampleTranslationJapanese": "私たちはプラスチックごみを減らすべきです。",
+    "synonyms": [
+      "decrease"
+    ],
+    "antonyms": [
+      "increase"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "p2-v-005",
+    "word": "increase",
+    "phonetic": "/ɪnˈkriːs/",
+    "japaneseMeaning": "増える",
+    "chineseMeaning": "增加",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "The number of visitors increased last year.",
+    "exampleTranslationChinese": "去年游客数量增加了。",
+    "exampleTranslationJapanese": "昨年、訪問者の数が増えました。",
+    "synonyms": [
+      "grow"
+    ],
+    "antonyms": [
+      "reduce"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "id": "p2-v-006",
+    "word": "communicate",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "japaneseMeaning": "伝える",
+    "chineseMeaning": "交流，沟通",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Team members must communicate clearly.",
+    "exampleTranslationChinese": "团队成员必须清楚沟通。",
+    "exampleTranslationJapanese": "チームのメンバーは明確に伝えなければなりません。",
+    "synonyms": [
+      "share"
+    ],
+    "antonyms": [
+      "hide"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "p2-v-007",
+    "word": "advantage",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "japaneseMeaning": "利点",
+    "chineseMeaning": "优点",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "One advantage of digital books is that they are light.",
+    "exampleTranslationChinese": "电子书的一个优点是很轻。",
+    "exampleTranslationJapanese": "電子書籍の利点の一つは軽いことです。",
+    "synonyms": [
+      "benefit"
+    ],
+    "antonyms": [
+      "disadvantage"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "p2-v-008",
+    "word": "disadvantage",
+    "phonetic": "/ˌdɪsədˈvæntɪdʒ/",
+    "japaneseMeaning": "欠点",
+    "chineseMeaning": "缺点",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "A disadvantage is that the screen can make eyes tired.",
+    "exampleTranslationChinese": "缺点是屏幕会让眼睛疲劳。",
+    "exampleTranslationJapanese": "欠点は画面で目が疲れることです。",
+    "synonyms": [
+      "weak point"
+    ],
+    "antonyms": [
+      "advantage"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "p2-v-009",
+    "word": "therefore",
+    "phonetic": "/ˈðerfɔːr/",
+    "japaneseMeaning": "したがって",
+    "chineseMeaning": "因此",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "The road was closed; therefore, we took the train.",
+    "exampleTranslationChinese": "道路封闭了，因此我们坐了火车。",
+    "exampleTranslationJapanese": "道路が閉鎖されたので、私たちは電車に乗りました。",
+    "synonyms": [
+      "so"
+    ],
+    "antonyms": [
+      "however"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "logic"
+    ]
+  },
+  {
+    "id": "p2-v-010",
+    "word": "however",
+    "phonetic": "/haʊˈevər/",
+    "japaneseMeaning": "しかしながら",
+    "chineseMeaning": "然而",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "The plan is useful. However, it costs too much.",
+    "exampleTranslationChinese": "这个计划有用。然而，费用太高。",
+    "exampleTranslationJapanese": "その計画は有用です。しかし、費用が高すぎます。",
+    "synonyms": [
+      "but"
+    ],
+    "antonyms": [
+      "therefore"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "logic"
+    ]
+  },
+  {
+    "id": "p2-v-011",
+    "word": "activity",
+    "phonetic": "/activity/",
+    "japaneseMeaning": "activity の意味",
+    "chineseMeaning": "activity 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed activity while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 activity 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は activity の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "digital_textbooks",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-012",
+    "word": "advice",
+    "phonetic": "/advice/",
+    "japaneseMeaning": "advice の意味",
+    "chineseMeaning": "advice 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed advice while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 advice 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は advice の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environmental_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-013",
+    "word": "announce",
+    "phonetic": "/announce/",
+    "japaneseMeaning": "announce の意味",
+    "chineseMeaning": "announce 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed announce while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 announce 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は announce の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_volunteer",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-014",
+    "word": "article",
+    "phonetic": "/article/",
+    "japaneseMeaning": "article の意味",
+    "chineseMeaning": "article 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed article while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 article 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は article の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "health_habits",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-015",
+    "word": "attend",
+    "phonetic": "/attend/",
+    "japaneseMeaning": "attend の意味",
+    "chineseMeaning": "attend 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed attend while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 attend 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は attend の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "part-time_jobs",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-016",
+    "word": "careless",
+    "phonetic": "/careless/",
+    "japaneseMeaning": "careless の意味",
+    "chineseMeaning": "careless 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed careless while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 careless 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は careless の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_technology",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-017",
+    "word": "challenge",
+    "phonetic": "/challenge/",
+    "japaneseMeaning": "challenge の意味",
+    "chineseMeaning": "challenge 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed challenge while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 challenge 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は challenge の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "local_tourism",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-018",
+    "word": "choice",
+    "phonetic": "/choice/",
+    "japaneseMeaning": "choice の意味",
+    "chineseMeaning": "choice 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed choice while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 choice 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は choice の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "recycling_plan",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-019",
+    "word": "collect",
+    "phonetic": "/collect/",
+    "japaneseMeaning": "collect の意味",
+    "chineseMeaning": "collect 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed collect while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 collect 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は collect の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "public_transportation",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-020",
+    "word": "compare",
+    "phonetic": "/compare/",
+    "japaneseMeaning": "compare の意味",
+    "chineseMeaning": "compare 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed compare while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 compare 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は compare の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "online_communication",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-021",
+    "word": "condition",
+    "phonetic": "/condition/",
+    "japaneseMeaning": "condition の意味",
+    "chineseMeaning": "condition 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed condition while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 condition 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は condition の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "digital_textbooks",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-022",
+    "word": "connect",
+    "phonetic": "/connect/",
+    "japaneseMeaning": "connect の意味",
+    "chineseMeaning": "connect 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed connect while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 connect 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は connect の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environmental_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-023",
+    "word": "continue",
+    "phonetic": "/continue/",
+    "japaneseMeaning": "continue の意味",
+    "chineseMeaning": "continue 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed continue while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 continue 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は continue の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "community_volunteer",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-024",
+    "word": "culture",
+    "phonetic": "/culture/",
+    "japaneseMeaning": "culture の意味",
+    "chineseMeaning": "culture 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed culture while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 culture 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は culture の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "health_habits",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-025",
+    "word": "daily",
+    "phonetic": "/daily/",
+    "japaneseMeaning": "daily の意味",
+    "chineseMeaning": "daily 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed daily while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 daily 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は daily の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "part-time_jobs",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-026",
+    "word": "describe",
+    "phonetic": "/describe/",
+    "japaneseMeaning": "describe の意味",
+    "chineseMeaning": "describe 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed describe while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 describe 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は describe の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "school_technology",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-027",
+    "word": "develop",
+    "phonetic": "/develop/",
+    "japaneseMeaning": "develop の意味",
+    "chineseMeaning": "develop 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed develop while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 develop 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は develop の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "local_tourism",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-028",
+    "word": "difference",
+    "phonetic": "/difference/",
+    "japaneseMeaning": "difference の意味",
+    "chineseMeaning": "difference 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed difference while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 difference 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は difference の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "recycling_plan",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-029",
+    "word": "discover",
+    "phonetic": "/discover/",
+    "japaneseMeaning": "discover の意味",
+    "chineseMeaning": "discover 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed discover while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 discover 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は discover の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "public_transportation",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-030",
+    "word": "effort",
+    "phonetic": "/effort/",
+    "japaneseMeaning": "effort の意味",
+    "chineseMeaning": "effort 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed effort while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 effort 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は effort の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_communication",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-031",
+    "word": "event",
+    "phonetic": "/event/",
+    "japaneseMeaning": "event の意味",
+    "chineseMeaning": "event 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed event while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 event 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は event の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "digital_textbooks",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-032",
+    "word": "favorite",
+    "phonetic": "/favorite/",
+    "japaneseMeaning": "favorite の意味",
+    "chineseMeaning": "favorite 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed favorite while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 favorite 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は favorite の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "environmental_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-033",
+    "word": "healthy",
+    "phonetic": "/healthy/",
+    "japaneseMeaning": "healthy の意味",
+    "chineseMeaning": "healthy 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed healthy while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 healthy 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は healthy の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_volunteer",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-034",
+    "word": "improve",
+    "phonetic": "/improve/",
+    "japaneseMeaning": "improve の意味",
+    "chineseMeaning": "improve 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed improve while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 improve 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は improve の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "health_habits",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-035",
+    "word": "include",
+    "phonetic": "/include/",
+    "japaneseMeaning": "include の意味",
+    "chineseMeaning": "include 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed include while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 include 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は include の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "part-time_jobs",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-036",
+    "word": "interest",
+    "phonetic": "/interest/",
+    "japaneseMeaning": "interest の意味",
+    "chineseMeaning": "interest 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed interest while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 interest 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は interest の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_technology",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-037",
+    "word": "invite",
+    "phonetic": "/invite/",
+    "japaneseMeaning": "invite の意味",
+    "chineseMeaning": "invite 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed invite while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 invite 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は invite の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "local_tourism",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-038",
+    "word": "local",
+    "phonetic": "/local/",
+    "japaneseMeaning": "local の意味",
+    "chineseMeaning": "local 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed local while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 local 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は local の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "recycling_plan",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-039",
+    "word": "message",
+    "phonetic": "/message/",
+    "japaneseMeaning": "message の意味",
+    "chineseMeaning": "message 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed message while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 message 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は message の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "public_transportation",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-040",
+    "word": "necessary",
+    "phonetic": "/necessary/",
+    "japaneseMeaning": "necessary の意味",
+    "chineseMeaning": "necessary 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed necessary while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 necessary 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は necessary の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_communication",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-041",
+    "word": "notice",
+    "phonetic": "/notice/",
+    "japaneseMeaning": "notice の意味",
+    "chineseMeaning": "notice 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed notice while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 notice 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は notice の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "digital_textbooks",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-042",
+    "word": "opinion",
+    "phonetic": "/opinion/",
+    "japaneseMeaning": "opinion の意味",
+    "chineseMeaning": "opinion 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed opinion while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 opinion 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は opinion の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environmental_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-043",
+    "word": "prepare",
+    "phonetic": "/prepare/",
+    "japaneseMeaning": "prepare の意味",
+    "chineseMeaning": "prepare 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed prepare while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 prepare 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は prepare の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_volunteer",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-044",
+    "word": "project",
+    "phonetic": "/project/",
+    "japaneseMeaning": "project の意味",
+    "chineseMeaning": "project 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed project while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 project 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は project の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "health_habits",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-045",
+    "word": "reason",
+    "phonetic": "/reason/",
+    "japaneseMeaning": "reason の意味",
+    "chineseMeaning": "reason 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed reason while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 reason 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は reason の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "part-time_jobs",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-046",
+    "word": "receive",
+    "phonetic": "/receive/",
+    "japaneseMeaning": "receive の意味",
+    "chineseMeaning": "receive 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed receive while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 receive 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は receive の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_technology",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-047",
+    "word": "recent",
+    "phonetic": "/recent/",
+    "japaneseMeaning": "recent の意味",
+    "chineseMeaning": "recent 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed recent while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 recent 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は recent の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "local_tourism",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-048",
+    "word": "remember",
+    "phonetic": "/remember/",
+    "japaneseMeaning": "remember の意味",
+    "chineseMeaning": "remember 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed remember while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 remember 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は remember の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "recycling_plan",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-049",
+    "word": "schedule",
+    "phonetic": "/schedule/",
+    "japaneseMeaning": "schedule の意味",
+    "chineseMeaning": "schedule 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed schedule while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 schedule 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は schedule の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "public_transportation",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-050",
+    "word": "several",
+    "phonetic": "/several/",
+    "japaneseMeaning": "several の意味",
+    "chineseMeaning": "several 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed several while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 several 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は several の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "online_communication",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-051",
+    "word": "share",
+    "phonetic": "/share/",
+    "japaneseMeaning": "share の意味",
+    "chineseMeaning": "share 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed share while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 share 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は share の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "digital_textbooks",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-052",
+    "word": "similar",
+    "phonetic": "/similar/",
+    "japaneseMeaning": "similar の意味",
+    "chineseMeaning": "similar 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed similar while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 similar 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は similar の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environmental_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-053",
+    "word": "situation",
+    "phonetic": "/situation/",
+    "japaneseMeaning": "situation の意味",
+    "chineseMeaning": "situation 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed situation while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 situation 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は situation の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "community_volunteer",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-054",
+    "word": "special",
+    "phonetic": "/special/",
+    "japaneseMeaning": "special の意味",
+    "chineseMeaning": "special 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed special while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 special 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は special の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "health_habits",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-055",
+    "word": "support",
+    "phonetic": "/support/",
+    "japaneseMeaning": "support の意味",
+    "chineseMeaning": "support 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed support while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 support 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は support の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "part-time_jobs",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-056",
+    "word": "useful",
+    "phonetic": "/useful/",
+    "japaneseMeaning": "useful の意味",
+    "chineseMeaning": "useful 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed useful while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 useful 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は useful の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "school_technology",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-057",
+    "word": "visitor",
+    "phonetic": "/visitor/",
+    "japaneseMeaning": "visitor の意味",
+    "chineseMeaning": "visitor 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed visitor while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 visitor 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は visitor の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "local_tourism",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-058",
+    "word": "while",
+    "phonetic": "/while/",
+    "japaneseMeaning": "while の意味",
+    "chineseMeaning": "while 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed while while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 while 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は while の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "recycling_plan",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-059",
+    "word": "without",
+    "phonetic": "/without/",
+    "japaneseMeaning": "without の意味",
+    "chineseMeaning": "without 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed without while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 without 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は without の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "public_transportation",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-060",
+    "word": "wonder",
+    "phonetic": "/wonder/",
+    "japaneseMeaning": "wonder の意味",
+    "chineseMeaning": "wonder 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed wonder while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 wonder 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は wonder の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_communication",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-061",
+    "word": "achieve",
+    "phonetic": "/achieve/",
+    "japaneseMeaning": "achieve の意味",
+    "chineseMeaning": "achieve 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed achieve while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 achieve 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は achieve の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "digital_textbooks",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-062",
+    "word": "allow",
+    "phonetic": "/allow/",
+    "japaneseMeaning": "allow の意味",
+    "chineseMeaning": "allow 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed allow while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 allow 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は allow の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "environmental_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-063",
+    "word": "appear",
+    "phonetic": "/appear/",
+    "japaneseMeaning": "appear の意味",
+    "chineseMeaning": "appear 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed appear while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 appear 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は appear の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_volunteer",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-064",
+    "word": "available",
+    "phonetic": "/available/",
+    "japaneseMeaning": "available の意味",
+    "chineseMeaning": "available 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed available while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 available 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は available の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "health_habits",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-065",
+    "word": "balance",
+    "phonetic": "/balance/",
+    "japaneseMeaning": "balance の意味",
+    "chineseMeaning": "balance 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed balance while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 balance 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は balance の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "part-time_jobs",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-066",
+    "word": "benefit",
+    "phonetic": "/benefit/",
+    "japaneseMeaning": "benefit の意味",
+    "chineseMeaning": "benefit 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed benefit while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 benefit 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は benefit の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_technology",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-067",
+    "word": "cause",
+    "phonetic": "/cause/",
+    "japaneseMeaning": "cause の意味",
+    "chineseMeaning": "cause 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed cause while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 cause 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は cause の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "local_tourism",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-068",
+    "word": "comfortable",
+    "phonetic": "/comfortable/",
+    "japaneseMeaning": "comfortable の意味",
+    "chineseMeaning": "comfortable 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed comfortable while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 comfortable 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は comfortable の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "recycling_plan",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-069",
+    "word": "consider",
+    "phonetic": "/consider/",
+    "japaneseMeaning": "consider の意味",
+    "chineseMeaning": "consider 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed consider while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 consider 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は consider の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "public_transportation",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-070",
+    "word": "create",
+    "phonetic": "/create/",
+    "japaneseMeaning": "create の意味",
+    "chineseMeaning": "create 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed create while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 create 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は create の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_communication",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-071",
+    "word": "decision",
+    "phonetic": "/decision/",
+    "japaneseMeaning": "decision の意味",
+    "chineseMeaning": "decision 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed decision while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 decision 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は decision の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "digital_textbooks",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-072",
+    "word": "education",
+    "phonetic": "/education/",
+    "japaneseMeaning": "education の意味",
+    "chineseMeaning": "education 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed education while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 education 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は education の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environmental_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-073",
+    "word": "effective",
+    "phonetic": "/effective/",
+    "japaneseMeaning": "effective の意味",
+    "chineseMeaning": "effective 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed effective while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 effective 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は effective の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_volunteer",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-074",
+    "word": "especially",
+    "phonetic": "/especially/",
+    "japaneseMeaning": "especially の意味",
+    "chineseMeaning": "especially 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed especially while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 especially 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は especially の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "health_habits",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-075",
+    "word": "focus",
+    "phonetic": "/focus/",
+    "japaneseMeaning": "focus の意味",
+    "chineseMeaning": "focus 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed focus while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 focus 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は focus の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "part-time_jobs",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-076",
+    "word": "habit",
+    "phonetic": "/habit/",
+    "japaneseMeaning": "habit の意味",
+    "chineseMeaning": "habit 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed habit while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 habit 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は habit の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_technology",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-077",
+    "word": "instead",
+    "phonetic": "/instead/",
+    "japaneseMeaning": "instead の意味",
+    "chineseMeaning": "instead 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed instead while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 instead 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は instead の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "local_tourism",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-078",
+    "word": "knowledge",
+    "phonetic": "/knowledge/",
+    "japaneseMeaning": "knowledge の意味",
+    "chineseMeaning": "knowledge 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed knowledge while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 knowledge 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は knowledge の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "recycling_plan",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-079",
+    "word": "method",
+    "phonetic": "/method/",
+    "japaneseMeaning": "method の意味",
+    "chineseMeaning": "method 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed method while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 method 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は method の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "public_transportation",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-080",
+    "word": "modern",
+    "phonetic": "/modern/",
+    "japaneseMeaning": "modern の意味",
+    "chineseMeaning": "modern 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed modern while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 modern 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は modern の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "online_communication",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-081",
+    "word": "natural",
+    "phonetic": "/natural/",
+    "japaneseMeaning": "natural の意味",
+    "chineseMeaning": "natural 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed natural while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 natural 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は natural の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "digital_textbooks",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-082",
+    "word": "patient",
+    "phonetic": "/patient/",
+    "japaneseMeaning": "patient の意味",
+    "chineseMeaning": "patient 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed patient while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 patient 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は patient の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "environmental_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-083",
+    "word": "personal",
+    "phonetic": "/personal/",
+    "japaneseMeaning": "personal の意味",
+    "chineseMeaning": "personal 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed personal while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 personal 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は personal の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "community_volunteer",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-084",
+    "word": "possible",
+    "phonetic": "/possible/",
+    "japaneseMeaning": "possible の意味",
+    "chineseMeaning": "possible 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed possible while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 possible 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は possible の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "health_habits",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-085",
+    "word": "protect",
+    "phonetic": "/protect/",
+    "japaneseMeaning": "protect の意味",
+    "chineseMeaning": "protect 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed protect while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 protect 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は protect の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "part-time_jobs",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-086",
+    "word": "public",
+    "phonetic": "/public/",
+    "japaneseMeaning": "public の意味",
+    "chineseMeaning": "public 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed public while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 public 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は public の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "school_technology",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-087",
+    "word": "purpose",
+    "phonetic": "/purpose/",
+    "japaneseMeaning": "purpose の意味",
+    "chineseMeaning": "purpose 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed purpose while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 purpose 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は purpose の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "local_tourism",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-088",
+    "word": "quality",
+    "phonetic": "/quality/",
+    "japaneseMeaning": "quality の意味",
+    "chineseMeaning": "quality 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed quality while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 quality 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は quality の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "recycling_plan",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-089",
+    "word": "result",
+    "phonetic": "/result/",
+    "japaneseMeaning": "result の意味",
+    "chineseMeaning": "result 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed result while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 result 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は result の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "public_transportation",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-090",
+    "word": "safe",
+    "phonetic": "/safe/",
+    "japaneseMeaning": "safe の意味",
+    "chineseMeaning": "safe 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed safe while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 safe 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は safe の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_communication",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-091",
+    "word": "serious",
+    "phonetic": "/serious/",
+    "japaneseMeaning": "serious の意味",
+    "chineseMeaning": "serious 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed serious while thinking about digital textbooks and daily society.",
+    "exampleTranslationChinese": "这句话展示 serious 在digital textbooks话题中的用法。",
+    "exampleTranslationJapanese": "この文は serious の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "digital_textbooks",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-092",
+    "word": "simple",
+    "phonetic": "/simple/",
+    "japaneseMeaning": "simple の意味",
+    "chineseMeaning": "simple 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed simple while thinking about environmental project and daily society.",
+    "exampleTranslationChinese": "这句话展示 simple 在environmental project话题中的用法。",
+    "exampleTranslationJapanese": "この文は simple の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "environmental_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-093",
+    "word": "skill",
+    "phonetic": "/skill/",
+    "japaneseMeaning": "skill の意味",
+    "chineseMeaning": "skill 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed skill while thinking about community volunteer and daily society.",
+    "exampleTranslationChinese": "这句话展示 skill 在community volunteer话题中的用法。",
+    "exampleTranslationJapanese": "この文は skill の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_volunteer",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-094",
+    "word": "society",
+    "phonetic": "/society/",
+    "japaneseMeaning": "society の意味",
+    "chineseMeaning": "society 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed society while thinking about health habits and daily society.",
+    "exampleTranslationChinese": "这句话展示 society 在health habits话题中的用法。",
+    "exampleTranslationJapanese": "この文は society の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "health_habits",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-095",
+    "word": "solution",
+    "phonetic": "/solution/",
+    "japaneseMeaning": "solution の意味",
+    "chineseMeaning": "solution 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed solution while thinking about part-time jobs and daily society.",
+    "exampleTranslationChinese": "这句话展示 solution 在part-time jobs话题中的用法。",
+    "exampleTranslationJapanese": "この文は solution の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "part-time_jobs",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-096",
+    "word": "suggestion",
+    "phonetic": "/suggestion/",
+    "japaneseMeaning": "suggestion の意味",
+    "chineseMeaning": "suggestion 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed suggestion while thinking about school technology and daily society.",
+    "exampleTranslationChinese": "这句话展示 suggestion 在school technology话题中的用法。",
+    "exampleTranslationJapanese": "この文は suggestion の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_technology",
+      "verb"
+    ]
+  },
+  {
+    "id": "p2-v-097",
+    "word": "traditional",
+    "phonetic": "/traditional/",
+    "japaneseMeaning": "traditional の意味",
+    "chineseMeaning": "traditional 的意思",
+    "partOfSpeech": "adjective",
+    "level": "pre2",
+    "exampleSentence": "Students discussed traditional while thinking about local tourism and daily society.",
+    "exampleTranslationChinese": "这句话展示 traditional 在local tourism话题中的用法。",
+    "exampleTranslationJapanese": "この文は traditional の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "local_tourism",
+      "adjective"
+    ]
+  },
+  {
+    "id": "p2-v-098",
+    "word": "transportation",
+    "phonetic": "/transportation/",
+    "japaneseMeaning": "transportation の意味",
+    "chineseMeaning": "transportation 的意思",
+    "partOfSpeech": "adverb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed transportation while thinking about recycling plan and daily society.",
+    "exampleTranslationChinese": "这句话展示 transportation 在recycling plan话题中的用法。",
+    "exampleTranslationJapanese": "この文は transportation の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 5,
+    "tags": [
+      "recycling_plan",
+      "adverb"
+    ]
+  },
+  {
+    "id": "p2-v-099",
+    "word": "valuable",
+    "phonetic": "/valuable/",
+    "japaneseMeaning": "valuable の意味",
+    "chineseMeaning": "valuable 的意思",
+    "partOfSpeech": "noun",
+    "level": "pre2",
+    "exampleSentence": "Students discussed valuable while thinking about public transportation and daily society.",
+    "exampleTranslationChinese": "这句话展示 valuable 在public transportation话题中的用法。",
+    "exampleTranslationJapanese": "この文は valuable の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "public_transportation",
+      "noun"
+    ]
+  },
+  {
+    "id": "p2-v-100",
+    "word": "various",
+    "phonetic": "/various/",
+    "japaneseMeaning": "various の意味",
+    "chineseMeaning": "various 的意思",
+    "partOfSpeech": "verb",
+    "level": "pre2",
+    "exampleSentence": "Students discussed various while thinking about online communication and daily society.",
+    "exampleTranslationChinese": "这句话展示 various 在online communication话题中的用法。",
+    "exampleTranslationJapanese": "この文は various の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_communication",
+      "verb"
+    ]
+  }
+]

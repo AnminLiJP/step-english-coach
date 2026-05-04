@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "g3-g-001",
+    "title": "现在完成 since / for",
+    "level": "grade3",
+    "explanationChinese": "现在完成 since / for 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "现在完成 since / for は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "have / has + past participle",
+    "examples": [
+      {
+        "english": "I have studied volunteer club since April.",
+        "chinese": "这个例句展示 现在完成 since / for 的基本用法。",
+        "japanese": "この例文は 现在完成 since / for の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I have studied volunteer club project since April.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "has studied",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成 since / for。正确答案符合结构：have / has + past participle。"
+      },
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "plays",
+          "has studied",
+          "playing",
+          "to played"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成 since / for。正确答案符合结构：have / has + past participle。"
+      },
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "playing",
+          "plays",
+          "has studied",
+          "to played"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成 since / for。正确答案符合结构：have / has + past participle。"
+      },
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "has studied"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成 since / for。正确答案符合结构：have / has + past participle。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-002",
+    "title": "现在完成经验用法",
+    "level": "grade3",
+    "explanationChinese": "现在完成经验用法 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "现在完成经验用法 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "have / has + past participle",
+    "examples": [
+      {
+        "english": "I have studied school festival since April.",
+        "chinese": "这个例句展示 现在完成经验用法 的基本用法。",
+        "japanese": "この例文は 现在完成经验用法 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I have studied school festival project since April.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "plays",
+          "has studied",
+          "playing",
+          "to played"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成经验用法。正确答案符合结构：have / has + past participle。"
+      },
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "playing",
+          "plays",
+          "has studied",
+          "to played"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成经验用法。正确答案符合结构：have / has + past participle。"
+      },
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "has studied"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成经验用法。正确答案符合结构：have / has + past participle。"
+      },
+      {
+        "question": "Choose the best answer: She (   ) English since April.",
+        "choices": [
+          "has studied",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "has studied",
+        "explanationChinese": "本题考查 现在完成经验用法。正确答案符合结构：have / has + past participle。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-003",
+    "title": "被动语态基础",
+    "level": "grade3",
+    "explanationChinese": "被动语态基础 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "被动语态基础 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "be + past participle",
+    "examples": [
+      {
+        "english": "This report was written by students.",
+        "chinese": "这个例句展示 被动语态基础 的基本用法。",
+        "japanese": "この例文は 被动语态基础 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "This report was written by students.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The hall (   ) last year.",
+        "choices": [
+          "playing",
+          "plays",
+          "was built",
+          "to played"
+        ],
+        "answer": "was built",
+        "explanationChinese": "本题考查 被动语态基础。正确答案符合结构：be + past participle。"
+      },
+      {
+        "question": "Choose the best answer: The hall (   ) last year.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "was built"
+        ],
+        "answer": "was built",
+        "explanationChinese": "本题考查 被动语态基础。正确答案符合结构：be + past participle。"
+      },
+      {
+        "question": "Choose the best answer: The hall (   ) last year.",
+        "choices": [
+          "was built",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "was built",
+        "explanationChinese": "本题考查 被动语态基础。正确答案符合结构：be + past participle。"
+      },
+      {
+        "question": "Choose the best answer: The hall (   ) last year.",
+        "choices": [
+          "plays",
+          "was built",
+          "playing",
+          "to played"
+        ],
+        "answer": "was built",
+        "explanationChinese": "本题考查 被动语态基础。正确答案符合结构：be + past participle。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-004",
+    "title": "关系代词 who",
+    "level": "grade3",
+    "explanationChinese": "关系代词 who 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "关系代词 who は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "noun + who / which / that / where / when + clause",
+    "examples": [
+      {
+        "english": "This is the place where students meet after school.",
+        "chinese": "这个例句展示 关系代词 who 的基本用法。",
+        "japanese": "この例文は 关系代词 who の基本的な使い方を示しています。"
+      },
+      {
+        "english": "This is the place where students meet after school.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "that"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 who。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      },
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "that",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 who。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      },
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "plays",
+          "that",
+          "playing",
+          "to played"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 who。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      },
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "playing",
+          "plays",
+          "that",
+          "to played"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 who。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-005",
+    "title": "关系代词 which / that",
+    "level": "grade3",
+    "explanationChinese": "关系代词 which / that 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "关系代词 which / that は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "noun + who / which / that / where / when + clause",
+    "examples": [
+      {
+        "english": "This is the place where students meet after school.",
+        "chinese": "这个例句展示 关系代词 which / that 的基本用法。",
+        "japanese": "この例文は 关系代词 which / that の基本的な使い方を示しています。"
+      },
+      {
+        "english": "This is the place where students meet after school.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "that",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 which / that。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      },
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "plays",
+          "that",
+          "playing",
+          "to played"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 which / that。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      },
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "playing",
+          "plays",
+          "that",
+          "to played"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 which / that。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      },
+      {
+        "question": "Choose the best answer: This is the book (   ) helped me.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "that"
+        ],
+        "answer": "that",
+        "explanationChinese": "本题考查 关系代词 which / that。正确答案符合结构：noun + who / which / that / where / when + clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-006",
+    "title": "不定词作目的",
+    "level": "grade3",
+    "explanationChinese": "不定词作目的 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "不定词作目的 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "to + base verb",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 不定词作目的 的基本用法。",
+        "japanese": "この例文は 不定词作目的 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "plays",
+          "to learn",
+          "playing",
+          "to played"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作目的。正确答案符合结构：to + base verb。"
+      },
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "playing",
+          "plays",
+          "to learn",
+          "to played"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作目的。正确答案符合结构：to + base verb。"
+      },
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "to learn"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作目的。正确答案符合结构：to + base verb。"
+      },
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "to learn",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作目的。正确答案符合结构：to + base verb。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-007",
+    "title": "不定词作原因",
+    "level": "grade3",
+    "explanationChinese": "不定词作原因 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "不定词作原因 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "to + base verb",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 不定词作原因 的基本用法。",
+        "japanese": "この例文は 不定词作原因 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "playing",
+          "plays",
+          "to learn",
+          "to played"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作原因。正确答案符合结构：to + base verb。"
+      },
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "to learn"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作原因。正确答案符合结构：to + base verb。"
+      },
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "to learn",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作原因。正确答案符合结构：to + base verb。"
+      },
+      {
+        "question": "Choose the best answer: I went to the library (   ) about history.",
+        "choices": [
+          "plays",
+          "to learn",
+          "playing",
+          "to played"
+        ],
+        "answer": "to learn",
+        "explanationChinese": "本题考查 不定词作原因。正确答案符合结构：to + base verb。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-008",
+    "title": "动名词作主语",
+    "level": "grade3",
+    "explanationChinese": "动名词作主语 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "动名词作主语 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "verb-ing as noun",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 动名词作主语 的基本用法。",
+        "japanese": "この例文は 动名词作主语 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: (   ) books is fun.",
+        "choices": [
+          "to played",
+          "plays",
+          "playing",
+          "reading"
+        ],
+        "answer": "reading",
+        "explanationChinese": "本题考查 动名词作主语。正确答案符合结构：verb-ing as noun。"
+      },
+      {
+        "question": "Choose the best answer: (   ) books is fun.",
+        "choices": [
+          "reading",
+          "plays",
+          "playing",
+          "to played"
+        ],
+        "answer": "reading",
+        "explanationChinese": "本题考查 动名词作主语。正确答案符合结构：verb-ing as noun。"
+      },
+      {
+        "question": "Choose the best answer: (   ) books is fun.",
+        "choices": [
+          "plays",
+          "reading",
+          "playing",
+          "to played"
+        ],
+        "answer": "reading",
+        "explanationChinese": "本题考查 动名词作主语。正确答案符合结构：verb-ing as noun。"
+      },
+      {
+        "question": "Choose the best answer: (   ) books is fun.",
+        "choices": [
+          "playing",
+          "plays",
+          "reading",
+          "to played"
+        ],
+        "answer": "reading",
+        "explanationChinese": "本题考查 动名词作主语。正确答案符合结构：verb-ing as noun。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-009",
+    "title": "too ... to",
+    "level": "grade3",
+    "explanationChinese": "too ... to 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "too ... to は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 too ... to 的基本用法。",
+        "japanese": "この例文は too ... to の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 too ... to。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 too ... to。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 too ... to。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 too ... to。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-010",
+    "title": "so ... that",
+    "level": "grade3",
+    "explanationChinese": "so ... that 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "so ... that は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 so ... that 的基本用法。",
+        "japanese": "この例文は so ... that の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 so ... that。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 so ... that。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 so ... that。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 so ... that。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-011",
+    "title": "ask 人 to do",
+    "level": "grade3",
+    "explanationChinese": "ask 人 to do 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "ask 人 to do は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 ask 人 to do 的基本用法。",
+        "japanese": "この例文は ask 人 to do の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 ask 人 to do。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 ask 人 to do。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 ask 人 to do。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 ask 人 to do。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-012",
+    "title": "make 人 形容词",
+    "level": "grade3",
+    "explanationChinese": "make 人 形容词 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "make 人 形容词 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 make 人 形容词 的基本用法。",
+        "japanese": "この例文は make 人 形容词 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 make 人 形容词。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 make 人 形容词。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 make 人 形容词。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 make 人 形容词。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-013",
+    "title": "because / although",
+    "level": "grade3",
+    "explanationChinese": "because / although 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "because / although は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 because / although 的基本用法。",
+        "japanese": "この例文は because / although の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 because / although。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 because / although。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 because / although。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 because / although。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-014",
+    "title": "if 条件句",
+    "level": "grade3",
+    "explanationChinese": "if 条件句 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "if 条件句 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 if 条件句 的基本用法。",
+        "japanese": "この例文は if 条件句 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 if 条件句。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 if 条件句。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 if 条件句。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 if 条件句。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  },
+  {
+    "id": "g3-g-015",
+    "title": "间接疑问句基础",
+    "level": "grade3",
+    "explanationChinese": "间接疑问句基础 是 英检3级 的重要语法点。做题时先看主语、时间词和句子前后关系，再选择符合结构的表达。",
+    "explanationJapanese": "间接疑问句基础 は 英检3级 で重要な文法です。主語、時を表す語、前後関係を確認しましょう。",
+    "structure": "main clause + connector + supporting clause",
+    "examples": [
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "这个例句展示 间接疑问句基础 的基本用法。",
+        "japanese": "この例文は 间接疑问句基础 の基本的な使い方を示しています。"
+      },
+      {
+        "english": "I joined the activity because it looked useful.",
+        "chinese": "注意句子中的关键词和语序。",
+        "japanese": "文のキーワードと語順に注意しましょう。"
+      }
+    ],
+    "commonMistakes": [
+      "只看中文意思，不看句子结构。",
+      "忽略时间词或主语单复数。",
+      "把相似结构混在一起使用。"
+    ],
+    "miniQuiz": [
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "to played",
+          "playing",
+          "plays",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 间接疑问句基础。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "was play",
+          "playing",
+          "to played",
+          "plays"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 间接疑问句基础。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "plays",
+          "playing",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 间接疑问句基础。正确答案符合结构：main clause + connector + supporting clause。"
+      },
+      {
+        "question": "Choose the best answer: The event was useful, so I (   ) it to my friend.",
+        "choices": [
+          "playing",
+          "plays",
+          "to played",
+          "was play"
+        ],
+        "answer": "plays",
+        "explanationChinese": "本题考查 间接疑问句基础。正确答案符合结构：main clause + connector + supporting clause。"
+      }
+    ]
+  }
+]

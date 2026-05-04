@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "g3-v-001",
+    "word": "review",
+    "phonetic": "/rɪˈvjuː/",
+    "japaneseMeaning": "復習する",
+    "chineseMeaning": "复习",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "I reviewed the words before the test.",
+    "exampleTranslationChinese": "考试前我复习了单词。",
+    "exampleTranslationJapanese": "テストの前に単語を復習しました。",
+    "synonyms": [
+      "study again"
+    ],
+    "antonyms": [
+      "forget"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g3-v-002",
+    "word": "experience",
+    "phonetic": "/ɪkˈspɪriəns/",
+    "japaneseMeaning": "経験",
+    "chineseMeaning": "经验，经历",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "The trip was a good experience for me.",
+    "exampleTranslationChinese": "这次旅行对我来说是很好的经历。",
+    "exampleTranslationJapanese": "その旅行は私にとって良い経験でした。",
+    "synonyms": [
+      "event"
+    ],
+    "antonyms": [],
+    "difficulty": 3,
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "g3-v-003",
+    "word": "decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "japaneseMeaning": "決める",
+    "chineseMeaning": "决定",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "We decided to join the volunteer club.",
+    "exampleTranslationChinese": "我们决定参加志愿者社团。",
+    "exampleTranslationJapanese": "私たちはボランティア部に入ることに決めました。",
+    "synonyms": [
+      "choose"
+    ],
+    "antonyms": [
+      "hesitate"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g3-v-004",
+    "word": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "japaneseMeaning": "説明する",
+    "chineseMeaning": "解释",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Please explain your idea clearly.",
+    "exampleTranslationChinese": "请清楚地解释你的想法。",
+    "exampleTranslationJapanese": "あなたの考えをはっきり説明してください。",
+    "synonyms": [
+      "describe"
+    ],
+    "antonyms": [
+      "confuse"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g3-v-005",
+    "word": "volunteer",
+    "phonetic": "/ˌvɑːlənˈtɪr/",
+    "japaneseMeaning": "ボランティア",
+    "chineseMeaning": "志愿者",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Many students joined the volunteer event.",
+    "exampleTranslationChinese": "许多学生参加了志愿活动。",
+    "exampleTranslationJapanese": "多くの生徒がボランティア活動に参加しました。",
+    "synonyms": [
+      "helper"
+    ],
+    "antonyms": [],
+    "difficulty": 3,
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "g3-v-006",
+    "word": "international",
+    "phonetic": "/ˌɪntərˈnæʃənəl/",
+    "japaneseMeaning": "国際的な",
+    "chineseMeaning": "国际的",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our school has an international festival.",
+    "exampleTranslationChinese": "我们学校有国际节。",
+    "exampleTranslationJapanese": "私たちの学校には国際祭があります。",
+    "synonyms": [
+      "global"
+    ],
+    "antonyms": [
+      "local"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "id": "g3-v-007",
+    "word": "environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "japaneseMeaning": "環境",
+    "chineseMeaning": "环境",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "We learned about the environment in science class.",
+    "exampleTranslationChinese": "我们在科学课上学习了环境。",
+    "exampleTranslationJapanese": "理科の授業で環境について学びました。",
+    "synonyms": [
+      "nature"
+    ],
+    "antonyms": [],
+    "difficulty": 3,
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "id": "g3-v-008",
+    "word": "technology",
+    "phonetic": "/tekˈnɑːlədʒi/",
+    "japaneseMeaning": "技術",
+    "chineseMeaning": "科技，技术",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Technology helps us study in many ways.",
+    "exampleTranslationChinese": "科技在许多方面帮助我们学习。",
+    "exampleTranslationJapanese": "技術は多くの方法で学習を助けます。",
+    "synonyms": [
+      "science"
+    ],
+    "antonyms": [],
+    "difficulty": 3,
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "g3-v-009",
+    "word": "confident",
+    "phonetic": "/ˈkɑːnfɪdənt/",
+    "japaneseMeaning": "自信がある",
+    "chineseMeaning": "有自信的",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "She became confident after the speech contest.",
+    "exampleTranslationChinese": "演讲比赛后她变得有自信。",
+    "exampleTranslationJapanese": "スピーチ大会の後、彼女は自信を持つようになりました。",
+    "synonyms": [
+      "sure"
+    ],
+    "antonyms": [
+      "nervous"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speaking"
+    ]
+  },
+  {
+    "id": "g3-v-010",
+    "word": "suggest",
+    "phonetic": "/səɡˈdʒest/",
+    "japaneseMeaning": "提案する",
+    "chineseMeaning": "建议",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "My teacher suggested reading English news.",
+    "exampleTranslationChinese": "老师建议读英语新闻。",
+    "exampleTranslationJapanese": "先生は英語ニュースを読むことを提案しました。",
+    "synonyms": [
+      "recommend"
+    ],
+    "antonyms": [],
+    "difficulty": 3,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g3-v-011",
+    "word": "activity",
+    "phonetic": "/activity/",
+    "japaneseMeaning": "activity の意味",
+    "chineseMeaning": "activity 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use activity in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 activity 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は activity の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "volunteer_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-012",
+    "word": "advice",
+    "phonetic": "/advice/",
+    "japaneseMeaning": "advice の意味",
+    "chineseMeaning": "advice 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use advice in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 advice 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は advice の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_festival",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-013",
+    "word": "announce",
+    "phonetic": "/announce/",
+    "japaneseMeaning": "announce の意味",
+    "chineseMeaning": "announce 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use announce in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 announce 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は announce の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "online_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-014",
+    "word": "article",
+    "phonetic": "/article/",
+    "japaneseMeaning": "article の意味",
+    "chineseMeaning": "article 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use article in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 article 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は article の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "library_report",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-015",
+    "word": "attend",
+    "phonetic": "/attend/",
+    "japaneseMeaning": "attend の意味",
+    "chineseMeaning": "attend 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use attend in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 attend 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は attend の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "international_event",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-016",
+    "word": "careless",
+    "phonetic": "/careless/",
+    "japaneseMeaning": "careless の意味",
+    "chineseMeaning": "careless 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use careless in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 careless 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は careless の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "science_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-017",
+    "word": "challenge",
+    "phonetic": "/challenge/",
+    "japaneseMeaning": "challenge の意味",
+    "chineseMeaning": "challenge 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use challenge in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 challenge 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は challenge の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "speech_contest",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-018",
+    "word": "choice",
+    "phonetic": "/choice/",
+    "japaneseMeaning": "choice の意味",
+    "chineseMeaning": "choice 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use choice in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 choice 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は choice の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_garden",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-019",
+    "word": "collect",
+    "phonetic": "/collect/",
+    "japaneseMeaning": "collect の意味",
+    "chineseMeaning": "collect 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use collect in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 collect 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は collect の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "email_from_friend",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-020",
+    "word": "compare",
+    "phonetic": "/compare/",
+    "japaneseMeaning": "compare の意味",
+    "chineseMeaning": "compare 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use compare in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 compare 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は compare の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "short_article",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-021",
+    "word": "condition",
+    "phonetic": "/condition/",
+    "japaneseMeaning": "condition の意味",
+    "chineseMeaning": "condition 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use condition in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 condition 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は condition の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "volunteer_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-022",
+    "word": "connect",
+    "phonetic": "/connect/",
+    "japaneseMeaning": "connect の意味",
+    "chineseMeaning": "connect 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use connect in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 connect 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は connect の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_festival",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-023",
+    "word": "continue",
+    "phonetic": "/continue/",
+    "japaneseMeaning": "continue の意味",
+    "chineseMeaning": "continue 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use continue in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 continue 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は continue の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-024",
+    "word": "culture",
+    "phonetic": "/culture/",
+    "japaneseMeaning": "culture の意味",
+    "chineseMeaning": "culture 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use culture in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 culture 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は culture の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_report",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-025",
+    "word": "daily",
+    "phonetic": "/daily/",
+    "japaneseMeaning": "daily の意味",
+    "chineseMeaning": "daily 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use daily in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 daily 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は daily の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "international_event",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-026",
+    "word": "describe",
+    "phonetic": "/describe/",
+    "japaneseMeaning": "describe の意味",
+    "chineseMeaning": "describe 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use describe in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 describe 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は describe の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "science_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-027",
+    "word": "develop",
+    "phonetic": "/develop/",
+    "japaneseMeaning": "develop の意味",
+    "chineseMeaning": "develop 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use develop in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 develop 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は develop の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speech_contest",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-028",
+    "word": "difference",
+    "phonetic": "/difference/",
+    "japaneseMeaning": "difference の意味",
+    "chineseMeaning": "difference 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use difference in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 difference 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は difference の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_garden",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-029",
+    "word": "discover",
+    "phonetic": "/discover/",
+    "japaneseMeaning": "discover の意味",
+    "chineseMeaning": "discover 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use discover in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 discover 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は discover の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "email_from_friend",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-030",
+    "word": "effort",
+    "phonetic": "/effort/",
+    "japaneseMeaning": "effort の意味",
+    "chineseMeaning": "effort 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use effort in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 effort 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は effort の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "short_article",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-031",
+    "word": "event",
+    "phonetic": "/event/",
+    "japaneseMeaning": "event の意味",
+    "chineseMeaning": "event 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use event in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 event 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は event の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "volunteer_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-032",
+    "word": "favorite",
+    "phonetic": "/favorite/",
+    "japaneseMeaning": "favorite の意味",
+    "chineseMeaning": "favorite 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use favorite in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 favorite 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は favorite の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_festival",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-033",
+    "word": "healthy",
+    "phonetic": "/healthy/",
+    "japaneseMeaning": "healthy の意味",
+    "chineseMeaning": "healthy 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use healthy in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 healthy 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は healthy の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "online_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-034",
+    "word": "improve",
+    "phonetic": "/improve/",
+    "japaneseMeaning": "improve の意味",
+    "chineseMeaning": "improve 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use improve in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 improve 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は improve の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_report",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-035",
+    "word": "include",
+    "phonetic": "/include/",
+    "japaneseMeaning": "include の意味",
+    "chineseMeaning": "include 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use include in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 include 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は include の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "international_event",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-036",
+    "word": "interest",
+    "phonetic": "/interest/",
+    "japaneseMeaning": "interest の意味",
+    "chineseMeaning": "interest 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use interest in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 interest 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は interest の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "science_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-037",
+    "word": "invite",
+    "phonetic": "/invite/",
+    "japaneseMeaning": "invite の意味",
+    "chineseMeaning": "invite 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use invite in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 invite 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は invite の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speech_contest",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-038",
+    "word": "local",
+    "phonetic": "/local/",
+    "japaneseMeaning": "local の意味",
+    "chineseMeaning": "local 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use local in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 local 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は local の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_garden",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-039",
+    "word": "message",
+    "phonetic": "/message/",
+    "japaneseMeaning": "message の意味",
+    "chineseMeaning": "message 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use message in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 message 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は message の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "email_from_friend",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-040",
+    "word": "necessary",
+    "phonetic": "/necessary/",
+    "japaneseMeaning": "necessary の意味",
+    "chineseMeaning": "necessary 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use necessary in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 necessary 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は necessary の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "short_article",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-041",
+    "word": "notice",
+    "phonetic": "/notice/",
+    "japaneseMeaning": "notice の意味",
+    "chineseMeaning": "notice 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use notice in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 notice 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は notice の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "volunteer_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-042",
+    "word": "opinion",
+    "phonetic": "/opinion/",
+    "japaneseMeaning": "opinion の意味",
+    "chineseMeaning": "opinion 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use opinion in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 opinion 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は opinion の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_festival",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-043",
+    "word": "prepare",
+    "phonetic": "/prepare/",
+    "japaneseMeaning": "prepare の意味",
+    "chineseMeaning": "prepare 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use prepare in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 prepare 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は prepare の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "online_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-044",
+    "word": "project",
+    "phonetic": "/project/",
+    "japaneseMeaning": "project の意味",
+    "chineseMeaning": "project 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use project in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 project 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は project の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "library_report",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-045",
+    "word": "reason",
+    "phonetic": "/reason/",
+    "japaneseMeaning": "reason の意味",
+    "chineseMeaning": "reason 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use reason in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 reason 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は reason の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "international_event",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-046",
+    "word": "receive",
+    "phonetic": "/receive/",
+    "japaneseMeaning": "receive の意味",
+    "chineseMeaning": "receive 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use receive in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 receive 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は receive の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "science_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-047",
+    "word": "recent",
+    "phonetic": "/recent/",
+    "japaneseMeaning": "recent の意味",
+    "chineseMeaning": "recent 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use recent in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 recent 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は recent の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "speech_contest",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-048",
+    "word": "remember",
+    "phonetic": "/remember/",
+    "japaneseMeaning": "remember の意味",
+    "chineseMeaning": "remember 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use remember in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 remember 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は remember の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_garden",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-049",
+    "word": "schedule",
+    "phonetic": "/schedule/",
+    "japaneseMeaning": "schedule の意味",
+    "chineseMeaning": "schedule 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use schedule in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 schedule 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は schedule の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "email_from_friend",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-050",
+    "word": "several",
+    "phonetic": "/several/",
+    "japaneseMeaning": "several の意味",
+    "chineseMeaning": "several 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use several in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 several 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は several の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "short_article",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-051",
+    "word": "share",
+    "phonetic": "/share/",
+    "japaneseMeaning": "share の意味",
+    "chineseMeaning": "share 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use share in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 share 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は share の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "volunteer_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-052",
+    "word": "similar",
+    "phonetic": "/similar/",
+    "japaneseMeaning": "similar の意味",
+    "chineseMeaning": "similar 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use similar in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 similar 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は similar の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_festival",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-053",
+    "word": "situation",
+    "phonetic": "/situation/",
+    "japaneseMeaning": "situation の意味",
+    "chineseMeaning": "situation 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use situation in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 situation 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は situation の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-054",
+    "word": "special",
+    "phonetic": "/special/",
+    "japaneseMeaning": "special の意味",
+    "chineseMeaning": "special 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use special in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 special 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は special の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_report",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-055",
+    "word": "support",
+    "phonetic": "/support/",
+    "japaneseMeaning": "support の意味",
+    "chineseMeaning": "support 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use support in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 support 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は support の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "international_event",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-056",
+    "word": "useful",
+    "phonetic": "/useful/",
+    "japaneseMeaning": "useful の意味",
+    "chineseMeaning": "useful 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use useful in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 useful 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は useful の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "science_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-057",
+    "word": "visitor",
+    "phonetic": "/visitor/",
+    "japaneseMeaning": "visitor の意味",
+    "chineseMeaning": "visitor 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use visitor in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 visitor 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は visitor の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speech_contest",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-058",
+    "word": "while",
+    "phonetic": "/while/",
+    "japaneseMeaning": "while の意味",
+    "chineseMeaning": "while 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use while in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 while 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は while の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_garden",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-059",
+    "word": "without",
+    "phonetic": "/without/",
+    "japaneseMeaning": "without の意味",
+    "chineseMeaning": "without 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use without in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 without 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は without の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "email_from_friend",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-060",
+    "word": "wonder",
+    "phonetic": "/wonder/",
+    "japaneseMeaning": "wonder の意味",
+    "chineseMeaning": "wonder 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use wonder in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 wonder 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は wonder の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "short_article",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-061",
+    "word": "achieve",
+    "phonetic": "/achieve/",
+    "japaneseMeaning": "achieve の意味",
+    "chineseMeaning": "achieve 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use achieve in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 achieve 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は achieve の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "volunteer_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-062",
+    "word": "allow",
+    "phonetic": "/allow/",
+    "japaneseMeaning": "allow の意味",
+    "chineseMeaning": "allow 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use allow in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 allow 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は allow の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_festival",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-063",
+    "word": "appear",
+    "phonetic": "/appear/",
+    "japaneseMeaning": "appear の意味",
+    "chineseMeaning": "appear 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use appear in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 appear 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は appear の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "online_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-064",
+    "word": "available",
+    "phonetic": "/available/",
+    "japaneseMeaning": "available の意味",
+    "chineseMeaning": "available 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use available in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 available 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は available の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_report",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-065",
+    "word": "balance",
+    "phonetic": "/balance/",
+    "japaneseMeaning": "balance の意味",
+    "chineseMeaning": "balance 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use balance in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 balance 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は balance の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "international_event",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-066",
+    "word": "benefit",
+    "phonetic": "/benefit/",
+    "japaneseMeaning": "benefit の意味",
+    "chineseMeaning": "benefit 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use benefit in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 benefit 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は benefit の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "science_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-067",
+    "word": "cause",
+    "phonetic": "/cause/",
+    "japaneseMeaning": "cause の意味",
+    "chineseMeaning": "cause 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use cause in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 cause 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は cause の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speech_contest",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-068",
+    "word": "comfortable",
+    "phonetic": "/comfortable/",
+    "japaneseMeaning": "comfortable の意味",
+    "chineseMeaning": "comfortable 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use comfortable in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 comfortable 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は comfortable の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_garden",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-069",
+    "word": "consider",
+    "phonetic": "/consider/",
+    "japaneseMeaning": "consider の意味",
+    "chineseMeaning": "consider 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use consider in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 consider 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は consider の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "email_from_friend",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-070",
+    "word": "create",
+    "phonetic": "/create/",
+    "japaneseMeaning": "create の意味",
+    "chineseMeaning": "create 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use create in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 create 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は create の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "short_article",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-071",
+    "word": "decision",
+    "phonetic": "/decision/",
+    "japaneseMeaning": "decision の意味",
+    "chineseMeaning": "decision 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use decision in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 decision 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は decision の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "volunteer_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-072",
+    "word": "education",
+    "phonetic": "/education/",
+    "japaneseMeaning": "education の意味",
+    "chineseMeaning": "education 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use education in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 education 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は education の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_festival",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-073",
+    "word": "effective",
+    "phonetic": "/effective/",
+    "japaneseMeaning": "effective の意味",
+    "chineseMeaning": "effective 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use effective in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 effective 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は effective の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "online_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-074",
+    "word": "especially",
+    "phonetic": "/especially/",
+    "japaneseMeaning": "especially の意味",
+    "chineseMeaning": "especially 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use especially in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 especially 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は especially の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "library_report",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-075",
+    "word": "focus",
+    "phonetic": "/focus/",
+    "japaneseMeaning": "focus の意味",
+    "chineseMeaning": "focus 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use focus in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 focus 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は focus の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "international_event",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-076",
+    "word": "habit",
+    "phonetic": "/habit/",
+    "japaneseMeaning": "habit の意味",
+    "chineseMeaning": "habit 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use habit in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 habit 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は habit の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "science_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-077",
+    "word": "instead",
+    "phonetic": "/instead/",
+    "japaneseMeaning": "instead の意味",
+    "chineseMeaning": "instead 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use instead in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 instead 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は instead の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "speech_contest",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-078",
+    "word": "knowledge",
+    "phonetic": "/knowledge/",
+    "japaneseMeaning": "knowledge の意味",
+    "chineseMeaning": "knowledge 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use knowledge in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 knowledge 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は knowledge の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_garden",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-079",
+    "word": "method",
+    "phonetic": "/method/",
+    "japaneseMeaning": "method の意味",
+    "chineseMeaning": "method 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use method in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 method 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は method の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "email_from_friend",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-080",
+    "word": "modern",
+    "phonetic": "/modern/",
+    "japaneseMeaning": "modern の意味",
+    "chineseMeaning": "modern 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use modern in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 modern 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は modern の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "short_article",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-081",
+    "word": "natural",
+    "phonetic": "/natural/",
+    "japaneseMeaning": "natural の意味",
+    "chineseMeaning": "natural 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use natural in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 natural 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は natural の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "volunteer_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-082",
+    "word": "patient",
+    "phonetic": "/patient/",
+    "japaneseMeaning": "patient の意味",
+    "chineseMeaning": "patient 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use patient in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 patient 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は patient の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_festival",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-083",
+    "word": "personal",
+    "phonetic": "/personal/",
+    "japaneseMeaning": "personal の意味",
+    "chineseMeaning": "personal 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use personal in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 personal 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は personal の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "online_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-084",
+    "word": "possible",
+    "phonetic": "/possible/",
+    "japaneseMeaning": "possible の意味",
+    "chineseMeaning": "possible 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use possible in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 possible 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は possible の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_report",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-085",
+    "word": "protect",
+    "phonetic": "/protect/",
+    "japaneseMeaning": "protect の意味",
+    "chineseMeaning": "protect 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use protect in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 protect 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は protect の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "international_event",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-086",
+    "word": "public",
+    "phonetic": "/public/",
+    "japaneseMeaning": "public の意味",
+    "chineseMeaning": "public 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use public in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 public 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は public の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "science_project",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-087",
+    "word": "purpose",
+    "phonetic": "/purpose/",
+    "japaneseMeaning": "purpose の意味",
+    "chineseMeaning": "purpose 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use purpose in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 purpose 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は purpose の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speech_contest",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-088",
+    "word": "quality",
+    "phonetic": "/quality/",
+    "japaneseMeaning": "quality の意味",
+    "chineseMeaning": "quality 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use quality in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 quality 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は quality の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_garden",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-089",
+    "word": "result",
+    "phonetic": "/result/",
+    "japaneseMeaning": "result の意味",
+    "chineseMeaning": "result 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use result in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 result 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は result の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "email_from_friend",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-090",
+    "word": "safe",
+    "phonetic": "/safe/",
+    "japaneseMeaning": "safe の意味",
+    "chineseMeaning": "safe 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use safe in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 safe 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は safe の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "short_article",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-091",
+    "word": "serious",
+    "phonetic": "/serious/",
+    "japaneseMeaning": "serious の意味",
+    "chineseMeaning": "serious 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use serious in a short report about volunteer club.",
+    "exampleTranslationChinese": "这句话展示 serious 在volunteer club话题中的用法。",
+    "exampleTranslationJapanese": "この文は serious の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "volunteer_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-092",
+    "word": "simple",
+    "phonetic": "/simple/",
+    "japaneseMeaning": "simple の意味",
+    "chineseMeaning": "simple 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use simple in a short report about school festival.",
+    "exampleTranslationChinese": "这句话展示 simple 在school festival话题中的用法。",
+    "exampleTranslationJapanese": "この文は simple の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "school_festival",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-093",
+    "word": "skill",
+    "phonetic": "/skill/",
+    "japaneseMeaning": "skill の意味",
+    "chineseMeaning": "skill 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use skill in a short report about online exchange.",
+    "exampleTranslationChinese": "这句话展示 skill 在online exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は skill の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "online_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-094",
+    "word": "society",
+    "phonetic": "/society/",
+    "japaneseMeaning": "society の意味",
+    "chineseMeaning": "society 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use society in a short report about library report.",
+    "exampleTranslationChinese": "这句话展示 society 在library report话题中的用法。",
+    "exampleTranslationJapanese": "この文は society の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_report",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-095",
+    "word": "solution",
+    "phonetic": "/solution/",
+    "japaneseMeaning": "solution の意味",
+    "chineseMeaning": "solution 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use solution in a short report about international event.",
+    "exampleTranslationChinese": "这句话展示 solution 在international event话题中的用法。",
+    "exampleTranslationJapanese": "この文は solution の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "international_event",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-096",
+    "word": "suggestion",
+    "phonetic": "/suggestion/",
+    "japaneseMeaning": "suggestion の意味",
+    "chineseMeaning": "suggestion 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use suggestion in a short report about science project.",
+    "exampleTranslationChinese": "这句话展示 suggestion 在science project话题中的用法。",
+    "exampleTranslationJapanese": "この文は suggestion の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "science_project",
+      "verb"
+    ]
+  },
+  {
+    "id": "g3-v-097",
+    "word": "traditional",
+    "phonetic": "/traditional/",
+    "japaneseMeaning": "traditional の意味",
+    "chineseMeaning": "traditional 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use traditional in a short report about speech contest.",
+    "exampleTranslationChinese": "这句话展示 traditional 在speech contest话题中的用法。",
+    "exampleTranslationJapanese": "この文は traditional の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "speech_contest",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g3-v-098",
+    "word": "transportation",
+    "phonetic": "/transportation/",
+    "japaneseMeaning": "transportation の意味",
+    "chineseMeaning": "transportation 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use transportation in a short report about community garden.",
+    "exampleTranslationChinese": "这句话展示 transportation 在community garden话题中的用法。",
+    "exampleTranslationJapanese": "この文は transportation の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "community_garden",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g3-v-099",
+    "word": "valuable",
+    "phonetic": "/valuable/",
+    "japaneseMeaning": "valuable の意味",
+    "chineseMeaning": "valuable 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use valuable in a short report about email from friend.",
+    "exampleTranslationChinese": "这句话展示 valuable 在email from friend话题中的用法。",
+    "exampleTranslationJapanese": "この文は valuable の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "email_from_friend",
+      "noun"
+    ]
+  },
+  {
+    "id": "g3-v-100",
+    "word": "various",
+    "phonetic": "/various/",
+    "japaneseMeaning": "various の意味",
+    "chineseMeaning": "various 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade3",
+    "exampleSentence": "Our teacher asked us to use various in a short report about short article.",
+    "exampleTranslationChinese": "这句话展示 various 在short article话题中的用法。",
+    "exampleTranslationJapanese": "この文は various の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "short_article",
+      "verb"
+    ]
+  }
+]

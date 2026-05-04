@@ -1,0 +1,3622 @@
+[
+  {
+    "examId": "g3-mock-1",
+    "level": "grade3",
+    "title": "英检3级 Mock Exam 1",
+    "estimatedMinutes": 65,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g3-q-001",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"review\" to explain their ideas clearly. What does \"review\" mean here? [Set 1]",
+          "choices": [
+            "review 的反义表达",
+            "复习",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "复习",
+          "explanationChinese": "根据上下文，review 在这里表示“复习”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から review は「復習する」の意味です。"
+        },
+        {
+          "id": "g3-q-006",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"international\" to explain their ideas clearly. What does \"international\" mean here? [Set 6]",
+          "choices": [
+            "science project 相关地点",
+            "international 的反义表达",
+            "国际的",
+            "不符合上下文的意思"
+          ],
+          "answer": "国际的",
+          "explanationChinese": "根据上下文，international 在这里表示“国际的”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から international は「国際的な」の意味です。"
+        },
+        {
+          "id": "g3-q-011",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"activity\" to explain their ideas clearly. What does \"activity\" mean here? [Set 11]",
+          "choices": [
+            "不符合上下文的意思",
+            "activity 的反义表达",
+            "volunteer club 相关地点",
+            "activity 的意思"
+          ],
+          "answer": "activity 的意思",
+          "explanationChinese": "根据上下文，activity 在这里表示“activity 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-016",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"careless\" to explain their ideas clearly. What does \"careless\" mean here? [Set 16]",
+          "choices": [
+            "careless 的意思",
+            "careless 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "careless 的意思",
+          "explanationChinese": "根据上下文，careless 在这里表示“careless 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-021",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"condition\" to explain their ideas clearly. What does \"condition\" mean here? [Set 21]",
+          "choices": [
+            "condition 的反义表达",
+            "condition 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "condition 的意思",
+          "explanationChinese": "根据上下文，condition 在这里表示“condition 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-026",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"describe\" to explain their ideas clearly. What does \"describe\" mean here? [Set 26]",
+          "choices": [
+            "science project 相关地点",
+            "describe 的反义表达",
+            "describe 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "describe 的意思",
+          "explanationChinese": "根据上下文，describe 在这里表示“describe 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から describe は「describe の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-031",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"event\" to explain their ideas clearly. What does \"event\" mean here? [Set 31]",
+          "choices": [
+            "不符合上下文的意思",
+            "event 的反义表达",
+            "volunteer club 相关地点",
+            "event 的意思"
+          ],
+          "answer": "event 的意思",
+          "explanationChinese": "根据上下文，event 在这里表示“event 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から event は「event の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-036",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"interest\" to explain their ideas clearly. What does \"interest\" mean here? [Set 36]",
+          "choices": [
+            "interest 的意思",
+            "interest 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "interest 的意思",
+          "explanationChinese": "根据上下文，interest 在这里表示“interest 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から interest は「interest の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g3-q-002",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "was built",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-007",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "reading"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-012",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / school festival / Q12)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-017",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / speech contest / Q17)",
+          "choices": [
+            "play",
+            "was built",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-022",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / school festival / Q22)",
+          "choices": [
+            "playing",
+            "play",
+            "reading",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-027",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / speech contest / Q27)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-032",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q32)",
+          "choices": [
+            "was built",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-037",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q37)",
+          "choices": [
+            "play",
+            "reading",
+            "playing",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g3-q-003",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-008",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q8)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-013",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-018",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-023",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q23)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-028",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q28)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-033",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q33)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-038",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q38)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-043",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q43)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-048",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q48)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g3-q-005",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 5. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-010",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 10. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-015",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 15. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What do you still need to do?"
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-020",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 20. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What do you still need to do?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-025",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 25. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "g3-w-1-email",
+          "prompt": "You received an e-mail from your friend about a school event. Write a reply and answer the question.",
+          "targetWords": "15-25 words",
+          "sampleAnswer": "Hi Alex,\n\nI like sports day best. The relay race is exciting, and my classmates cheer loudly.\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Give one detail.",
+            "Use a short e-mail style."
+          ]
+        },
+        {
+          "id": "g3-w-1-opinion",
+          "prompt": "Which do you like better, studying alone or studying with friends?",
+          "targetWords": "25-35 words",
+          "sampleAnswer": "I like studying with friends better. We can ask each other questions, so difficult homework becomes easier. Also, it is more fun.",
+          "points": [
+            "State your opinion.",
+            "Give a reason.",
+            "Use clear sentences."
+          ]
+        }
+      ],
+      "answerKey": {
+        "g3-q-001": "复习",
+        "g3-q-006": "国际的",
+        "g3-q-011": "activity 的意思",
+        "g3-q-016": "careless 的意思",
+        "g3-q-021": "condition 的意思",
+        "g3-q-026": "describe 的意思",
+        "g3-q-031": "event 的意思",
+        "g3-q-036": "interest 的意思",
+        "g3-q-002": "was built",
+        "g3-q-007": "reading",
+        "g3-q-012": "plays",
+        "g3-q-017": "was built",
+        "g3-q-022": "reading",
+        "g3-q-027": "plays",
+        "g3-q-032": "was built",
+        "g3-q-037": "reading",
+        "g3-q-003": "Kota learned from a useful experience.",
+        "g3-q-008": "Kota learned from a useful experience.",
+        "g3-q-013": "Kota learned from a useful experience.",
+        "g3-q-018": "Kota learned from a useful experience.",
+        "g3-q-023": "Kota learned from a useful experience.",
+        "g3-q-028": "Kota learned from a useful experience.",
+        "g3-q-033": "Kota learned from a useful experience.",
+        "g3-q-038": "Kota learned from a useful experience.",
+        "g3-q-043": "Kota learned from a useful experience.",
+        "g3-q-048": "Kota learned from a useful experience.",
+        "g3-q-005": "What do you still need to do?",
+        "g3-q-010": "What do you still need to do?",
+        "g3-q-015": "What do you still need to do?",
+        "g3-q-020": "What do you still need to do?",
+        "g3-q-025": "What do you still need to do?"
+      }
+    }
+  },
+  {
+    "examId": "g3-mock-2",
+    "level": "grade3",
+    "title": "英检3级 Mock Exam 2",
+    "estimatedMinutes": 65,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g3-q-086",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"public\" to explain their ideas clearly. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "science project 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-091",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"serious\" to explain their ideas clearly. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "volunteer club 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-096",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"suggestion\" to explain their ideas clearly. What does \"suggestion\" mean here? [Set 96]",
+          "choices": [
+            "suggestion 的意思",
+            "suggestion 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "suggestion 的意思",
+          "explanationChinese": "根据上下文，suggestion 在这里表示“suggestion 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-001",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"review\" to explain their ideas clearly. What does \"review\" mean here? [Set 1]",
+          "choices": [
+            "review 的反义表达",
+            "复习",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "复习",
+          "explanationChinese": "根据上下文，review 在这里表示“复习”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から review は「復習する」の意味です。"
+        },
+        {
+          "id": "g3-q-006",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"international\" to explain their ideas clearly. What does \"international\" mean here? [Set 6]",
+          "choices": [
+            "science project 相关地点",
+            "international 的反义表达",
+            "国际的",
+            "不符合上下文的意思"
+          ],
+          "answer": "国际的",
+          "explanationChinese": "根据上下文，international 在这里表示“国际的”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から international は「国際的な」の意味です。"
+        },
+        {
+          "id": "g3-q-011",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"activity\" to explain their ideas clearly. What does \"activity\" mean here? [Set 11]",
+          "choices": [
+            "不符合上下文的意思",
+            "activity 的反义表达",
+            "volunteer club 相关地点",
+            "activity 的意思"
+          ],
+          "answer": "activity 的意思",
+          "explanationChinese": "根据上下文，activity 在这里表示“activity 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-016",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"careless\" to explain their ideas clearly. What does \"careless\" mean here? [Set 16]",
+          "choices": [
+            "careless 的意思",
+            "careless 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "careless 的意思",
+          "explanationChinese": "根据上下文，careless 在这里表示“careless 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-021",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"condition\" to explain their ideas clearly. What does \"condition\" mean here? [Set 21]",
+          "choices": [
+            "condition 的反义表达",
+            "condition 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "condition 的意思",
+          "explanationChinese": "根据上下文，condition 在这里表示“condition 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g3-q-087",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / speech contest / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-092",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q92)",
+          "choices": [
+            "was built",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-097",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q97)",
+          "choices": [
+            "play",
+            "reading",
+            "playing",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-002",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "was built",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-007",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "reading"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-012",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / school festival / Q12)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-017",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / speech contest / Q17)",
+          "choices": [
+            "play",
+            "was built",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-022",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / school festival / Q22)",
+          "choices": [
+            "playing",
+            "play",
+            "reading",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g3-q-088",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q88)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-093",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-098",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-003",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-008",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q8)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-013",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-018",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-023",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q23)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-028",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q28)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-033",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q33)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g3-q-090",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 90. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-095",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 95. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What do you still need to do?"
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-100",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 100. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What do you still need to do?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-005",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 5. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-010",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 10. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "g3-w-2-email",
+          "prompt": "You received an e-mail from your friend about a school event. Write a reply and answer the question.",
+          "targetWords": "15-25 words",
+          "sampleAnswer": "Hi Alex,\n\nI like sports day best. The relay race is exciting, and my classmates cheer loudly.\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Give one detail.",
+            "Use a short e-mail style."
+          ]
+        },
+        {
+          "id": "g3-w-2-opinion",
+          "prompt": "Which do you like better, studying alone or studying with friends?",
+          "targetWords": "25-35 words",
+          "sampleAnswer": "I like studying with friends better. We can ask each other questions, so difficult homework becomes easier. Also, it is more fun.",
+          "points": [
+            "State your opinion.",
+            "Give a reason.",
+            "Use clear sentences."
+          ]
+        }
+      ],
+      "answerKey": {
+        "g3-q-086": "public 的意思",
+        "g3-q-091": "serious 的意思",
+        "g3-q-096": "suggestion 的意思",
+        "g3-q-001": "复习",
+        "g3-q-006": "国际的",
+        "g3-q-011": "activity 的意思",
+        "g3-q-016": "careless 的意思",
+        "g3-q-021": "condition 的意思",
+        "g3-q-087": "plays",
+        "g3-q-092": "was built",
+        "g3-q-097": "reading",
+        "g3-q-002": "was built",
+        "g3-q-007": "reading",
+        "g3-q-012": "plays",
+        "g3-q-017": "was built",
+        "g3-q-022": "reading",
+        "g3-q-088": "Kota learned from a useful experience.",
+        "g3-q-093": "Kota learned from a useful experience.",
+        "g3-q-098": "Kota learned from a useful experience.",
+        "g3-q-003": "Kota learned from a useful experience.",
+        "g3-q-008": "Kota learned from a useful experience.",
+        "g3-q-013": "Kota learned from a useful experience.",
+        "g3-q-018": "Kota learned from a useful experience.",
+        "g3-q-023": "Kota learned from a useful experience.",
+        "g3-q-028": "Kota learned from a useful experience.",
+        "g3-q-033": "Kota learned from a useful experience.",
+        "g3-q-090": "What do you still need to do?",
+        "g3-q-095": "What do you still need to do?",
+        "g3-q-100": "What do you still need to do?",
+        "g3-q-005": "What do you still need to do?",
+        "g3-q-010": "What do you still need to do?"
+      }
+    }
+  },
+  {
+    "examId": "g3-mock-3",
+    "level": "grade3",
+    "title": "英检3级 Mock Exam 3",
+    "estimatedMinutes": 65,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g3-q-071",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"decision\" to explain their ideas clearly. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "volunteer club 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-076",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"habit\" to explain their ideas clearly. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-081",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"natural\" to explain their ideas clearly. What does \"natural\" mean here? [Set 81]",
+          "choices": [
+            "natural 的反义表达",
+            "natural 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "natural 的意思",
+          "explanationChinese": "根据上下文，natural 在这里表示“natural 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-086",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"public\" to explain their ideas clearly. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "science project 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-091",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"serious\" to explain their ideas clearly. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "volunteer club 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-096",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"suggestion\" to explain their ideas clearly. What does \"suggestion\" mean here? [Set 96]",
+          "choices": [
+            "suggestion 的意思",
+            "suggestion 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "suggestion 的意思",
+          "explanationChinese": "根据上下文，suggestion 在这里表示“suggestion 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-001",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"review\" to explain their ideas clearly. What does \"review\" mean here? [Set 1]",
+          "choices": [
+            "review 的反义表达",
+            "复习",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "复习",
+          "explanationChinese": "根据上下文，review 在这里表示“复习”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から review は「復習する」の意味です。"
+        },
+        {
+          "id": "g3-q-006",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"international\" to explain their ideas clearly. What does \"international\" mean here? [Set 6]",
+          "choices": [
+            "science project 相关地点",
+            "international 的反义表达",
+            "国际的",
+            "不符合上下文的意思"
+          ],
+          "answer": "国际的",
+          "explanationChinese": "根据上下文，international 在这里表示“国际的”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から international は「国際的な」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g3-q-072",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / school festival / Q72)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-077",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / speech contest / Q77)",
+          "choices": [
+            "play",
+            "was built",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-082",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / school festival / Q82)",
+          "choices": [
+            "playing",
+            "play",
+            "reading",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-087",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / speech contest / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-092",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q92)",
+          "choices": [
+            "was built",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-097",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q97)",
+          "choices": [
+            "play",
+            "reading",
+            "playing",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-002",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q2)",
+          "choices": [
+            "playing",
+            "play",
+            "was built",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-007",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q7)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "reading"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g3-q-073",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-078",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-083",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-088",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q88)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-093",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-098",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-003",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-008",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q8)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-013",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q13)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-018",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q18)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g3-q-075",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 75. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What do you still need to do?"
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-080",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 80. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What do you still need to do?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-085",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 85. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-090",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 90. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-095",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 95. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What do you still need to do?"
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "g3-w-3-email",
+          "prompt": "You received an e-mail from your friend about a school event. Write a reply and answer the question.",
+          "targetWords": "15-25 words",
+          "sampleAnswer": "Hi Alex,\n\nI like sports day best. The relay race is exciting, and my classmates cheer loudly.\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Give one detail.",
+            "Use a short e-mail style."
+          ]
+        },
+        {
+          "id": "g3-w-3-opinion",
+          "prompt": "Which do you like better, studying alone or studying with friends?",
+          "targetWords": "25-35 words",
+          "sampleAnswer": "I like studying with friends better. We can ask each other questions, so difficult homework becomes easier. Also, it is more fun.",
+          "points": [
+            "State your opinion.",
+            "Give a reason.",
+            "Use clear sentences."
+          ]
+        }
+      ],
+      "answerKey": {
+        "g3-q-071": "decision 的意思",
+        "g3-q-076": "habit 的意思",
+        "g3-q-081": "natural 的意思",
+        "g3-q-086": "public 的意思",
+        "g3-q-091": "serious 的意思",
+        "g3-q-096": "suggestion 的意思",
+        "g3-q-001": "复习",
+        "g3-q-006": "国际的",
+        "g3-q-072": "plays",
+        "g3-q-077": "was built",
+        "g3-q-082": "reading",
+        "g3-q-087": "plays",
+        "g3-q-092": "was built",
+        "g3-q-097": "reading",
+        "g3-q-002": "was built",
+        "g3-q-007": "reading",
+        "g3-q-073": "Kota learned from a useful experience.",
+        "g3-q-078": "Kota learned from a useful experience.",
+        "g3-q-083": "Kota learned from a useful experience.",
+        "g3-q-088": "Kota learned from a useful experience.",
+        "g3-q-093": "Kota learned from a useful experience.",
+        "g3-q-098": "Kota learned from a useful experience.",
+        "g3-q-003": "Kota learned from a useful experience.",
+        "g3-q-008": "Kota learned from a useful experience.",
+        "g3-q-013": "Kota learned from a useful experience.",
+        "g3-q-018": "Kota learned from a useful experience.",
+        "g3-q-075": "What do you still need to do?",
+        "g3-q-080": "What do you still need to do?",
+        "g3-q-085": "What do you still need to do?",
+        "g3-q-090": "What do you still need to do?",
+        "g3-q-095": "What do you still need to do?"
+      }
+    }
+  },
+  {
+    "examId": "g3-mock-4",
+    "level": "grade3",
+    "title": "英检3级 Mock Exam 4",
+    "estimatedMinutes": 65,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g3-q-056",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"useful\" to explain their ideas clearly. What does \"useful\" mean here? [Set 56]",
+          "choices": [
+            "useful 的意思",
+            "useful 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "useful 的意思",
+          "explanationChinese": "根据上下文，useful 在这里表示“useful 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-061",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"achieve\" to explain their ideas clearly. What does \"achieve\" mean here? [Set 61]",
+          "choices": [
+            "achieve 的反义表达",
+            "achieve 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "achieve 的意思",
+          "explanationChinese": "根据上下文，achieve 在这里表示“achieve 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-066",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"benefit\" to explain their ideas clearly. What does \"benefit\" mean here? [Set 66]",
+          "choices": [
+            "science project 相关地点",
+            "benefit 的反义表达",
+            "benefit 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "benefit 的意思",
+          "explanationChinese": "根据上下文，benefit 在这里表示“benefit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-071",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"decision\" to explain their ideas clearly. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "volunteer club 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-076",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"habit\" to explain their ideas clearly. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-081",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"natural\" to explain their ideas clearly. What does \"natural\" mean here? [Set 81]",
+          "choices": [
+            "natural 的反义表达",
+            "natural 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "natural 的意思",
+          "explanationChinese": "根据上下文，natural 在这里表示“natural 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-086",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"public\" to explain their ideas clearly. What does \"public\" mean here? [Set 86]",
+          "choices": [
+            "science project 相关地点",
+            "public 的反义表达",
+            "public 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "public 的意思",
+          "explanationChinese": "根据上下文，public 在这里表示“public 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-091",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"serious\" to explain their ideas clearly. What does \"serious\" mean here? [Set 91]",
+          "choices": [
+            "不符合上下文的意思",
+            "serious 的反义表达",
+            "volunteer club 相关地点",
+            "serious 的意思"
+          ],
+          "answer": "serious 的意思",
+          "explanationChinese": "根据上下文，serious 在这里表示“serious 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g3-q-057",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / speech contest / Q57)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-062",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q62)",
+          "choices": [
+            "playing",
+            "play",
+            "was built",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-067",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q67)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "reading"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-072",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / school festival / Q72)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-077",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / speech contest / Q77)",
+          "choices": [
+            "play",
+            "was built",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-082",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / school festival / Q82)",
+          "choices": [
+            "playing",
+            "play",
+            "reading",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-087",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / speech contest / Q87)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "plays"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-092",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q92)",
+          "choices": [
+            "was built",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g3-q-058",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q58)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-063",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q63)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-068",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q68)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-073",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-078",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-083",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-088",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q88)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-093",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q93)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-098",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q98)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-003",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q3)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g3-q-060",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 60. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What do you still need to do?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-065",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 65. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-070",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 70. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-075",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 75. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What do you still need to do?"
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-080",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 80. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What do you still need to do?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "g3-w-4-email",
+          "prompt": "You received an e-mail from your friend about a school event. Write a reply and answer the question.",
+          "targetWords": "15-25 words",
+          "sampleAnswer": "Hi Alex,\n\nI like sports day best. The relay race is exciting, and my classmates cheer loudly.\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Give one detail.",
+            "Use a short e-mail style."
+          ]
+        },
+        {
+          "id": "g3-w-4-opinion",
+          "prompt": "Which do you like better, studying alone or studying with friends?",
+          "targetWords": "25-35 words",
+          "sampleAnswer": "I like studying with friends better. We can ask each other questions, so difficult homework becomes easier. Also, it is more fun.",
+          "points": [
+            "State your opinion.",
+            "Give a reason.",
+            "Use clear sentences."
+          ]
+        }
+      ],
+      "answerKey": {
+        "g3-q-056": "useful 的意思",
+        "g3-q-061": "achieve 的意思",
+        "g3-q-066": "benefit 的意思",
+        "g3-q-071": "decision 的意思",
+        "g3-q-076": "habit 的意思",
+        "g3-q-081": "natural 的意思",
+        "g3-q-086": "public 的意思",
+        "g3-q-091": "serious 的意思",
+        "g3-q-057": "plays",
+        "g3-q-062": "was built",
+        "g3-q-067": "reading",
+        "g3-q-072": "plays",
+        "g3-q-077": "was built",
+        "g3-q-082": "reading",
+        "g3-q-087": "plays",
+        "g3-q-092": "was built",
+        "g3-q-058": "Kota learned from a useful experience.",
+        "g3-q-063": "Kota learned from a useful experience.",
+        "g3-q-068": "Kota learned from a useful experience.",
+        "g3-q-073": "Kota learned from a useful experience.",
+        "g3-q-078": "Kota learned from a useful experience.",
+        "g3-q-083": "Kota learned from a useful experience.",
+        "g3-q-088": "Kota learned from a useful experience.",
+        "g3-q-093": "Kota learned from a useful experience.",
+        "g3-q-098": "Kota learned from a useful experience.",
+        "g3-q-003": "Kota learned from a useful experience.",
+        "g3-q-060": "What do you still need to do?",
+        "g3-q-065": "What do you still need to do?",
+        "g3-q-070": "What do you still need to do?",
+        "g3-q-075": "What do you still need to do?",
+        "g3-q-080": "What do you still need to do?"
+      }
+    }
+  },
+  {
+    "examId": "g3-mock-5",
+    "level": "grade3",
+    "title": "英检3级 Mock Exam 5",
+    "estimatedMinutes": 65,
+    "sections": {
+      "vocabulary": [
+        {
+          "id": "g3-q-041",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"notice\" to explain their ideas clearly. What does \"notice\" mean here? [Set 41]",
+          "choices": [
+            "notice 的反义表达",
+            "notice 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "notice 的意思",
+          "explanationChinese": "根据上下文，notice 在这里表示“notice 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から notice は「notice の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-046",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"receive\" to explain their ideas clearly. What does \"receive\" mean here? [Set 46]",
+          "choices": [
+            "science project 相关地点",
+            "receive 的反义表达",
+            "receive 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "receive 的意思",
+          "explanationChinese": "根据上下文，receive 在这里表示“receive 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から receive は「receive の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-051",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"share\" to explain their ideas clearly. What does \"share\" mean here? [Set 51]",
+          "choices": [
+            "不符合上下文的意思",
+            "share 的反义表达",
+            "volunteer club 相关地点",
+            "share 的意思"
+          ],
+          "answer": "share 的意思",
+          "explanationChinese": "根据上下文，share 在这里表示“share 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から share は「share の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-056",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"useful\" to explain their ideas clearly. What does \"useful\" mean here? [Set 56]",
+          "choices": [
+            "useful 的意思",
+            "useful 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "useful 的意思",
+          "explanationChinese": "根据上下文，useful 在这里表示“useful 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-061",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"achieve\" to explain their ideas clearly. What does \"achieve\" mean here? [Set 61]",
+          "choices": [
+            "achieve 的反义表达",
+            "achieve 的意思",
+            "volunteer club 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "achieve 的意思",
+          "explanationChinese": "根据上下文，achieve 在这里表示“achieve 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-066",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"benefit\" to explain their ideas clearly. What does \"benefit\" mean here? [Set 66]",
+          "choices": [
+            "science project 相关地点",
+            "benefit 的反义表达",
+            "benefit 的意思",
+            "不符合上下文的意思"
+          ],
+          "answer": "benefit 的意思",
+          "explanationChinese": "根据上下文，benefit 在这里表示“benefit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-071",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "vocabulary",
+            "volunteer_club"
+          ],
+          "question": "During the volunteer club, students used \"decision\" to explain their ideas clearly. What does \"decision\" mean here? [Set 71]",
+          "choices": [
+            "不符合上下文的意思",
+            "decision 的反义表达",
+            "volunteer club 相关地点",
+            "decision 的意思"
+          ],
+          "answer": "decision 的意思",
+          "explanationChinese": "根据上下文，decision 在这里表示“decision 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+        },
+        {
+          "id": "g3-q-076",
+          "level": "grade3",
+          "type": "vocabulary",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "vocabulary",
+            "science_project"
+          ],
+          "question": "During the science project, students used \"habit\" to explain their ideas clearly. What does \"habit\" mean here? [Set 76]",
+          "choices": [
+            "habit 的意思",
+            "habit 的反义表达",
+            "science project 相关地点",
+            "不符合上下文的意思"
+          ],
+          "answer": "habit 的意思",
+          "explanationChinese": "根据上下文，habit 在这里表示“habit 的意思”。不要只看单词外形，要看后面的情境线索。",
+          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "g3-q-042",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / school festival / Q42)",
+          "choices": [
+            "playing",
+            "play",
+            "plays",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-047",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / speech contest / Q47)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "was built"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-052",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / school festival / Q52)",
+          "choices": [
+            "reading",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-057",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / speech contest / Q57)",
+          "choices": [
+            "play",
+            "plays",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-062",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / school festival / Q62)",
+          "choices": [
+            "playing",
+            "play",
+            "was built",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-067",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "(   ) books is fun. (动名词作主语 / speech contest / Q67)",
+          "choices": [
+            "to played",
+            "play",
+            "playing",
+            "reading"
+          ],
+          "answer": "reading",
+          "explanationChinese": "本题考查 动名词作主语。应选择符合结构“verb-ing as noun”的形式。",
+          "explanationJapanese": "动名词作主语 の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-072",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "grammar",
+            "school_festival"
+          ],
+          "question": "The event was useful, so I (   ) it to my friend. (because / although / school festival / Q72)",
+          "choices": [
+            "plays",
+            "play",
+            "playing",
+            "to played"
+          ],
+          "answer": "plays",
+          "explanationChinese": "本题考查 because / although。应选择符合结构“main clause + connector + supporting clause”的形式。",
+          "explanationJapanese": "because / although の問題です。正しい形を選びます。"
+        },
+        {
+          "id": "g3-q-077",
+          "level": "grade3",
+          "type": "grammar",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "grammar",
+            "speech_contest"
+          ],
+          "question": "The hall (   ) last year. (被动语态基础 / speech contest / Q77)",
+          "choices": [
+            "play",
+            "was built",
+            "playing",
+            "to played"
+          ],
+          "answer": "was built",
+          "explanationChinese": "本题考查 被动语态基础。应选择符合结构“be + past participle”的形式。",
+          "explanationJapanese": "被动语态基础 の問題です。正しい形を選びます。"
+        }
+      ],
+      "reading": [
+        {
+          "id": "g3-q-043",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q43)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-048",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q48)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-053",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q53)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-058",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q58)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-063",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q63)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-068",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q68)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-073",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q73)",
+          "choices": [
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-078",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q78)",
+          "choices": [
+            "The event was canceled because of snow.",
+            "The student stopped studying English.",
+            "Kota learned from a useful experience.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-083",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a online exchange because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 3,
+          "skillTags": [
+            "reading",
+            "online_exchange"
+          ],
+          "question": "What is the main point of this online exchange passage? (Q83)",
+          "choices": [
+            "The writer only talks about old food.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "Kota learned from a useful experience."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        },
+        {
+          "id": "g3-q-088",
+          "level": "grade3",
+          "type": "reading",
+          "passage": "Kota joined a community garden because he wanted to try something new. At first, he was nervous, but his classmates helped him. After the event, he wrote a short report and said the experience was useful.",
+          "difficulty": 4,
+          "skillTags": [
+            "reading",
+            "community_garden"
+          ],
+          "question": "What is the main point of this community garden passage? (Q88)",
+          "choices": [
+            "Kota learned from a useful experience.",
+            "The student stopped studying English.",
+            "The event was canceled because of snow.",
+            "The writer only talks about old food."
+          ],
+          "answer": "Kota learned from a useful experience.",
+          "explanationChinese": "短文主要说明 Kota learned from a useful experience.。解题时先抓主题句，再看具体例子。",
+          "explanationJapanese": "本文の中心内容を選びます。"
+        }
+      ],
+      "shortDialogue": [
+        {
+          "id": "g3-q-045",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 45. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-050",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 50. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "I ate breakfast at seven.",
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-055",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 55. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "The station is very old.",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "What do you still need to do?"
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-060",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 4,
+          "skillTags": [
+            "short_dialogue",
+            "short_article"
+          ],
+          "question": "A: I am preparing for our short article task 60. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "What do you still need to do?",
+            "Where did you put your shoes?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        },
+        {
+          "id": "g3-q-065",
+          "level": "grade3",
+          "type": "short_dialogue",
+          "passage": "",
+          "difficulty": 3,
+          "skillTags": [
+            "short_dialogue",
+            "international_event"
+          ],
+          "question": "A: I am preparing for our international event task 65. B: That sounds interesting. (   ) A: I need to finish it by Friday.",
+          "choices": [
+            "Where did you put your shoes?",
+            "What do you still need to do?",
+            "I ate breakfast at seven.",
+            "The station is very old."
+          ],
+          "answer": "What do you still need to do?",
+          "explanationChinese": "A 最后回答的是截止时间，所以空格处应询问计划或任务的情况。",
+          "explanationJapanese": "最後の答えに合う質問を選びます。"
+        }
+      ],
+      "writing": [
+        {
+          "id": "g3-w-5-email",
+          "prompt": "You received an e-mail from your friend about a school event. Write a reply and answer the question.",
+          "targetWords": "15-25 words",
+          "sampleAnswer": "Hi Alex,\n\nI like sports day best. The relay race is exciting, and my classmates cheer loudly.\n\nYuki",
+          "points": [
+            "Answer the question.",
+            "Give one detail.",
+            "Use a short e-mail style."
+          ]
+        },
+        {
+          "id": "g3-w-5-opinion",
+          "prompt": "Which do you like better, studying alone or studying with friends?",
+          "targetWords": "25-35 words",
+          "sampleAnswer": "I like studying with friends better. We can ask each other questions, so difficult homework becomes easier. Also, it is more fun.",
+          "points": [
+            "State your opinion.",
+            "Give a reason.",
+            "Use clear sentences."
+          ]
+        }
+      ],
+      "answerKey": {
+        "g3-q-041": "notice 的意思",
+        "g3-q-046": "receive 的意思",
+        "g3-q-051": "share 的意思",
+        "g3-q-056": "useful 的意思",
+        "g3-q-061": "achieve 的意思",
+        "g3-q-066": "benefit 的意思",
+        "g3-q-071": "decision 的意思",
+        "g3-q-076": "habit 的意思",
+        "g3-q-042": "plays",
+        "g3-q-047": "was built",
+        "g3-q-052": "reading",
+        "g3-q-057": "plays",
+        "g3-q-062": "was built",
+        "g3-q-067": "reading",
+        "g3-q-072": "plays",
+        "g3-q-077": "was built",
+        "g3-q-043": "Kota learned from a useful experience.",
+        "g3-q-048": "Kota learned from a useful experience.",
+        "g3-q-053": "Kota learned from a useful experience.",
+        "g3-q-058": "Kota learned from a useful experience.",
+        "g3-q-063": "Kota learned from a useful experience.",
+        "g3-q-068": "Kota learned from a useful experience.",
+        "g3-q-073": "Kota learned from a useful experience.",
+        "g3-q-078": "Kota learned from a useful experience.",
+        "g3-q-083": "Kota learned from a useful experience.",
+        "g3-q-088": "Kota learned from a useful experience.",
+        "g3-q-045": "What do you still need to do?",
+        "g3-q-050": "What do you still need to do?",
+        "g3-q-055": "What do you still need to do?",
+        "g3-q-060": "What do you still need to do?",
+        "g3-q-065": "What do you still need to do?"
+      }
+    }
+  }
+]

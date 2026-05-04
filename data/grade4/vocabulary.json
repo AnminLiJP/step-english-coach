@@ -1,0 +1,2286 @@
+[
+  {
+    "id": "g4-v-001",
+    "word": "borrow",
+    "phonetic": "/ˈbɑːroʊ/",
+    "japaneseMeaning": "借りる",
+    "chineseMeaning": "借入，借来",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "Can I borrow your dictionary?",
+    "exampleTranslationChinese": "我可以借你的词典吗？",
+    "exampleTranslationJapanese": "あなたの辞書を借りてもいいですか。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "lend"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "daily",
+      "school"
+    ]
+  },
+  {
+    "id": "g4-v-002",
+    "word": "return",
+    "phonetic": "/rɪˈtɜːrn/",
+    "japaneseMeaning": "返す",
+    "chineseMeaning": "归还",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "Please return the book by Friday.",
+    "exampleTranslationChinese": "请在星期五前归还这本书。",
+    "exampleTranslationJapanese": "金曜日までにその本を返してください。",
+    "synonyms": [
+      "give back"
+    ],
+    "antonyms": [
+      "borrow"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g4-v-003",
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "japaneseMeaning": "到着する",
+    "chineseMeaning": "到达",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "We will arrive at the station at nine.",
+    "exampleTranslationChinese": "我们九点到车站。",
+    "exampleTranslationJapanese": "私たちは9時に駅に着きます。",
+    "synonyms": [
+      "reach"
+    ],
+    "antonyms": [
+      "leave"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "g4-v-004",
+    "word": "practice",
+    "phonetic": "/ˈpræktɪs/",
+    "japaneseMeaning": "練習する",
+    "chineseMeaning": "练习",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I practice tennis after school.",
+    "exampleTranslationChinese": "我放学后练习网球。",
+    "exampleTranslationJapanese": "私は放課後にテニスを練習します。",
+    "synonyms": [
+      "train"
+    ],
+    "antonyms": [
+      "rest"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school",
+      "sports"
+    ]
+  },
+  {
+    "id": "g4-v-005",
+    "word": "weather",
+    "phonetic": "/ˈweðər/",
+    "japaneseMeaning": "天気",
+    "chineseMeaning": "天气",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "The weather was cloudy this morning.",
+    "exampleTranslationChinese": "今天早上天气多云。",
+    "exampleTranslationJapanese": "今朝の天気は曇りでした。",
+    "synonyms": [
+      "climate"
+    ],
+    "antonyms": [],
+    "difficulty": 2,
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "id": "g4-v-006",
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "japaneseMeaning": "切符",
+    "chineseMeaning": "票",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I bought a ticket for the concert.",
+    "exampleTranslationChinese": "我买了一张音乐会的票。",
+    "exampleTranslationJapanese": "コンサートのチケットを買いました。",
+    "synonyms": [
+      "pass"
+    ],
+    "antonyms": [],
+    "difficulty": 2,
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "g4-v-007",
+    "word": "library",
+    "phonetic": "/ˈlaɪbreri/",
+    "japaneseMeaning": "図書館",
+    "chineseMeaning": "图书馆",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "The library is closed on Monday.",
+    "exampleTranslationChinese": "图书馆星期一关门。",
+    "exampleTranslationJapanese": "図書館は月曜日に閉まっています。",
+    "synonyms": [],
+    "antonyms": [],
+    "difficulty": 2,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g4-v-008",
+    "word": "popular",
+    "phonetic": "/ˈpɑːpjələr/",
+    "japaneseMeaning": "人気がある",
+    "chineseMeaning": "受欢迎的",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "This song is popular with students.",
+    "exampleTranslationChinese": "这首歌很受学生欢迎。",
+    "exampleTranslationJapanese": "この歌は生徒に人気があります。",
+    "synonyms": [
+      "liked"
+    ],
+    "antonyms": [
+      "unpopular"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "id": "g4-v-009",
+    "word": "careful",
+    "phonetic": "/ˈkerfəl/",
+    "japaneseMeaning": "注意深い",
+    "chineseMeaning": "小心的",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "Be careful when you cross the street.",
+    "exampleTranslationChinese": "过马路时要小心。",
+    "exampleTranslationJapanese": "道を渡るときは注意してください。",
+    "synonyms": [
+      "cautious"
+    ],
+    "antonyms": [
+      "careless"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "id": "g4-v-010",
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃər/",
+    "japaneseMeaning": "未来",
+    "chineseMeaning": "未来",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I want to be a teacher in the future.",
+    "exampleTranslationChinese": "我将来想当老师。",
+    "exampleTranslationJapanese": "将来、先生になりたいです。",
+    "synonyms": [
+      "tomorrow"
+    ],
+    "antonyms": [
+      "past"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "id": "g4-v-011",
+    "word": "activity",
+    "phonetic": "/activity/",
+    "japaneseMeaning": "activity の意味",
+    "chineseMeaning": "activity 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word activity during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 activity 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は activity の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-012",
+    "word": "advice",
+    "phonetic": "/advice/",
+    "japaneseMeaning": "advice の意味",
+    "chineseMeaning": "advice 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word advice during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 advice 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は advice の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "library_event",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-013",
+    "word": "announce",
+    "phonetic": "/announce/",
+    "japaneseMeaning": "announce の意味",
+    "chineseMeaning": "announce 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word announce during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 announce 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は announce の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "shopping_street",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-014",
+    "word": "article",
+    "phonetic": "/article/",
+    "japaneseMeaning": "article の意味",
+    "chineseMeaning": "article 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word article during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 article 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は article の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "family_trip",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-015",
+    "word": "attend",
+    "phonetic": "/attend/",
+    "japaneseMeaning": "attend の意味",
+    "chineseMeaning": "attend 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word attend during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 attend 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は attend の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "sports_day",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-016",
+    "word": "careless",
+    "phonetic": "/careless/",
+    "japaneseMeaning": "careless の意味",
+    "chineseMeaning": "careless 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word careless during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 careless 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は careless の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "music_lesson",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-017",
+    "word": "challenge",
+    "phonetic": "/challenge/",
+    "japaneseMeaning": "challenge の意味",
+    "chineseMeaning": "challenge 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word challenge during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 challenge 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は challenge の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "weather_report",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-018",
+    "word": "choice",
+    "phonetic": "/choice/",
+    "japaneseMeaning": "choice の意味",
+    "chineseMeaning": "choice 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word choice during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 choice 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は choice の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "station_meeting",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-019",
+    "word": "collect",
+    "phonetic": "/collect/",
+    "japaneseMeaning": "collect の意味",
+    "chineseMeaning": "collect 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word collect during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 collect 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は collect の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "book_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-020",
+    "word": "compare",
+    "phonetic": "/compare/",
+    "japaneseMeaning": "compare の意味",
+    "chineseMeaning": "compare 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word compare during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 compare 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は compare の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_park",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-021",
+    "word": "condition",
+    "phonetic": "/condition/",
+    "japaneseMeaning": "condition の意味",
+    "chineseMeaning": "condition 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word condition during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 condition 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は condition の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-022",
+    "word": "connect",
+    "phonetic": "/connect/",
+    "japaneseMeaning": "connect の意味",
+    "chineseMeaning": "connect 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word connect during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 connect 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は connect の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "library_event",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-023",
+    "word": "continue",
+    "phonetic": "/continue/",
+    "japaneseMeaning": "continue の意味",
+    "chineseMeaning": "continue 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word continue during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 continue 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は continue の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "shopping_street",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-024",
+    "word": "culture",
+    "phonetic": "/culture/",
+    "japaneseMeaning": "culture の意味",
+    "chineseMeaning": "culture 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word culture during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 culture 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は culture の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "family_trip",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-025",
+    "word": "daily",
+    "phonetic": "/daily/",
+    "japaneseMeaning": "daily の意味",
+    "chineseMeaning": "daily 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word daily during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 daily 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は daily の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "sports_day",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-026",
+    "word": "describe",
+    "phonetic": "/describe/",
+    "japaneseMeaning": "describe の意味",
+    "chineseMeaning": "describe 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word describe during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 describe 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は describe の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "music_lesson",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-027",
+    "word": "develop",
+    "phonetic": "/develop/",
+    "japaneseMeaning": "develop の意味",
+    "chineseMeaning": "develop 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word develop during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 develop 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は develop の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "weather_report",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-028",
+    "word": "difference",
+    "phonetic": "/difference/",
+    "japaneseMeaning": "difference の意味",
+    "chineseMeaning": "difference 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word difference during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 difference 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は difference の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "station_meeting",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-029",
+    "word": "discover",
+    "phonetic": "/discover/",
+    "japaneseMeaning": "discover の意味",
+    "chineseMeaning": "discover 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word discover during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 discover 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は discover の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "book_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-030",
+    "word": "effort",
+    "phonetic": "/effort/",
+    "japaneseMeaning": "effort の意味",
+    "chineseMeaning": "effort 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word effort during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 effort 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は effort の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "community_park",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-031",
+    "word": "event",
+    "phonetic": "/event/",
+    "japaneseMeaning": "event の意味",
+    "chineseMeaning": "event 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word event during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 event 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は event の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-032",
+    "word": "favorite",
+    "phonetic": "/favorite/",
+    "japaneseMeaning": "favorite の意味",
+    "chineseMeaning": "favorite 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word favorite during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 favorite 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は favorite の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_event",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-033",
+    "word": "healthy",
+    "phonetic": "/healthy/",
+    "japaneseMeaning": "healthy の意味",
+    "chineseMeaning": "healthy 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word healthy during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 healthy 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は healthy の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "shopping_street",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-034",
+    "word": "improve",
+    "phonetic": "/improve/",
+    "japaneseMeaning": "improve の意味",
+    "chineseMeaning": "improve 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word improve during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 improve 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は improve の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "family_trip",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-035",
+    "word": "include",
+    "phonetic": "/include/",
+    "japaneseMeaning": "include の意味",
+    "chineseMeaning": "include 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word include during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 include 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は include の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "sports_day",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-036",
+    "word": "interest",
+    "phonetic": "/interest/",
+    "japaneseMeaning": "interest の意味",
+    "chineseMeaning": "interest 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word interest during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 interest 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は interest の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "music_lesson",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-037",
+    "word": "invite",
+    "phonetic": "/invite/",
+    "japaneseMeaning": "invite の意味",
+    "chineseMeaning": "invite 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word invite during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 invite 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は invite の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "weather_report",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-038",
+    "word": "local",
+    "phonetic": "/local/",
+    "japaneseMeaning": "local の意味",
+    "chineseMeaning": "local 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word local during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 local 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は local の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "station_meeting",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-039",
+    "word": "message",
+    "phonetic": "/message/",
+    "japaneseMeaning": "message の意味",
+    "chineseMeaning": "message 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word message during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 message 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は message の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "book_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-040",
+    "word": "necessary",
+    "phonetic": "/necessary/",
+    "japaneseMeaning": "necessary の意味",
+    "chineseMeaning": "necessary 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word necessary during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 necessary 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は necessary の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "community_park",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-041",
+    "word": "notice",
+    "phonetic": "/notice/",
+    "japaneseMeaning": "notice の意味",
+    "chineseMeaning": "notice 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word notice during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 notice 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は notice の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-042",
+    "word": "opinion",
+    "phonetic": "/opinion/",
+    "japaneseMeaning": "opinion の意味",
+    "chineseMeaning": "opinion 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word opinion during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 opinion 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は opinion の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "library_event",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-043",
+    "word": "prepare",
+    "phonetic": "/prepare/",
+    "japaneseMeaning": "prepare の意味",
+    "chineseMeaning": "prepare 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word prepare during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 prepare 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は prepare の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "shopping_street",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-044",
+    "word": "project",
+    "phonetic": "/project/",
+    "japaneseMeaning": "project の意味",
+    "chineseMeaning": "project 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word project during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 project 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は project の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "family_trip",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-045",
+    "word": "reason",
+    "phonetic": "/reason/",
+    "japaneseMeaning": "reason の意味",
+    "chineseMeaning": "reason 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word reason during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 reason 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は reason の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "sports_day",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-046",
+    "word": "receive",
+    "phonetic": "/receive/",
+    "japaneseMeaning": "receive の意味",
+    "chineseMeaning": "receive 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word receive during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 receive 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は receive の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "music_lesson",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-047",
+    "word": "recent",
+    "phonetic": "/recent/",
+    "japaneseMeaning": "recent の意味",
+    "chineseMeaning": "recent 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word recent during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 recent 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は recent の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "weather_report",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-048",
+    "word": "remember",
+    "phonetic": "/remember/",
+    "japaneseMeaning": "remember の意味",
+    "chineseMeaning": "remember 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word remember during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 remember 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は remember の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "station_meeting",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-049",
+    "word": "schedule",
+    "phonetic": "/schedule/",
+    "japaneseMeaning": "schedule の意味",
+    "chineseMeaning": "schedule 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word schedule during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 schedule 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は schedule の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "book_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-050",
+    "word": "several",
+    "phonetic": "/several/",
+    "japaneseMeaning": "several の意味",
+    "chineseMeaning": "several 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word several during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 several 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は several の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_park",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-051",
+    "word": "share",
+    "phonetic": "/share/",
+    "japaneseMeaning": "share の意味",
+    "chineseMeaning": "share 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word share during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 share 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は share の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-052",
+    "word": "similar",
+    "phonetic": "/similar/",
+    "japaneseMeaning": "similar の意味",
+    "chineseMeaning": "similar 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word similar during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 similar 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は similar の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "library_event",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-053",
+    "word": "situation",
+    "phonetic": "/situation/",
+    "japaneseMeaning": "situation の意味",
+    "chineseMeaning": "situation 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word situation during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 situation 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は situation の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "shopping_street",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-054",
+    "word": "special",
+    "phonetic": "/special/",
+    "japaneseMeaning": "special の意味",
+    "chineseMeaning": "special 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word special during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 special 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は special の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "family_trip",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-055",
+    "word": "support",
+    "phonetic": "/support/",
+    "japaneseMeaning": "support の意味",
+    "chineseMeaning": "support 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word support during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 support 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は support の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "sports_day",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-056",
+    "word": "useful",
+    "phonetic": "/useful/",
+    "japaneseMeaning": "useful の意味",
+    "chineseMeaning": "useful 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word useful during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 useful 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は useful の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "music_lesson",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-057",
+    "word": "visitor",
+    "phonetic": "/visitor/",
+    "japaneseMeaning": "visitor の意味",
+    "chineseMeaning": "visitor 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word visitor during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 visitor 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は visitor の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "weather_report",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-058",
+    "word": "while",
+    "phonetic": "/while/",
+    "japaneseMeaning": "while の意味",
+    "chineseMeaning": "while 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word while during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 while 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は while の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "station_meeting",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-059",
+    "word": "without",
+    "phonetic": "/without/",
+    "japaneseMeaning": "without の意味",
+    "chineseMeaning": "without 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word without during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 without 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は without の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "book_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-060",
+    "word": "wonder",
+    "phonetic": "/wonder/",
+    "japaneseMeaning": "wonder の意味",
+    "chineseMeaning": "wonder 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word wonder during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 wonder 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は wonder の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "community_park",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-061",
+    "word": "achieve",
+    "phonetic": "/achieve/",
+    "japaneseMeaning": "achieve の意味",
+    "chineseMeaning": "achieve 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word achieve during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 achieve 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は achieve の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-062",
+    "word": "allow",
+    "phonetic": "/allow/",
+    "japaneseMeaning": "allow の意味",
+    "chineseMeaning": "allow 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word allow during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 allow 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は allow の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_event",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-063",
+    "word": "appear",
+    "phonetic": "/appear/",
+    "japaneseMeaning": "appear の意味",
+    "chineseMeaning": "appear 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word appear during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 appear 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は appear の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "shopping_street",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-064",
+    "word": "available",
+    "phonetic": "/available/",
+    "japaneseMeaning": "available の意味",
+    "chineseMeaning": "available 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word available during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 available 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は available の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "family_trip",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-065",
+    "word": "balance",
+    "phonetic": "/balance/",
+    "japaneseMeaning": "balance の意味",
+    "chineseMeaning": "balance 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word balance during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 balance 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は balance の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "sports_day",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-066",
+    "word": "benefit",
+    "phonetic": "/benefit/",
+    "japaneseMeaning": "benefit の意味",
+    "chineseMeaning": "benefit 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word benefit during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 benefit 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は benefit の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "music_lesson",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-067",
+    "word": "cause",
+    "phonetic": "/cause/",
+    "japaneseMeaning": "cause の意味",
+    "chineseMeaning": "cause 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word cause during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 cause 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は cause の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "weather_report",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-068",
+    "word": "comfortable",
+    "phonetic": "/comfortable/",
+    "japaneseMeaning": "comfortable の意味",
+    "chineseMeaning": "comfortable 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word comfortable during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 comfortable 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は comfortable の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "station_meeting",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-069",
+    "word": "consider",
+    "phonetic": "/consider/",
+    "japaneseMeaning": "consider の意味",
+    "chineseMeaning": "consider 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word consider during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 consider 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は consider の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "book_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-070",
+    "word": "create",
+    "phonetic": "/create/",
+    "japaneseMeaning": "create の意味",
+    "chineseMeaning": "create 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word create during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 create 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は create の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "community_park",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-071",
+    "word": "decision",
+    "phonetic": "/decision/",
+    "japaneseMeaning": "decision の意味",
+    "chineseMeaning": "decision 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word decision during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 decision 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は decision の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "school_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-072",
+    "word": "education",
+    "phonetic": "/education/",
+    "japaneseMeaning": "education の意味",
+    "chineseMeaning": "education 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word education during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 education 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は education の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "library_event",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-073",
+    "word": "effective",
+    "phonetic": "/effective/",
+    "japaneseMeaning": "effective の意味",
+    "chineseMeaning": "effective 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word effective during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 effective 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は effective の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "shopping_street",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-074",
+    "word": "especially",
+    "phonetic": "/especially/",
+    "japaneseMeaning": "especially の意味",
+    "chineseMeaning": "especially 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word especially during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 especially 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は especially の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "family_trip",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-075",
+    "word": "focus",
+    "phonetic": "/focus/",
+    "japaneseMeaning": "focus の意味",
+    "chineseMeaning": "focus 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word focus during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 focus 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は focus の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "sports_day",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-076",
+    "word": "habit",
+    "phonetic": "/habit/",
+    "japaneseMeaning": "habit の意味",
+    "chineseMeaning": "habit 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word habit during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 habit 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は habit の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "music_lesson",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-077",
+    "word": "instead",
+    "phonetic": "/instead/",
+    "japaneseMeaning": "instead の意味",
+    "chineseMeaning": "instead 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word instead during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 instead 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は instead の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "weather_report",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-078",
+    "word": "knowledge",
+    "phonetic": "/knowledge/",
+    "japaneseMeaning": "knowledge の意味",
+    "chineseMeaning": "knowledge 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word knowledge during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 knowledge 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は knowledge の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "station_meeting",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-079",
+    "word": "method",
+    "phonetic": "/method/",
+    "japaneseMeaning": "method の意味",
+    "chineseMeaning": "method 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word method during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 method 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は method の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "book_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-080",
+    "word": "modern",
+    "phonetic": "/modern/",
+    "japaneseMeaning": "modern の意味",
+    "chineseMeaning": "modern 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word modern during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 modern 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は modern の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "community_park",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-081",
+    "word": "natural",
+    "phonetic": "/natural/",
+    "japaneseMeaning": "natural の意味",
+    "chineseMeaning": "natural 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word natural during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 natural 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は natural の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school_club",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-082",
+    "word": "patient",
+    "phonetic": "/patient/",
+    "japaneseMeaning": "patient の意味",
+    "chineseMeaning": "patient 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word patient during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 patient 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は patient の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "library_event",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-083",
+    "word": "personal",
+    "phonetic": "/personal/",
+    "japaneseMeaning": "personal の意味",
+    "chineseMeaning": "personal 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word personal during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 personal 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は personal の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "shopping_street",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-084",
+    "word": "possible",
+    "phonetic": "/possible/",
+    "japaneseMeaning": "possible の意味",
+    "chineseMeaning": "possible 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word possible during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 possible 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は possible の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "family_trip",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-085",
+    "word": "protect",
+    "phonetic": "/protect/",
+    "japaneseMeaning": "protect の意味",
+    "chineseMeaning": "protect 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word protect during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 protect 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は protect の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "sports_day",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-086",
+    "word": "public",
+    "phonetic": "/public/",
+    "japaneseMeaning": "public の意味",
+    "chineseMeaning": "public 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word public during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 public 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は public の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "music_lesson",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-087",
+    "word": "purpose",
+    "phonetic": "/purpose/",
+    "japaneseMeaning": "purpose の意味",
+    "chineseMeaning": "purpose 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word purpose during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 purpose 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は purpose の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "weather_report",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-088",
+    "word": "quality",
+    "phonetic": "/quality/",
+    "japaneseMeaning": "quality の意味",
+    "chineseMeaning": "quality 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word quality during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 quality 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は quality の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "station_meeting",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-089",
+    "word": "result",
+    "phonetic": "/result/",
+    "japaneseMeaning": "result の意味",
+    "chineseMeaning": "result 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word result during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 result 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は result の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "book_exchange",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-090",
+    "word": "safe",
+    "phonetic": "/safe/",
+    "japaneseMeaning": "safe の意味",
+    "chineseMeaning": "safe 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word safe during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 safe 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は safe の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "community_park",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-091",
+    "word": "serious",
+    "phonetic": "/serious/",
+    "japaneseMeaning": "serious の意味",
+    "chineseMeaning": "serious 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word serious during our school club lesson.",
+    "exampleTranslationChinese": "这句话展示 serious 在school club话题中的用法。",
+    "exampleTranslationJapanese": "この文は serious の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "school_club",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-092",
+    "word": "simple",
+    "phonetic": "/simple/",
+    "japaneseMeaning": "simple の意味",
+    "chineseMeaning": "simple 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word simple during our library event lesson.",
+    "exampleTranslationChinese": "这句话展示 simple 在library event话题中的用法。",
+    "exampleTranslationJapanese": "この文は simple の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "library_event",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-093",
+    "word": "skill",
+    "phonetic": "/skill/",
+    "japaneseMeaning": "skill の意味",
+    "chineseMeaning": "skill 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word skill during our shopping street lesson.",
+    "exampleTranslationChinese": "这句话展示 skill 在shopping street话题中的用法。",
+    "exampleTranslationJapanese": "この文は skill の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "shopping_street",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-094",
+    "word": "society",
+    "phonetic": "/society/",
+    "japaneseMeaning": "society の意味",
+    "chineseMeaning": "society 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word society during our family trip lesson.",
+    "exampleTranslationChinese": "这句话展示 society 在family trip话题中的用法。",
+    "exampleTranslationJapanese": "この文は society の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "family_trip",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-095",
+    "word": "solution",
+    "phonetic": "/solution/",
+    "japaneseMeaning": "solution の意味",
+    "chineseMeaning": "solution 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word solution during our sports day lesson.",
+    "exampleTranslationChinese": "这句话展示 solution 在sports day话题中的用法。",
+    "exampleTranslationJapanese": "この文は solution の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "sports_day",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-096",
+    "word": "suggestion",
+    "phonetic": "/suggestion/",
+    "japaneseMeaning": "suggestion の意味",
+    "chineseMeaning": "suggestion 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word suggestion during our music lesson lesson.",
+    "exampleTranslationChinese": "这句话展示 suggestion 在music lesson话题中的用法。",
+    "exampleTranslationJapanese": "この文は suggestion の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "music_lesson",
+      "verb"
+    ]
+  },
+  {
+    "id": "g4-v-097",
+    "word": "traditional",
+    "phonetic": "/traditional/",
+    "japaneseMeaning": "traditional の意味",
+    "chineseMeaning": "traditional 的意思",
+    "partOfSpeech": "adjective",
+    "level": "grade4",
+    "exampleSentence": "I learned the word traditional during our weather report lesson.",
+    "exampleTranslationChinese": "这句话展示 traditional 在weather report话题中的用法。",
+    "exampleTranslationJapanese": "この文は traditional の使い方を示しています。",
+    "synonyms": [
+      "good"
+    ],
+    "antonyms": [
+      "bad"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "weather_report",
+      "adjective"
+    ]
+  },
+  {
+    "id": "g4-v-098",
+    "word": "transportation",
+    "phonetic": "/transportation/",
+    "japaneseMeaning": "transportation の意味",
+    "chineseMeaning": "transportation 的意思",
+    "partOfSpeech": "adverb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word transportation during our station meeting lesson.",
+    "exampleTranslationChinese": "这句话展示 transportation 在station meeting话题中的用法。",
+    "exampleTranslationJapanese": "この文は transportation の使い方を示しています。",
+    "synonyms": [
+      "clearly"
+    ],
+    "antonyms": [
+      "slowly"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "station_meeting",
+      "adverb"
+    ]
+  },
+  {
+    "id": "g4-v-099",
+    "word": "valuable",
+    "phonetic": "/valuable/",
+    "japaneseMeaning": "valuable の意味",
+    "chineseMeaning": "valuable 的意思",
+    "partOfSpeech": "noun",
+    "level": "grade4",
+    "exampleSentence": "I learned the word valuable during our book exchange lesson.",
+    "exampleTranslationChinese": "这句话展示 valuable 在book exchange话题中的用法。",
+    "exampleTranslationJapanese": "この文は valuable の使い方を示しています。",
+    "synonyms": [
+      "idea"
+    ],
+    "antonyms": [
+      "opposite"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "book_exchange",
+      "noun"
+    ]
+  },
+  {
+    "id": "g4-v-100",
+    "word": "various",
+    "phonetic": "/various/",
+    "japaneseMeaning": "various の意味",
+    "chineseMeaning": "various 的意思",
+    "partOfSpeech": "verb",
+    "level": "grade4",
+    "exampleSentence": "I learned the word various during our community park lesson.",
+    "exampleTranslationChinese": "这句话展示 various 在community park话题中的用法。",
+    "exampleTranslationJapanese": "この文は various の使い方を示しています。",
+    "synonyms": [
+      "use"
+    ],
+    "antonyms": [
+      "stop"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "community_park",
+      "verb"
+    ]
+  }
+]
