@@ -18,13 +18,13 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"opportunity\" helped students express a more detailed opinion. What does \"opportunity\" mean here? [Set 1]",
           "choices": [
-            "opportunity 的反义表达",
             "机会",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "增加",
+            "减少",
+            "交流，沟通"
           ],
           "answer": "机会",
-          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。不要只看单词外形，要看后面的情境线索。",
+          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。先确认句子场景，再选择最合适的中文意思。",
           "explanationJapanese": "文脈から opportunity は「機会」の意味です。"
         },
         {
@@ -39,13 +39,13 @@
           ],
           "question": "In a discussion about school technology, the word \"communicate\" helped students express a more detailed opinion. What does \"communicate\" mean here? [Set 6]",
           "choices": [
-            "school technology 相关地点",
-            "communicate 的反义表达",
+            "因此",
+            "活动",
             "交流，沟通",
-            "不符合上下文的意思"
+            "然而"
           ],
           "answer": "交流，沟通",
-          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。不要只看单词外形，要看后面的情境线索。",
+          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。先确认句子场景，再选择最合适的中文意思。",
           "explanationJapanese": "文脈から communicate は「伝える」の意味です。"
         },
         {
@@ -60,14 +60,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"activity\" helped students express a more detailed opinion. What does \"activity\" mean here? [Set 11]",
           "choices": [
-            "不符合上下文的意思",
-            "activity 的反义表达",
-            "digital textbooks 相关地点",
-            "活动"
+            "挑战",
+            "活动",
+            "参加；出席",
+            "粗心的"
           ],
           "answer": "活动",
-          "explanationChinese": "根据上下文，activity 在这里表示“活动”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+          "explanationChinese": "根据上下文，activity 在这里表示“活动”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から activity は「活動」の意味です。"
         },
         {
           "id": "p2-q-016",
@@ -81,14 +81,14 @@
           ],
           "question": "In a discussion about school technology, the word \"careless\" helped students express a more detailed opinion. What does \"careless\" mean here? [Set 16]",
           "choices": [
-            "粗心的",
-            "careless 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "比较",
+            "条件；状况",
+            "连接",
+            "粗心的"
           ],
           "answer": "粗心的",
-          "explanationChinese": "根据上下文，careless 在这里表示“粗心的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+          "explanationChinese": "根据上下文，careless 在这里表示“粗心的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から careless は「不注意な」の意味です。"
         },
         {
           "id": "p2-q-021",
@@ -102,14 +102,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"condition\" helped students express a more detailed opinion. What does \"condition\" mean here? [Set 21]",
           "choices": [
-            "condition 的反义表达",
             "条件；状况",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "交流，沟通",
+            "优点",
+            "增加"
           ],
           "answer": "条件；状况",
-          "explanationChinese": "根据上下文，condition 在这里表示“条件；状况”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+          "explanationChinese": "根据上下文，condition 在这里表示“条件；状况”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から condition は「条件；状態」の意味です。"
         },
         {
           "id": "p2-q-026",
@@ -123,14 +123,14 @@
           ],
           "question": "In a discussion about school technology, the word \"describe\" helped students express a more detailed opinion. What does \"describe\" mean here? [Set 26]",
           "choices": [
-            "school technology 相关地点",
-            "describe 的反义表达",
+            "然而",
             "描述",
-            "不符合上下文的意思"
+            "建议",
+            "活动"
           ],
           "answer": "描述",
-          "explanationChinese": "根据上下文，describe 在这里表示“描述”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から describe は「describe の意味」の意味です。"
+          "explanationChinese": "根据上下文，describe 在这里表示“描述”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から describe は「説明する」の意味です。"
         },
         {
           "id": "p2-q-031",
@@ -144,14 +144,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"event\" helped students express a more detailed opinion. What does \"event\" mean here? [Set 31]",
           "choices": [
-            "不符合上下文的意思",
-            "event 的反义表达",
-            "digital textbooks 相关地点",
-            "活动；事件"
+            "活动；事件",
+            "粗心的",
+            "挑战",
+            "选择"
           ],
           "answer": "活动；事件",
-          "explanationChinese": "根据上下文，event 在这里表示“活动；事件”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から event は「event の意味」の意味です。"
+          "explanationChinese": "根据上下文，event 在这里表示“活动；事件”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から event は「行事；出来事」の意味です。"
         },
         {
           "id": "p2-q-036",
@@ -165,14 +165,14 @@
           ],
           "question": "In a discussion about school technology, the word \"interest\" helped students express a more detailed opinion. What does \"interest\" mean here? [Set 36]",
           "choices": [
-            "兴趣",
-            "interest 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "机会",
+            "社区",
+            "责任",
+            "兴趣"
           ],
           "answer": "兴趣",
-          "explanationChinese": "根据上下文，interest 在这里表示“兴趣”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から interest は「interest の意味」の意味です。"
+          "explanationChinese": "根据上下文，interest 在这里表示“兴趣”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から interest は「興味」の意味です。"
         }
       ],
       "grammar": [
@@ -742,14 +742,14 @@
           ],
           "question": "In a discussion about school technology, the word \"public\" helped students express a more detailed opinion. What does \"public\" mean here? [Set 86]",
           "choices": [
-            "school technology 相关地点",
-            "public 的反义表达",
+            "粗心的",
             "公共的；公众的",
-            "不符合上下文的意思"
+            "选择",
+            "挑战"
           ],
           "answer": "公共的；公众的",
-          "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+          "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から public は「公共の；一般の」の意味です。"
         },
         {
           "id": "p2-q-091",
@@ -763,14 +763,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"serious\" helped students express a more detailed opinion. What does \"serious\" mean here? [Set 91]",
           "choices": [
-            "不符合上下文的意思",
-            "serious 的反义表达",
-            "digital textbooks 相关地点",
-            "严肃的；严重的"
+            "严肃的；严重的",
+            "责任",
+            "社区",
+            "减少"
           ],
           "answer": "严肃的；严重的",
-          "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+          "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から serious は「真剣な；深刻な」の意味です。"
         },
         {
           "id": "p2-q-096",
@@ -784,14 +784,14 @@
           ],
           "question": "In a discussion about school technology, the word \"suggestion\" helped students express a more detailed opinion. What does \"suggestion\" mean here? [Set 96]",
           "choices": [
+            "优点",
             "建议",
-            "suggestion 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "因此",
+            "缺点"
           ],
           "answer": "建议",
-          "explanationChinese": "根据上下文，suggestion 在这里表示“建议”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+          "explanationChinese": "根据上下文，suggestion 在这里表示“建议”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から suggestion は「提案」の意味です。"
         },
         {
           "id": "p2-q-001",
@@ -805,13 +805,13 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"opportunity\" helped students express a more detailed opinion. What does \"opportunity\" mean here? [Set 1]",
           "choices": [
-            "opportunity 的反义表达",
             "机会",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "增加",
+            "减少",
+            "交流，沟通"
           ],
           "answer": "机会",
-          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。不要只看单词外形，要看后面的情境线索。",
+          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。先确认句子场景，再选择最合适的中文意思。",
           "explanationJapanese": "文脈から opportunity は「機会」の意味です。"
         },
         {
@@ -826,13 +826,13 @@
           ],
           "question": "In a discussion about school technology, the word \"communicate\" helped students express a more detailed opinion. What does \"communicate\" mean here? [Set 6]",
           "choices": [
-            "school technology 相关地点",
-            "communicate 的反义表达",
+            "因此",
+            "活动",
             "交流，沟通",
-            "不符合上下文的意思"
+            "然而"
           ],
           "answer": "交流，沟通",
-          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。不要只看单词外形，要看后面的情境线索。",
+          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。先确认句子场景，再选择最合适的中文意思。",
           "explanationJapanese": "文脈から communicate は「伝える」の意味です。"
         },
         {
@@ -847,14 +847,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"activity\" helped students express a more detailed opinion. What does \"activity\" mean here? [Set 11]",
           "choices": [
-            "不符合上下文的意思",
-            "activity 的反义表达",
-            "digital textbooks 相关地点",
-            "活动"
+            "挑战",
+            "活动",
+            "参加；出席",
+            "粗心的"
           ],
           "answer": "活动",
-          "explanationChinese": "根据上下文，activity 在这里表示“活动”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+          "explanationChinese": "根据上下文，activity 在这里表示“活动”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から activity は「活動」の意味です。"
         },
         {
           "id": "p2-q-016",
@@ -868,14 +868,14 @@
           ],
           "question": "In a discussion about school technology, the word \"careless\" helped students express a more detailed opinion. What does \"careless\" mean here? [Set 16]",
           "choices": [
-            "粗心的",
-            "careless 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "比较",
+            "条件；状况",
+            "连接",
+            "粗心的"
           ],
           "answer": "粗心的",
-          "explanationChinese": "根据上下文，careless 在这里表示“粗心的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+          "explanationChinese": "根据上下文，careless 在这里表示“粗心的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から careless は「不注意な」の意味です。"
         },
         {
           "id": "p2-q-021",
@@ -889,14 +889,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"condition\" helped students express a more detailed opinion. What does \"condition\" mean here? [Set 21]",
           "choices": [
-            "condition 的反义表达",
             "条件；状况",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "交流，沟通",
+            "优点",
+            "增加"
           ],
           "answer": "条件；状况",
-          "explanationChinese": "根据上下文，condition 在这里表示“条件；状况”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+          "explanationChinese": "根据上下文，condition 在这里表示“条件；状况”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から condition は「条件；状態」の意味です。"
         }
       ],
       "grammar": [
@@ -1466,14 +1466,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"decision\" helped students express a more detailed opinion. What does \"decision\" mean here? [Set 71]",
           "choices": [
-            "不符合上下文的意思",
-            "decision 的反义表达",
-            "digital textbooks 相关地点",
-            "决定"
+            "决定",
+            "条件；状况",
+            "连接",
+            "比较"
           ],
           "answer": "决定",
-          "explanationChinese": "根据上下文，decision 在这里表示“决定”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+          "explanationChinese": "根据上下文，decision 在这里表示“决定”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から decision は「決定」の意味です。"
         },
         {
           "id": "p2-q-076",
@@ -1487,14 +1487,14 @@
           ],
           "question": "In a discussion about school technology, the word \"habit\" helped students express a more detailed opinion. What does \"habit\" mean here? [Set 76]",
           "choices": [
+            "增加",
+            "优点",
             "习惯",
-            "habit 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "交流，沟通"
           ],
           "answer": "习惯",
-          "explanationChinese": "根据上下文，habit 在这里表示“习惯”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+          "explanationChinese": "根据上下文，habit 在这里表示“习惯”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から habit は「習慣」の意味です。"
         },
         {
           "id": "p2-q-081",
@@ -1508,14 +1508,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"natural\" helped students express a more detailed opinion. What does \"natural\" mean here? [Set 81]",
           "choices": [
-            "natural 的反义表达",
+            "建议",
+            "宣布",
             "自然的",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "活动"
           ],
           "answer": "自然的",
-          "explanationChinese": "根据上下文，natural 在这里表示“自然的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+          "explanationChinese": "根据上下文，natural 在这里表示“自然的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から natural は「自然な」の意味です。"
         },
         {
           "id": "p2-q-086",
@@ -1529,14 +1529,14 @@
           ],
           "question": "In a discussion about school technology, the word \"public\" helped students express a more detailed opinion. What does \"public\" mean here? [Set 86]",
           "choices": [
-            "school technology 相关地点",
-            "public 的反义表达",
+            "粗心的",
             "公共的；公众的",
-            "不符合上下文的意思"
+            "选择",
+            "挑战"
           ],
           "answer": "公共的；公众的",
-          "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+          "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から public は「公共の；一般の」の意味です。"
         },
         {
           "id": "p2-q-091",
@@ -1550,14 +1550,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"serious\" helped students express a more detailed opinion. What does \"serious\" mean here? [Set 91]",
           "choices": [
-            "不符合上下文的意思",
-            "serious 的反义表达",
-            "digital textbooks 相关地点",
-            "严肃的；严重的"
+            "严肃的；严重的",
+            "责任",
+            "社区",
+            "减少"
           ],
           "answer": "严肃的；严重的",
-          "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+          "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から serious は「真剣な；深刻な」の意味です。"
         },
         {
           "id": "p2-q-096",
@@ -1571,14 +1571,14 @@
           ],
           "question": "In a discussion about school technology, the word \"suggestion\" helped students express a more detailed opinion. What does \"suggestion\" mean here? [Set 96]",
           "choices": [
+            "优点",
             "建议",
-            "suggestion 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "因此",
+            "缺点"
           ],
           "answer": "建议",
-          "explanationChinese": "根据上下文，suggestion 在这里表示“建议”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+          "explanationChinese": "根据上下文，suggestion 在这里表示“建议”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から suggestion は「提案」の意味です。"
         },
         {
           "id": "p2-q-001",
@@ -1592,13 +1592,13 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"opportunity\" helped students express a more detailed opinion. What does \"opportunity\" mean here? [Set 1]",
           "choices": [
-            "opportunity 的反义表达",
             "机会",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "增加",
+            "减少",
+            "交流，沟通"
           ],
           "answer": "机会",
-          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。不要只看单词外形，要看后面的情境线索。",
+          "explanationChinese": "根据上下文，opportunity 在这里表示“机会”。先确认句子场景，再选择最合适的中文意思。",
           "explanationJapanese": "文脈から opportunity は「機会」の意味です。"
         },
         {
@@ -1613,13 +1613,13 @@
           ],
           "question": "In a discussion about school technology, the word \"communicate\" helped students express a more detailed opinion. What does \"communicate\" mean here? [Set 6]",
           "choices": [
-            "school technology 相关地点",
-            "communicate 的反义表达",
+            "因此",
+            "活动",
             "交流，沟通",
-            "不符合上下文的意思"
+            "然而"
           ],
           "answer": "交流，沟通",
-          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。不要只看单词外形，要看后面的情境线索。",
+          "explanationChinese": "根据上下文，communicate 在这里表示“交流，沟通”。先确认句子场景，再选择最合适的中文意思。",
           "explanationJapanese": "文脈から communicate は「伝える」の意味です。"
         }
       ],
@@ -2190,14 +2190,14 @@
           ],
           "question": "In a discussion about school technology, the word \"useful\" helped students express a more detailed opinion. What does \"useful\" mean here? [Set 56]",
           "choices": [
-            "有用的",
-            "useful 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "减少",
+            "增加",
+            "社区",
+            "有用的"
           ],
           "answer": "有用的",
-          "explanationChinese": "根据上下文，useful 在这里表示“有用的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+          "explanationChinese": "根据上下文，useful 在这里表示“有用的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から useful は「役に立つ」の意味です。"
         },
         {
           "id": "p2-q-061",
@@ -2211,14 +2211,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"achieve\" helped students express a more detailed opinion. What does \"achieve\" mean here? [Set 61]",
           "choices": [
-            "achieve 的反义表达",
             "实现；达成",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "因此",
+            "然而",
+            "活动"
           ],
           "answer": "实现；达成",
-          "explanationChinese": "根据上下文，achieve 在这里表示“实现；达成”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+          "explanationChinese": "根据上下文，achieve 在这里表示“实现；达成”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から achieve は「達成する」の意味です。"
         },
         {
           "id": "p2-q-066",
@@ -2232,14 +2232,14 @@
           ],
           "question": "In a discussion about school technology, the word \"benefit\" helped students express a more detailed opinion. What does \"benefit\" mean here? [Set 66]",
           "choices": [
-            "school technology 相关地点",
-            "benefit 的反义表达",
-            "好处；受益",
-            "不符合上下文的意思"
+            "文章",
+            "参加；出席",
+            "粗心的",
+            "好处；受益"
           ],
           "answer": "好处；受益",
-          "explanationChinese": "根据上下文，benefit 在这里表示“好处；受益”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+          "explanationChinese": "根据上下文，benefit 在这里表示“好处；受益”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から benefit は「利益；恩恵」の意味です。"
         },
         {
           "id": "p2-q-071",
@@ -2253,14 +2253,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"decision\" helped students express a more detailed opinion. What does \"decision\" mean here? [Set 71]",
           "choices": [
-            "不符合上下文的意思",
-            "decision 的反义表达",
-            "digital textbooks 相关地点",
-            "决定"
+            "决定",
+            "条件；状况",
+            "连接",
+            "比较"
           ],
           "answer": "决定",
-          "explanationChinese": "根据上下文，decision 在这里表示“决定”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+          "explanationChinese": "根据上下文，decision 在这里表示“决定”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から decision は「決定」の意味です。"
         },
         {
           "id": "p2-q-076",
@@ -2274,14 +2274,14 @@
           ],
           "question": "In a discussion about school technology, the word \"habit\" helped students express a more detailed opinion. What does \"habit\" mean here? [Set 76]",
           "choices": [
+            "增加",
+            "优点",
             "习惯",
-            "habit 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "交流，沟通"
           ],
           "answer": "习惯",
-          "explanationChinese": "根据上下文，habit 在这里表示“习惯”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+          "explanationChinese": "根据上下文，habit 在这里表示“习惯”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から habit は「習慣」の意味です。"
         },
         {
           "id": "p2-q-081",
@@ -2295,14 +2295,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"natural\" helped students express a more detailed opinion. What does \"natural\" mean here? [Set 81]",
           "choices": [
-            "natural 的反义表达",
+            "建议",
+            "宣布",
             "自然的",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "活动"
           ],
           "answer": "自然的",
-          "explanationChinese": "根据上下文，natural 在这里表示“自然的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+          "explanationChinese": "根据上下文，natural 在这里表示“自然的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から natural は「自然な」の意味です。"
         },
         {
           "id": "p2-q-086",
@@ -2316,14 +2316,14 @@
           ],
           "question": "In a discussion about school technology, the word \"public\" helped students express a more detailed opinion. What does \"public\" mean here? [Set 86]",
           "choices": [
-            "school technology 相关地点",
-            "public 的反义表达",
+            "粗心的",
             "公共的；公众的",
-            "不符合上下文的意思"
+            "选择",
+            "挑战"
           ],
           "answer": "公共的；公众的",
-          "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+          "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から public は「公共の；一般の」の意味です。"
         },
         {
           "id": "p2-q-091",
@@ -2337,14 +2337,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"serious\" helped students express a more detailed opinion. What does \"serious\" mean here? [Set 91]",
           "choices": [
-            "不符合上下文的意思",
-            "serious 的反义表达",
-            "digital textbooks 相关地点",
-            "严肃的；严重的"
+            "严肃的；严重的",
+            "责任",
+            "社区",
+            "减少"
           ],
           "answer": "严肃的；严重的",
-          "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+          "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から serious は「真剣な；深刻な」の意味です。"
         }
       ],
       "grammar": [
@@ -2914,14 +2914,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"notice\" helped students express a more detailed opinion. What does \"notice\" mean here? [Set 41]",
           "choices": [
-            "notice 的反义表达",
-            "注意到；通知",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "优点",
+            "因此",
+            "缺点",
+            "注意到；通知"
           ],
           "answer": "注意到；通知",
-          "explanationChinese": "根据上下文，notice 在这里表示“注意到；通知”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から notice は「notice の意味」の意味です。"
+          "explanationChinese": "根据上下文，notice 在这里表示“注意到；通知”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から notice は「気づく；通知」の意味です。"
         },
         {
           "id": "p2-q-046",
@@ -2935,14 +2935,14 @@
           ],
           "question": "In a discussion about school technology, the word \"receive\" helped students express a more detailed opinion. What does \"receive\" mean here? [Set 46]",
           "choices": [
-            "school technology 相关地点",
-            "receive 的反义表达",
+            "建议",
             "收到",
-            "不符合上下文的意思"
+            "文章",
+            "宣布"
           ],
           "answer": "收到",
-          "explanationChinese": "根据上下文，receive 在这里表示“收到”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から receive は「receive の意味」の意味です。"
+          "explanationChinese": "根据上下文，receive 在这里表示“收到”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から receive は「受け取る」の意味です。"
         },
         {
           "id": "p2-q-051",
@@ -2956,14 +2956,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"share\" helped students express a more detailed opinion. What does \"share\" mean here? [Set 51]",
           "choices": [
-            "不符合上下文的意思",
-            "share 的反义表达",
-            "digital textbooks 相关地点",
-            "分享"
+            "选择",
+            "比较",
+            "分享",
+            "收集"
           ],
           "answer": "分享",
-          "explanationChinese": "根据上下文，share 在这里表示“分享”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から share は「share の意味」の意味です。"
+          "explanationChinese": "根据上下文，share 在这里表示“分享”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から share は「共有する」の意味です。"
         },
         {
           "id": "p2-q-056",
@@ -2977,14 +2977,14 @@
           ],
           "question": "In a discussion about school technology, the word \"useful\" helped students express a more detailed opinion. What does \"useful\" mean here? [Set 56]",
           "choices": [
-            "有用的",
-            "useful 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "减少",
+            "增加",
+            "社区",
+            "有用的"
           ],
           "answer": "有用的",
-          "explanationChinese": "根据上下文，useful 在这里表示“有用的”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+          "explanationChinese": "根据上下文，useful 在这里表示“有用的”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から useful は「役に立つ」の意味です。"
         },
         {
           "id": "p2-q-061",
@@ -2998,14 +2998,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"achieve\" helped students express a more detailed opinion. What does \"achieve\" mean here? [Set 61]",
           "choices": [
-            "achieve 的反义表达",
             "实现；达成",
-            "digital textbooks 相关地点",
-            "不符合上下文的意思"
+            "因此",
+            "然而",
+            "活动"
           ],
           "answer": "实现；达成",
-          "explanationChinese": "根据上下文，achieve 在这里表示“实现；达成”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+          "explanationChinese": "根据上下文，achieve 在这里表示“实现；达成”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から achieve は「達成する」の意味です。"
         },
         {
           "id": "p2-q-066",
@@ -3019,14 +3019,14 @@
           ],
           "question": "In a discussion about school technology, the word \"benefit\" helped students express a more detailed opinion. What does \"benefit\" mean here? [Set 66]",
           "choices": [
-            "school technology 相关地点",
-            "benefit 的反义表达",
-            "好处；受益",
-            "不符合上下文的意思"
+            "文章",
+            "参加；出席",
+            "粗心的",
+            "好处；受益"
           ],
           "answer": "好处；受益",
-          "explanationChinese": "根据上下文，benefit 在这里表示“好处；受益”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+          "explanationChinese": "根据上下文，benefit 在这里表示“好处；受益”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から benefit は「利益；恩恵」の意味です。"
         },
         {
           "id": "p2-q-071",
@@ -3040,14 +3040,14 @@
           ],
           "question": "In a discussion about digital textbooks, the word \"decision\" helped students express a more detailed opinion. What does \"decision\" mean here? [Set 71]",
           "choices": [
-            "不符合上下文的意思",
-            "decision 的反义表达",
-            "digital textbooks 相关地点",
-            "决定"
+            "决定",
+            "条件；状况",
+            "连接",
+            "比较"
           ],
           "answer": "决定",
-          "explanationChinese": "根据上下文，decision 在这里表示“决定”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+          "explanationChinese": "根据上下文，decision 在这里表示“决定”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から decision は「決定」の意味です。"
         },
         {
           "id": "p2-q-076",
@@ -3061,14 +3061,14 @@
           ],
           "question": "In a discussion about school technology, the word \"habit\" helped students express a more detailed opinion. What does \"habit\" mean here? [Set 76]",
           "choices": [
+            "增加",
+            "优点",
             "习惯",
-            "habit 的反义表达",
-            "school technology 相关地点",
-            "不符合上下文的意思"
+            "交流，沟通"
           ],
           "answer": "习惯",
-          "explanationChinese": "根据上下文，habit 在这里表示“习惯”。不要只看单词外形，要看后面的情境线索。",
-          "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+          "explanationChinese": "根据上下文，habit 在这里表示“习惯”。先确认句子场景，再选择最合适的中文意思。",
+          "explanationJapanese": "文脈から habit は「習慣」の意味です。"
         }
       ],
       "grammar": [

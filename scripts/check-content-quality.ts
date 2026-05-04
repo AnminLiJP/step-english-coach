@@ -17,7 +17,15 @@ function fail(message: string) {
 }
 
 function containsPlaceholder(value: unknown) {
-  return typeof value === "string" && /\b[A-Za-z][A-Za-z-]*\s+的意思\b/.test(value);
+  return (
+    typeof value === "string" &&
+    (/\b[A-Za-z][A-Za-z-]*\s+的意思\b/.test(value) ||
+      /\b[A-Za-z][A-Za-z-]*\s+的反义表达\b/.test(value) ||
+      /相关地点/.test(value) ||
+      /不符合上下文的意思/.test(value) ||
+      /\b[A-Za-z][A-Za-z-]*\s+の意味/.test(value) ||
+      /鑻|銇|藞|蓱|瑟|涓|鐨勬剰/.test(value))
+  );
 }
 
 function checkNoPlaceholders(value: unknown, label: string) {
@@ -45,6 +53,9 @@ for (const level of levels) {
   for (const word of vocabulary) {
     for (const key of ["word", "phonetic", "japaneseMeaning", "chineseMeaning", "exampleSentence", "exampleTranslationChinese", "exampleTranslationJapanese"]) {
       if (!word[key]) fail(`${level} word ${word.id} missing ${key}`);
+    }
+    if (!["noun", "verb", "adjective", "adverb", "conjunction", "preposition"].includes(word.partOfSpeech)) {
+      fail(`${level} word ${word.id} has unclear partOfSpeech: ${word.partOfSpeech}`);
     }
     checkNoPlaceholders(word, `${level} word ${word.id}`);
   }

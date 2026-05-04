@@ -11,6 +11,7 @@
     "prisma:generate": "prisma generate",
     "db:push": "prisma db push",
     "db:init": "node scripts/init-db.js",
+    "normalize:content": "node scripts/normalize-content-quality.js",
     "check:content": "tsx scripts/check-content-quality.ts"
   },
   "keywords": [],

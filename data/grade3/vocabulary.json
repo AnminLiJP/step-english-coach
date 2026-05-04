@@ -218,8 +218,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use activity in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 activity 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は activity の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 activity 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は activity の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -238,11 +238,11 @@
     "phonetic": "/advice/",
     "japaneseMeaning": "助言",
     "chineseMeaning": "建议",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use advice in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 advice 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は advice の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 advice 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は advice の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -261,11 +261,11 @@
     "phonetic": "/announce/",
     "japaneseMeaning": "発表する",
     "chineseMeaning": "宣布",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use announce in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 announce 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は announce の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 announce 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は announce の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -284,11 +284,11 @@
     "phonetic": "/article/",
     "japaneseMeaning": "記事",
     "chineseMeaning": "文章",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use article in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 article 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は article の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 article 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は article の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -307,11 +307,11 @@
     "phonetic": "/attend/",
     "japaneseMeaning": "出席する",
     "chineseMeaning": "参加；出席",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use attend in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 attend 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は attend の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 attend 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は attend の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -330,11 +330,11 @@
     "phonetic": "/careless/",
     "japaneseMeaning": "不注意な",
     "chineseMeaning": "粗心的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use careless in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 careless 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は careless の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 careless 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は careless の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -353,11 +353,11 @@
     "phonetic": "/challenge/",
     "japaneseMeaning": "挑戦",
     "chineseMeaning": "挑战",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use challenge in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 challenge 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は challenge の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 challenge 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は challenge の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -376,11 +376,11 @@
     "phonetic": "/choice/",
     "japaneseMeaning": "選択",
     "chineseMeaning": "选择",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use choice in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 choice 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は choice の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 choice 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は choice の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -399,11 +399,11 @@
     "phonetic": "/collect/",
     "japaneseMeaning": "集める",
     "chineseMeaning": "收集",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use collect in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 collect 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は collect の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 collect 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は collect の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -425,8 +425,8 @@
     "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use compare in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 compare 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は compare の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 compare 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は compare の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -445,11 +445,11 @@
     "phonetic": "/condition/",
     "japaneseMeaning": "条件；状態",
     "chineseMeaning": "条件；状况",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use condition in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 condition 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は condition の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 condition 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は condition の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -468,11 +468,11 @@
     "phonetic": "/connect/",
     "japaneseMeaning": "つなぐ",
     "chineseMeaning": "连接",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use connect in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 connect 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は connect の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 connect 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は connect の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -491,11 +491,11 @@
     "phonetic": "/continue/",
     "japaneseMeaning": "続ける",
     "chineseMeaning": "继续",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use continue in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 continue 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は continue の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 continue 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は continue の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -514,11 +514,11 @@
     "phonetic": "/culture/",
     "japaneseMeaning": "文化",
     "chineseMeaning": "文化",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use culture in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 culture 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は culture の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 culture 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は culture の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -540,8 +540,8 @@
     "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use daily in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 daily 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は daily の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 daily 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は daily の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -560,11 +560,11 @@
     "phonetic": "/describe/",
     "japaneseMeaning": "説明する",
     "chineseMeaning": "描述",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use describe in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 describe 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は describe の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 describe 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は describe の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -583,11 +583,11 @@
     "phonetic": "/develop/",
     "japaneseMeaning": "発展させる",
     "chineseMeaning": "发展；培养",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use develop in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 develop 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は develop の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 develop 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は develop の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -606,11 +606,11 @@
     "phonetic": "/difference/",
     "japaneseMeaning": "違い",
     "chineseMeaning": "差异",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use difference in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 difference 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は difference の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 difference 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は difference の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -629,11 +629,11 @@
     "phonetic": "/discover/",
     "japaneseMeaning": "発見する",
     "chineseMeaning": "发现",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use discover in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 discover 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は discover の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 discover 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は discover の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -652,11 +652,11 @@
     "phonetic": "/effort/",
     "japaneseMeaning": "努力",
     "chineseMeaning": "努力",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use effort in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 effort 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は effort の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 effort 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は effort の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -678,8 +678,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use event in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 event 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は event の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 event 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は event の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -698,11 +698,11 @@
     "phonetic": "/favorite/",
     "japaneseMeaning": "お気に入りの",
     "chineseMeaning": "最喜欢的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use favorite in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 favorite 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は favorite の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 favorite 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は favorite の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -724,8 +724,8 @@
     "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use healthy in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 healthy 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は healthy の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 healthy 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は healthy の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -744,11 +744,11 @@
     "phonetic": "/improve/",
     "japaneseMeaning": "改善する",
     "chineseMeaning": "改善；提高",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use improve in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 improve 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は improve の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 improve 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は improve の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -767,11 +767,11 @@
     "phonetic": "/include/",
     "japaneseMeaning": "含む",
     "chineseMeaning": "包含",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use include in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 include 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は include の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 include 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は include の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -790,11 +790,11 @@
     "phonetic": "/interest/",
     "japaneseMeaning": "興味",
     "chineseMeaning": "兴趣",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use interest in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 interest 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は interest の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 interest 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は interest の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -813,11 +813,11 @@
     "phonetic": "/invite/",
     "japaneseMeaning": "招待する",
     "chineseMeaning": "邀请",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use invite in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 invite 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は invite の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 invite 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は invite の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -836,11 +836,11 @@
     "phonetic": "/local/",
     "japaneseMeaning": "地元の",
     "chineseMeaning": "当地的",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use local in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 local 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は local の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 local 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は local の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -862,8 +862,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use message in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 message 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は message の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 message 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は message の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -882,11 +882,11 @@
     "phonetic": "/necessary/",
     "japaneseMeaning": "必要な",
     "chineseMeaning": "必要的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use necessary in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 necessary 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は necessary の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 necessary 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は necessary の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -905,11 +905,11 @@
     "phonetic": "/notice/",
     "japaneseMeaning": "気づく；通知",
     "chineseMeaning": "注意到；通知",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use notice in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 notice 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は notice の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 notice 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は notice の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -928,11 +928,11 @@
     "phonetic": "/opinion/",
     "japaneseMeaning": "意見",
     "chineseMeaning": "意见",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use opinion in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 opinion 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は opinion の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 opinion 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は opinion の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -951,11 +951,11 @@
     "phonetic": "/prepare/",
     "japaneseMeaning": "準備する",
     "chineseMeaning": "准备",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use prepare in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 prepare 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は prepare の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 prepare 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は prepare の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -974,11 +974,11 @@
     "phonetic": "/project/",
     "japaneseMeaning": "課題；計画",
     "chineseMeaning": "项目；课题",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use project in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 project 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は project の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 project 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は project の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -997,11 +997,11 @@
     "phonetic": "/reason/",
     "japaneseMeaning": "理由",
     "chineseMeaning": "理由",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use reason in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 reason 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は reason の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 reason 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は reason の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1020,11 +1020,11 @@
     "phonetic": "/receive/",
     "japaneseMeaning": "受け取る",
     "chineseMeaning": "收到",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use receive in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 receive 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は receive の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 receive 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は receive の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1043,11 +1043,11 @@
     "phonetic": "/recent/",
     "japaneseMeaning": "最近の",
     "chineseMeaning": "最近的",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use recent in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 recent 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は recent の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 recent 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は recent の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1069,8 +1069,8 @@
     "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use remember in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 remember 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は remember の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 remember 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は remember の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1089,11 +1089,11 @@
     "phonetic": "/schedule/",
     "japaneseMeaning": "予定",
     "chineseMeaning": "日程",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use schedule in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 schedule 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は schedule の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 schedule 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は schedule の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1112,11 +1112,11 @@
     "phonetic": "/several/",
     "japaneseMeaning": "いくつかの",
     "chineseMeaning": "几个",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use several in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 several 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は several の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 several 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は several の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1135,11 +1135,11 @@
     "phonetic": "/share/",
     "japaneseMeaning": "共有する",
     "chineseMeaning": "分享",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use share in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 share 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は share の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 share 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は share の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1158,11 +1158,11 @@
     "phonetic": "/similar/",
     "japaneseMeaning": "似ている",
     "chineseMeaning": "相似的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use similar in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 similar 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は similar の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 similar 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は similar の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1181,11 +1181,11 @@
     "phonetic": "/situation/",
     "japaneseMeaning": "状況",
     "chineseMeaning": "情况",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use situation in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 situation 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は situation の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 situation 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は situation の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1204,11 +1204,11 @@
     "phonetic": "/special/",
     "japaneseMeaning": "特別な",
     "chineseMeaning": "特别的",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use special in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 special 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は special の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 special 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は special の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1227,11 +1227,11 @@
     "phonetic": "/support/",
     "japaneseMeaning": "支える",
     "chineseMeaning": "支持",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use support in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 support 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は support の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 support 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は support の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1250,11 +1250,11 @@
     "phonetic": "/useful/",
     "japaneseMeaning": "役に立つ",
     "chineseMeaning": "有用的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use useful in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 useful 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は useful の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 useful 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は useful の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1273,11 +1273,11 @@
     "phonetic": "/visitor/",
     "japaneseMeaning": "訪問者",
     "chineseMeaning": "访客",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use visitor in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 visitor 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は visitor の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 visitor 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は visitor の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1296,11 +1296,11 @@
     "phonetic": "/while/",
     "japaneseMeaning": "間に；一方で",
     "chineseMeaning": "当……时；然而",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "conjunction",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use while in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 while 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は while の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 while 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は while の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1319,11 +1319,11 @@
     "phonetic": "/without/",
     "japaneseMeaning": "なしで",
     "chineseMeaning": "没有",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "preposition",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use without in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 without 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は without の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 without 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は without の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1345,8 +1345,8 @@
     "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use wonder in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 wonder 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は wonder の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 wonder 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は wonder の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1365,11 +1365,11 @@
     "phonetic": "/achieve/",
     "japaneseMeaning": "達成する",
     "chineseMeaning": "实现；达成",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use achieve in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 achieve 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は achieve の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 achieve 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は achieve の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1388,11 +1388,11 @@
     "phonetic": "/allow/",
     "japaneseMeaning": "許す",
     "chineseMeaning": "允许",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use allow in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 allow 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は allow の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 allow 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は allow の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1411,11 +1411,11 @@
     "phonetic": "/appear/",
     "japaneseMeaning": "現れる；ように見える",
     "chineseMeaning": "出现；似乎",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use appear in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 appear 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は appear の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 appear 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は appear の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1434,11 +1434,11 @@
     "phonetic": "/available/",
     "japaneseMeaning": "利用できる；空いている",
     "chineseMeaning": "可获得的；有空的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use available in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 available 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は available の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 available 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は available の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1457,11 +1457,11 @@
     "phonetic": "/balance/",
     "japaneseMeaning": "バランス",
     "chineseMeaning": "平衡",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use balance in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 balance 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は balance の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 balance 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は balance の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1480,11 +1480,11 @@
     "phonetic": "/benefit/",
     "japaneseMeaning": "利益；恩恵",
     "chineseMeaning": "好处；受益",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use benefit in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 benefit 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は benefit の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 benefit 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は benefit の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1506,8 +1506,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use cause in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 cause 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は cause の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 cause 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は cause の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1526,11 +1526,11 @@
     "phonetic": "/comfortable/",
     "japaneseMeaning": "快適な",
     "chineseMeaning": "舒适的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use comfortable in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 comfortable 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は comfortable の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 comfortable 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は comfortable の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1549,11 +1549,11 @@
     "phonetic": "/consider/",
     "japaneseMeaning": "よく考える",
     "chineseMeaning": "考虑",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use consider in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 consider 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は consider の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 consider 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は consider の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1572,11 +1572,11 @@
     "phonetic": "/create/",
     "japaneseMeaning": "創造する",
     "chineseMeaning": "创造",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use create in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 create 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は create の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 create 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は create の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1598,8 +1598,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use decision in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 decision 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は decision の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 decision 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は decision の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1618,11 +1618,11 @@
     "phonetic": "/education/",
     "japaneseMeaning": "教育",
     "chineseMeaning": "教育",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use education in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 education 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は education の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 education 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は education の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1644,8 +1644,8 @@
     "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use effective in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 effective 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は effective の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 effective 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は effective の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1667,8 +1667,8 @@
     "partOfSpeech": "adverb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use especially in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 especially 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は especially の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 especially 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は especially の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1687,11 +1687,11 @@
     "phonetic": "/focus/",
     "japaneseMeaning": "集中する；焦点",
     "chineseMeaning": "集中；重点",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use focus in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 focus 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は focus の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 focus 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は focus の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1710,11 +1710,11 @@
     "phonetic": "/habit/",
     "japaneseMeaning": "習慣",
     "chineseMeaning": "习惯",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use habit in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 habit 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は habit の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 habit 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は habit の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1733,11 +1733,11 @@
     "phonetic": "/instead/",
     "japaneseMeaning": "代わりに",
     "chineseMeaning": "代替；反而",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "adverb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use instead in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 instead 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は instead の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 instead 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は instead の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1756,11 +1756,11 @@
     "phonetic": "/knowledge/",
     "japaneseMeaning": "知識",
     "chineseMeaning": "知识",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use knowledge in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 knowledge 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は knowledge の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 knowledge 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は knowledge の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1782,8 +1782,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use method in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 method 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は method の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 method 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は method の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1802,11 +1802,11 @@
     "phonetic": "/modern/",
     "japaneseMeaning": "現代の",
     "chineseMeaning": "现代的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use modern in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 modern 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は modern の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 modern 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は modern の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1828,8 +1828,8 @@
     "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use natural in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 natural 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は natural の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 natural 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は natural の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1848,11 +1848,11 @@
     "phonetic": "/patient/",
     "japaneseMeaning": "我慢強い；患者",
     "chineseMeaning": "有耐心的；病人",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use patient in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 patient 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は patient の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 patient 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は patient の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1871,11 +1871,11 @@
     "phonetic": "/personal/",
     "japaneseMeaning": "個人的な",
     "chineseMeaning": "个人的",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use personal in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 personal 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は personal の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 personal 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は personal の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1894,11 +1894,11 @@
     "phonetic": "/possible/",
     "japaneseMeaning": "可能な",
     "chineseMeaning": "可能的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use possible in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 possible 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は possible の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 possible 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は possible の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -1917,11 +1917,11 @@
     "phonetic": "/protect/",
     "japaneseMeaning": "守る",
     "chineseMeaning": "保护",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "verb",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use protect in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 protect 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は protect の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 protect 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は protect の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -1940,11 +1940,11 @@
     "phonetic": "/public/",
     "japaneseMeaning": "公共の；一般の",
     "chineseMeaning": "公共的；公众的",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use public in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 public 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は public の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 public 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は public の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -1966,8 +1966,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use purpose in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 purpose 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は purpose の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 purpose 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は purpose の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -1986,11 +1986,11 @@
     "phonetic": "/quality/",
     "japaneseMeaning": "質",
     "chineseMeaning": "质量；品质",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use quality in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 quality 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は quality の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 quality 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は quality の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -2009,11 +2009,11 @@
     "phonetic": "/result/",
     "japaneseMeaning": "結果",
     "chineseMeaning": "结果",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use result in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 result 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は result の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 result 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は result の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -2032,11 +2032,11 @@
     "phonetic": "/safe/",
     "japaneseMeaning": "安全な",
     "chineseMeaning": "安全的",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use safe in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 safe 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は safe の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 safe 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は safe の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -2055,11 +2055,11 @@
     "phonetic": "/serious/",
     "japaneseMeaning": "真剣な；深刻な",
     "chineseMeaning": "严肃的；严重的",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use serious in a short report about volunteer club.",
-    "exampleTranslationChinese": "这句话展示 serious 在volunteer club话题中的用法。",
-    "exampleTranslationJapanese": "この文は serious の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 serious 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は serious の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -2078,11 +2078,11 @@
     "phonetic": "/simple/",
     "japaneseMeaning": "簡単な",
     "chineseMeaning": "简单的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use simple in a short report about school festival.",
-    "exampleTranslationChinese": "这句话展示 simple 在school festival话题中的用法。",
-    "exampleTranslationJapanese": "この文は simple の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 simple 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は simple の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -2101,11 +2101,11 @@
     "phonetic": "/skill/",
     "japaneseMeaning": "技能",
     "chineseMeaning": "技能",
-    "partOfSpeech": "adjective",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use skill in a short report about online exchange.",
-    "exampleTranslationChinese": "这句话展示 skill 在online exchange话题中的用法。",
-    "exampleTranslationJapanese": "この文は skill の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 skill 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は skill の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -2124,11 +2124,11 @@
     "phonetic": "/society/",
     "japaneseMeaning": "社会",
     "chineseMeaning": "社会",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use society in a short report about library report.",
-    "exampleTranslationChinese": "这句话展示 society 在library report话题中的用法。",
-    "exampleTranslationJapanese": "この文は society の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 society 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は society の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -2150,8 +2150,8 @@
     "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use solution in a short report about international event.",
-    "exampleTranslationChinese": "这句话展示 solution 在international event话题中的用法。",
-    "exampleTranslationJapanese": "この文は solution の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 solution 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は solution の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -2170,11 +2170,11 @@
     "phonetic": "/suggestion/",
     "japaneseMeaning": "提案",
     "chineseMeaning": "建议",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use suggestion in a short report about science project.",
-    "exampleTranslationChinese": "这句话展示 suggestion 在science project话题中的用法。",
-    "exampleTranslationJapanese": "この文は suggestion の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 suggestion 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は suggestion の使い方を示しています。",
     "synonyms": [
       "use"
     ],
@@ -2196,8 +2196,8 @@
     "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use traditional in a short report about speech contest.",
-    "exampleTranslationChinese": "这句话展示 traditional 在speech contest话题中的用法。",
-    "exampleTranslationJapanese": "この文は traditional の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 traditional 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は traditional の使い方を示しています。",
     "synonyms": [
       "good"
     ],
@@ -2216,11 +2216,11 @@
     "phonetic": "/transportation/",
     "japaneseMeaning": "交通機関",
     "chineseMeaning": "交通",
-    "partOfSpeech": "adverb",
+    "partOfSpeech": "noun",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use transportation in a short report about community garden.",
-    "exampleTranslationChinese": "这句话展示 transportation 在community garden话题中的用法。",
-    "exampleTranslationJapanese": "この文は transportation の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 transportation 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は transportation の使い方を示しています。",
     "synonyms": [
       "clearly"
     ],
@@ -2239,11 +2239,11 @@
     "phonetic": "/valuable/",
     "japaneseMeaning": "価値のある",
     "chineseMeaning": "有价值的",
-    "partOfSpeech": "noun",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use valuable in a short report about email from friend.",
-    "exampleTranslationChinese": "这句话展示 valuable 在email from friend话题中的用法。",
-    "exampleTranslationJapanese": "この文は valuable の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 valuable 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は valuable の使い方を示しています。",
     "synonyms": [
       "idea"
     ],
@@ -2262,11 +2262,11 @@
     "phonetic": "/various/",
     "japaneseMeaning": "さまざまな",
     "chineseMeaning": "各种各样的",
-    "partOfSpeech": "verb",
+    "partOfSpeech": "adjective",
     "level": "grade3",
     "exampleSentence": "Our teacher asked us to use various in a short report about short article.",
-    "exampleTranslationChinese": "这句话展示 various 在short article话题中的用法。",
-    "exampleTranslationJapanese": "この文は various の使い方を示しています。",
+    "exampleTranslationChinese": "这个例句展示 various 在学习和日常话题中的用法。",
+    "exampleTranslationJapanese": "この例文は various の使い方を示しています。",
     "synonyms": [
       "use"
     ],

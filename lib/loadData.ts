@@ -1,4 +1,4 @@
-﻿import grade3Grammar from "@/data/grade3/grammar_lessons.json";
+import grade3Grammar from "@/data/grade3/grammar_lessons.json";
 import grade3MockExams from "@/data/grade3/mock_exams.json";
 import grade3Questions from "@/data/grade3/questions.json";
 import grade3Vocabulary from "@/data/grade3/vocabulary.json";
@@ -13,9 +13,9 @@ import pre2Vocabulary from "@/data/pre2/vocabulary.json";
 import type { ExamLevel, GrammarLesson, LevelData, MockExam, PracticeQuestion, VocabularyEntry } from "@/types/levels";
 
 export const levelOptions: Array<{ level: ExamLevel; label: string; description: string }> = [
-  { level: "grade4", label: "Grade 4 Level", description: "鏃ユ湰涓涓骇绋嬪害" },
-  { level: "grade3", label: "Grade 3 Level", description: "鏃ユ湰涓姣曚笟绋嬪害" },
-  { level: "pre2", label: "Pre-2 Level", description: "楂樹腑涓骇绋嬪害" },
+  { level: "grade4", label: "Grade 4 Level", description: "Junior high intermediate level" },
+  { level: "grade3", label: "Grade 3 Level", description: "Junior high graduation level" },
+  { level: "pre2", label: "Pre-2 Level", description: "High school lower-intermediate to intermediate level" },
 ];
 
 export function levelLabel(level: ExamLevel) {
@@ -51,4 +51,3 @@ export function normalizeLevel(value: string | null | undefined): ExamLevel {
   if (value === "grade3" || value === "pre2" || value === "grade4") return value;
   return "grade4";
 }
-

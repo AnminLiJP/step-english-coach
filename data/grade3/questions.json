@@ -11,13 +11,13 @@
     ],
     "question": "During the volunteer club, students used \"review\" to explain their ideas clearly. What does \"review\" mean here? [Set 1]",
     "choices": [
-      "review 的反义表达",
-      "复习",
-      "volunteer club 相关地点",
-      "不符合上下文的意思"
+      "环境",
+      "科技，技术",
+      "国际的",
+      "复习"
     ],
     "answer": "复习",
-    "explanationChinese": "根据上下文，review 在这里表示“复习”。不要只看单词外形，要看后面的情境线索。",
+    "explanationChinese": "根据上下文，review 在这里表示“复习”。先确认句子场景，再选择最合适的中文意思。",
     "explanationJapanese": "文脈から review は「復習する」の意味です。"
   },
   {
@@ -116,13 +116,13 @@
     ],
     "question": "During the science project, students used \"international\" to explain their ideas clearly. What does \"international\" mean here? [Set 6]",
     "choices": [
-      "science project 相关地点",
-      "international 的反义表达",
       "国际的",
-      "不符合上下文的意思"
+      "文化",
+      "继续",
+      "连接"
     ],
     "answer": "国际的",
-    "explanationChinese": "根据上下文，international 在这里表示“国际的”。不要只看单词外形，要看后面的情境线索。",
+    "explanationChinese": "根据上下文，international 在这里表示“国际的”。先确认句子场景，再选择最合适的中文意思。",
     "explanationJapanese": "文脈から international は「国際的な」の意味です。"
   },
   {
@@ -221,14 +221,14 @@
     ],
     "question": "During the volunteer club, students used \"activity\" to explain their ideas clearly. What does \"activity\" mean here? [Set 11]",
     "choices": [
-      "不符合上下文的意思",
-      "activity 的反义表达",
-      "volunteer club 相关地点",
+      "挑战",
+      "选择",
+      "粗心的",
       "活动"
     ],
     "answer": "活动",
-    "explanationChinese": "根据上下文，activity 在这里表示“活动”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から activity は「activity の意味」の意味です。"
+    "explanationChinese": "根据上下文，activity 在这里表示“活动”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から activity は「活動」の意味です。"
   },
   {
     "id": "g3-q-012",
@@ -326,14 +326,14 @@
     ],
     "question": "During the science project, students used \"careless\" to explain their ideas clearly. What does \"careless\" mean here? [Set 16]",
     "choices": [
+      "有自信的",
+      "活动",
       "粗心的",
-      "careless 的反义表达",
-      "science project 相关地点",
-      "不符合上下文的意思"
+      "建议"
     ],
     "answer": "粗心的",
-    "explanationChinese": "根据上下文，careless 在这里表示“粗心的”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から careless は「careless の意味」の意味です。"
+    "explanationChinese": "根据上下文，careless 在这里表示“粗心的”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から careless は「不注意な」の意味です。"
   },
   {
     "id": "g3-q-017",
@@ -431,14 +431,14 @@
     ],
     "question": "During the volunteer club, students used \"condition\" to explain their ideas clearly. What does \"condition\" mean here? [Set 21]",
     "choices": [
-      "condition 的反义表达",
+      "解释",
+      "决定",
       "条件；状况",
-      "volunteer club 相关地点",
-      "不符合上下文的意思"
+      "志愿者"
     ],
     "answer": "条件；状况",
-    "explanationChinese": "根据上下文，condition 在这里表示“条件；状况”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から condition は「condition の意味」の意味です。"
+    "explanationChinese": "根据上下文，condition 在这里表示“条件；状况”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から condition は「条件；状態」の意味です。"
   },
   {
     "id": "g3-q-022",
@@ -536,14 +536,14 @@
     ],
     "question": "During the science project, students used \"describe\" to explain their ideas clearly. What does \"describe\" mean here? [Set 26]",
     "choices": [
-      "science project 相关地点",
-      "describe 的反义表达",
-      "描述",
-      "不符合上下文的意思"
+      "收集",
+      "条件；状况",
+      "比较",
+      "描述"
     ],
     "answer": "描述",
-    "explanationChinese": "根据上下文，describe 在这里表示“描述”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から describe は「describe の意味」の意味です。"
+    "explanationChinese": "根据上下文，describe 在这里表示“描述”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から describe は「説明する」の意味です。"
   },
   {
     "id": "g3-q-027",
@@ -641,14 +641,14 @@
     ],
     "question": "During the volunteer club, students used \"event\" to explain their ideas clearly. What does \"event\" mean here? [Set 31]",
     "choices": [
-      "不符合上下文的意思",
-      "event 的反义表达",
-      "volunteer club 相关地点",
-      "活动；事件"
+      "文章",
+      "参加；出席",
+      "活动；事件",
+      "宣布"
     ],
     "answer": "活动；事件",
-    "explanationChinese": "根据上下文，event 在这里表示“活动；事件”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から event は「event の意味」の意味です。"
+    "explanationChinese": "根据上下文，event 在这里表示“活动；事件”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から event は「行事；出来事」の意味です。"
   },
   {
     "id": "g3-q-032",
@@ -746,14 +746,14 @@
     ],
     "question": "During the science project, students used \"interest\" to explain their ideas clearly. What does \"interest\" mean here? [Set 36]",
     "choices": [
+      "环境",
       "兴趣",
-      "interest 的反义表达",
-      "science project 相关地点",
-      "不符合上下文的意思"
+      "有自信的",
+      "科技，技术"
     ],
     "answer": "兴趣",
-    "explanationChinese": "根据上下文，interest 在这里表示“兴趣”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から interest は「interest の意味」の意味です。"
+    "explanationChinese": "根据上下文，interest 在这里表示“兴趣”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から interest は「興味」の意味です。"
   },
   {
     "id": "g3-q-037",
@@ -851,14 +851,14 @@
     ],
     "question": "During the volunteer club, students used \"notice\" to explain their ideas clearly. What does \"notice\" mean here? [Set 41]",
     "choices": [
-      "notice 的反义表达",
+      "决定",
       "注意到；通知",
-      "volunteer club 相关地点",
-      "不符合上下文的意思"
+      "复习",
+      "经验，经历"
     ],
     "answer": "注意到；通知",
-    "explanationChinese": "根据上下文，notice 在这里表示“注意到；通知”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から notice は「notice の意味」の意味です。"
+    "explanationChinese": "根据上下文，notice 在这里表示“注意到；通知”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から notice は「気づく；通知」の意味です。"
   },
   {
     "id": "g3-q-042",
@@ -956,14 +956,14 @@
     ],
     "question": "During the science project, students used \"receive\" to explain their ideas clearly. What does \"receive\" mean here? [Set 46]",
     "choices": [
-      "science project 相关地点",
-      "receive 的反义表达",
+      "收集",
       "收到",
-      "不符合上下文的意思"
+      "挑战",
+      "选择"
     ],
     "answer": "收到",
-    "explanationChinese": "根据上下文，receive 在这里表示“收到”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から receive は「receive の意味」の意味です。"
+    "explanationChinese": "根据上下文，receive 在这里表示“收到”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から receive は「受け取る」の意味です。"
   },
   {
     "id": "g3-q-047",
@@ -1061,14 +1061,14 @@
     ],
     "question": "During the volunteer club, students used \"share\" to explain their ideas clearly. What does \"share\" mean here? [Set 51]",
     "choices": [
-      "不符合上下文的意思",
-      "share 的反义表达",
-      "volunteer club 相关地点",
+      "活动",
+      "宣布",
+      "建议",
       "分享"
     ],
     "answer": "分享",
-    "explanationChinese": "根据上下文，share 在这里表示“分享”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から share は「share の意味」の意味です。"
+    "explanationChinese": "根据上下文，share 在这里表示“分享”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から share は「共有する」の意味です。"
   },
   {
     "id": "g3-q-052",
@@ -1166,14 +1166,14 @@
     ],
     "question": "During the science project, students used \"useful\" to explain their ideas clearly. What does \"useful\" mean here? [Set 56]",
     "choices": [
+      "志愿者",
       "有用的",
-      "useful 的反义表达",
-      "science project 相关地点",
-      "不符合上下文的意思"
+      "环境",
+      "国际的"
     ],
     "answer": "有用的",
-    "explanationChinese": "根据上下文，useful 在这里表示“有用的”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から useful は「useful の意味」の意味です。"
+    "explanationChinese": "根据上下文，useful 在这里表示“有用的”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から useful は「役に立つ」の意味です。"
   },
   {
     "id": "g3-q-057",
@@ -1271,14 +1271,14 @@
     ],
     "question": "During the volunteer club, students used \"achieve\" to explain their ideas clearly. What does \"achieve\" mean here? [Set 61]",
     "choices": [
-      "achieve 的反义表达",
+      "条件；状况",
+      "连接",
       "实现；达成",
-      "volunteer club 相关地点",
-      "不符合上下文的意思"
+      "比较"
     ],
     "answer": "实现；达成",
-    "explanationChinese": "根据上下文，achieve 在这里表示“实现；达成”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から achieve は「achieve の意味」の意味です。"
+    "explanationChinese": "根据上下文，achieve 在这里表示“实现；达成”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から achieve は「達成する」の意味です。"
   },
   {
     "id": "g3-q-062",
@@ -1376,14 +1376,14 @@
     ],
     "question": "During the science project, students used \"benefit\" to explain their ideas clearly. What does \"benefit\" mean here? [Set 66]",
     "choices": [
-      "science project 相关地点",
-      "benefit 的反义表达",
+      "参加；出席",
       "好处；受益",
-      "不符合上下文的意思"
+      "挑战",
+      "粗心的"
     ],
     "answer": "好处；受益",
-    "explanationChinese": "根据上下文，benefit 在这里表示“好处；受益”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から benefit は「benefit の意味」の意味です。"
+    "explanationChinese": "根据上下文，benefit 在这里表示“好处；受益”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から benefit は「利益；恩恵」の意味です。"
   },
   {
     "id": "g3-q-067",
@@ -1481,14 +1481,14 @@
     ],
     "question": "During the volunteer club, students used \"decision\" to explain their ideas clearly. What does \"decision\" mean here? [Set 71]",
     "choices": [
-      "不符合上下文的意思",
-      "decision 的反义表达",
-      "volunteer club 相关地点",
-      "决定"
+      "决定",
+      "建议",
+      "有自信的",
+      "活动"
     ],
     "answer": "决定",
-    "explanationChinese": "根据上下文，decision 在这里表示“决定”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から decision は「decision の意味」の意味です。"
+    "explanationChinese": "根据上下文，decision 在这里表示“决定”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から decision は「決定」の意味です。"
   },
   {
     "id": "g3-q-072",
@@ -1586,14 +1586,14 @@
     ],
     "question": "During the science project, students used \"habit\" to explain their ideas clearly. What does \"habit\" mean here? [Set 76]",
     "choices": [
-      "习惯",
-      "habit 的反义表达",
-      "science project 相关地点",
-      "不符合上下文的意思"
+      "解释",
+      "志愿者",
+      "决定",
+      "习惯"
     ],
     "answer": "习惯",
-    "explanationChinese": "根据上下文，habit 在这里表示“习惯”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から habit は「habit の意味」の意味です。"
+    "explanationChinese": "根据上下文，habit 在这里表示“习惯”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から habit は「習慣」の意味です。"
   },
   {
     "id": "g3-q-077",
@@ -1691,14 +1691,14 @@
     ],
     "question": "During the volunteer club, students used \"natural\" to explain their ideas clearly. What does \"natural\" mean here? [Set 81]",
     "choices": [
-      "natural 的反义表达",
+      "收集",
+      "选择",
       "自然的",
-      "volunteer club 相关地点",
-      "不符合上下文的意思"
+      "比较"
     ],
     "answer": "自然的",
-    "explanationChinese": "根据上下文，natural 在这里表示“自然的”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から natural は「natural の意味」の意味です。"
+    "explanationChinese": "根据上下文，natural 在这里表示“自然的”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から natural は「自然な」の意味です。"
   },
   {
     "id": "g3-q-082",
@@ -1796,14 +1796,14 @@
     ],
     "question": "During the science project, students used \"public\" to explain their ideas clearly. What does \"public\" mean here? [Set 86]",
     "choices": [
-      "science project 相关地点",
-      "public 的反义表达",
+      "宣布",
       "公共的；公众的",
-      "不符合上下文的意思"
+      "参加；出席",
+      "文章"
     ],
     "answer": "公共的；公众的",
-    "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から public は「public の意味」の意味です。"
+    "explanationChinese": "根据上下文，public 在这里表示“公共的；公众的”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から public は「公共の；一般の」の意味です。"
   },
   {
     "id": "g3-q-087",
@@ -1901,14 +1901,14 @@
     ],
     "question": "During the volunteer club, students used \"serious\" to explain their ideas clearly. What does \"serious\" mean here? [Set 91]",
     "choices": [
-      "不符合上下文的意思",
-      "serious 的反义表达",
-      "volunteer club 相关地点",
-      "严肃的；严重的"
+      "严肃的；严重的",
+      "环境",
+      "科技，技术",
+      "国际的"
     ],
     "answer": "严肃的；严重的",
-    "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から serious は「serious の意味」の意味です。"
+    "explanationChinese": "根据上下文，serious 在这里表示“严肃的；严重的”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から serious は「真剣な；深刻な」の意味です。"
   },
   {
     "id": "g3-q-092",
@@ -2006,14 +2006,14 @@
     ],
     "question": "During the science project, students used \"suggestion\" to explain their ideas clearly. What does \"suggestion\" mean here? [Set 96]",
     "choices": [
+      "复习",
       "建议",
-      "suggestion 的反义表达",
-      "science project 相关地点",
-      "不符合上下文的意思"
+      "决定",
+      "经验，经历"
     ],
     "answer": "建议",
-    "explanationChinese": "根据上下文，suggestion 在这里表示“建议”。不要只看单词外形，要看后面的情境线索。",
-    "explanationJapanese": "文脈から suggestion は「suggestion の意味」の意味です。"
+    "explanationChinese": "根据上下文，suggestion 在这里表示“建议”。先确认句子场景，再选择最合适的中文意思。",
+    "explanationJapanese": "文脈から suggestion は「提案」の意味です。"
   },
   {
     "id": "g3-q-097",
