@@ -16,6 +16,18 @@ function fail(message: string) {
   console.error(`FAIL ${message}`);
 }
 
+function containsPlaceholder(value: unknown) {
+  return typeof value === "string" && /\b[A-Za-z][A-Za-z-]*\s+的意思\b/.test(value);
+}
+
+function checkNoPlaceholders(value: unknown, label: string) {
+  if (containsPlaceholder(value)) fail(`${label} contains placeholder text: ${value}`);
+  if (Array.isArray(value)) value.forEach((item, index) => checkNoPlaceholders(item, `${label}[${index}]`));
+  if (value && typeof value === "object") {
+    for (const [key, nested] of Object.entries(value)) checkNoPlaceholders(nested, `${label}.${key}`);
+  }
+}
+
 for (const level of levels) {
   const base = `data/${level}`;
   const vocabulary = readJson<any[]>(`${base}/vocabulary.json`);
@@ -34,6 +46,7 @@ for (const level of levels) {
     for (const key of ["word", "phonetic", "japaneseMeaning", "chineseMeaning", "exampleSentence", "exampleTranslationChinese", "exampleTranslationJapanese"]) {
       if (!word[key]) fail(`${level} word ${word.id} missing ${key}`);
     }
+    checkNoPlaceholders(word, `${level} word ${word.id}`);
   }
 
   for (const lesson of grammar) {
@@ -54,6 +67,7 @@ for (const level of levels) {
     if (!question.choices?.includes(question.answer)) fail(`${level} question ${question.id} answer not in choices`);
     if (!question.explanationChinese) fail(`${level} question ${question.id} missing Chinese explanation`);
     if (question.type === "reading" && !question.passage) fail(`${level} reading question ${question.id} missing passage`);
+    checkNoPlaceholders(question, `${level} question ${question.id}`);
   }
 
   for (const exam of exams) {
@@ -63,6 +77,7 @@ for (const level of levels) {
     for (const task of sections?.writing ?? []) {
       if (!task.sampleAnswer && !Array.isArray(task.points)) fail(`${level} writing task ${task.id} missing sample answer/rubric`);
     }
+    checkNoPlaceholders(exam, `${level} exam ${exam.examId}`);
   }
 }
 
