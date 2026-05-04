@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import LevelTabs from "@/components/LevelTabs";
 import { getLevelData, normalizeLevel } from "@/lib/loadData";
 import { localStorageKeys } from "@/lib/localStorageKeys";
-import { getSentenceBlank, getVocabChoices, nextIndex, scoreVocabAnswer, type VocabMode } from "@/lib/vocabUtils";
+import { formatPhonetic, getSentenceBlank, getVocabChoices, nextIndex, scoreVocabAnswer, type VocabMode } from "@/lib/vocabUtils";
 import type { ExamLevel, VocabularyEntry } from "@/types/levels";
 
 const modes: Array<{ id: VocabMode; label: string }> = [
@@ -77,7 +77,7 @@ export default function VocabularyTrainer() {
           </div>
 
           <div className="mt-6 rounded-lg bg-slate-50 p-6">
-            <p className="text-sm font-bold text-slate-500">{entry.partOfSpeech} / {entry.phonetic}</p>
+            <p className="text-sm font-bold text-slate-500">{[entry.partOfSpeech, formatPhonetic(entry)].filter(Boolean).join(" / ")}</p>
             <h2 className="mt-2 text-5xl font-black text-slate-950">{entry.word}</h2>
             <p className="mt-4 text-lg text-slate-700">{entry.chineseMeaning} / {entry.japaneseMeaning}</p>
             <p className="mt-5 text-lg leading-8 text-slate-900">{mode === "sentence-fill" ? getSentenceBlank(entry) : entry.exampleSentence}</p>

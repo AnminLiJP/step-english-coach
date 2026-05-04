@@ -8,6 +8,8 @@ export type Question = {
   choices: string[];
   answer: string;
   explanation: string;
+  phonetic?: string;
+  targetWord?: string;
   difficulty: 1 | 2 | 3;
   skillTags?: string[];
   calibration?: "below_level" | "on_level" | "stretch";

@@ -5,6 +5,7 @@ import LevelTabs from "@/components/LevelTabs";
 import { getLevelData } from "@/lib/loadData";
 import { flattenExamQuestions, getWritingTasks, scoreExam } from "@/lib/examUtils";
 import { localStorageKeys } from "@/lib/localStorageKeys";
+import { findVocabEntryInText, formatPhonetic } from "@/lib/vocabUtils";
 import { gradeWriting } from "@/lib/writingGrader";
 import type { ExamLevel, MockExam } from "@/types/levels";
 
@@ -15,7 +16,8 @@ export default function ExamRunner() {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [writingAnswers, setWritingAnswers] = useState<Record<string, string>>({});
   const [submitted, setSubmitted] = useState(false);
-  const exams = getLevelData(level).mockExams;
+  const data = getLevelData(level);
+  const exams = data.mockExams;
   const exam = exams[examIndex] ?? exams[0];
   const questions = useMemo(() => flattenExamQuestions(exam), [exam]);
   const current = questions[questionIndex];
@@ -48,6 +50,7 @@ export default function ExamRunner() {
           </div>
           {current.passage && <p className="mt-5 whitespace-pre-line rounded-md bg-slate-50 p-4 leading-7 text-slate-800">{current.passage}</p>}
           <p className="mt-5 text-lg font-semibold leading-8 text-slate-950">{current.question}</p>
+          <QuestionPhonetic question={current.question} show={current.sectionName === "vocabulary"} entries={data.vocabulary} />
           <div className="mt-4 grid gap-3 sm:grid-cols-2">{current.choices.map((choice) => <button key={choice} onClick={() => setAnswers((a) => ({ ...a, [current.id]: choice }))} className={`rounded-md border px-4 py-3 text-left font-semibold ${answers[current.id] === choice ? "border-sky-500 bg-sky-50" : "border-slate-200"}`}>{choice}</button>)}</div>
           <div className="mt-6 flex gap-3">
             <button onClick={() => setQuestionIndex((i) => Math.max(0, i - 1))} className="rounded-md border border-slate-300 px-5 py-3 text-sm font-bold">Previous</button>
@@ -58,16 +61,24 @@ export default function ExamRunner() {
         </section>
       )}
 
-      {submitted && <ExamResult exam={exam} answers={answers} writingAnswers={writingAnswers} />}
+      {submitted && <ExamResult exam={exam} answers={answers} writingAnswers={writingAnswers} entries={data.vocabulary} />}
     </div>
   );
+}
+
+function QuestionPhonetic({ question, show, entries }: { question: string; show: boolean; entries: ReturnType<typeof getLevelData>["vocabulary"] }) {
+  if (!show) return null;
+  const target = findVocabEntryInText(question, entries);
+  const phonetic = formatPhonetic(target);
+  if (!phonetic) return null;
+  return <p className="mt-2 text-sm font-bold text-slate-500">{target?.word} {phonetic}</p>;
 }
 
 function WritingArea({ exam, writingAnswers, setWritingAnswers }: { exam: MockExam; writingAnswers: Record<string, string>; setWritingAnswers: (value: Record<string, string>) => void }) {
   return <div className="mt-8 border-t border-slate-200 pt-6"><h3 className="text-lg font-bold">Writing Section</h3>{getWritingTasks(exam).map((task) => <div key={task.id} className="mt-4 rounded-md bg-slate-50 p-4"><p className="font-semibold">{task.prompt}</p><p className="mt-1 text-sm text-slate-600">Target: {task.targetWords}</p><textarea value={writingAnswers[task.id] ?? ""} onChange={(e) => setWritingAnswers({ ...writingAnswers, [task.id]: e.target.value })} className="mt-3 min-h-36 w-full rounded-md border border-slate-300 p-3" /></div>)}</div>;
 }
 
-function ExamResult({ exam, answers, writingAnswers }: { exam: MockExam; answers: Record<string, string>; writingAnswers: Record<string, string> }) {
+function ExamResult({ exam, answers, writingAnswers, entries }: { exam: MockExam; answers: Record<string, string>; writingAnswers: Record<string, string>; entries: ReturnType<typeof getLevelData>["vocabulary"] }) {
   const result = scoreExam(exam, answers);
   return (
     <section className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
@@ -75,7 +86,11 @@ function ExamResult({ exam, answers, writingAnswers }: { exam: MockExam; answers
       <p className="mt-3 text-4xl font-black text-sky-700">{result.correct} / {result.total}</p>
       <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">{Object.entries(result.sectionTotals).map(([name, value]) => <div key={name} className="rounded-md bg-slate-50 p-4"><p className="text-sm text-slate-500">{name}</p><p className="mt-1 text-xl font-bold">{value.correct}/{value.total}</p></div>)}</div>
       <h3 className="mt-6 font-bold">Answer Review</h3>
-      <div className="mt-3 space-y-3">{flattenExamQuestions(exam).map((q, index) => <div key={q.id} className="rounded-md border border-slate-200 p-3"><p className="font-semibold">{index + 1}. {q.question}</p><p className={answers[q.id] === q.answer ? "text-emerald-700" : "text-rose-700"}>Your answer: {answers[q.id] || "Blank"} / Correct: {q.answer}</p><p className="text-sm text-slate-600">{q.explanationChinese}</p></div>)}</div>
+      <div className="mt-3 space-y-3">{flattenExamQuestions(exam).map((q, index) => {
+        const target = q.sectionName === "vocabulary" ? findVocabEntryInText(q.question, entries) : undefined;
+        const phonetic = formatPhonetic(target);
+        return <div key={q.id} className="rounded-md border border-slate-200 p-3"><p className="font-semibold">{index + 1}. {q.question}</p>{phonetic && <p className="mt-1 text-sm font-bold text-slate-500">{target?.word} {phonetic}</p>}<p className={answers[q.id] === q.answer ? "text-emerald-700" : "text-rose-700"}>Your answer: {answers[q.id] || "Blank"} / Correct: {q.answer}</p><p className="text-sm text-slate-600">{q.explanationChinese}</p></div>;
+      })}</div>
       {getWritingTasks(exam).map((task) => { const grade = gradeWriting(task, writingAnswers[task.id] ?? ""); return <div key={task.id} className="mt-5 rounded-md bg-emerald-50 p-4"><p className="font-bold">{task.prompt}</p><p className="mt-2">Writing score: {grade.score}/{grade.maxScore}</p>{grade.feedback.map((f) => <p key={f} className="text-sm">{f}</p>)}<p className="mt-2 whitespace-pre-line text-sm text-slate-700">Sample: {grade.sampleAnswer}</p></div>; })}
     </section>
   );

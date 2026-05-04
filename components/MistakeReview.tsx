@@ -34,6 +34,7 @@ export default function MistakeReview() {
             <span className="text-xs text-slate-500">{new Date(item.savedAt).toLocaleDateString()}</span>
           </div>
           <p className="mt-3 font-semibold leading-7 text-slate-950">{item.question}</p>
+          {item.type === "vocabulary" && item.phonetic && <p className="mt-1 text-sm font-bold text-slate-500">{item.targetWord ? `${item.targetWord} ` : ""}{item.phonetic}</p>}
           <p className="mt-3 text-sm text-rose-700">Your answer: {item.selected}</p>
           <p className="mt-1 text-sm text-emerald-700">Correct answer: {item.answer}</p>
           <p className="mt-3 text-sm leading-6 text-slate-600">{item.explanation}</p>

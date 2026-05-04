@@ -32,6 +32,7 @@ export default function PrintPractice() {
           {questions.map((question, index) => (
             <li key={question.id} className="break-inside-avoid">
               <p className="font-semibold">{index + 1}. {question.question}</p>
+              {question.type === "vocabulary" && question.phonetic && <p className="mt-1 text-sm font-semibold text-slate-500">{question.targetWord ? `${question.targetWord} ` : ""}{question.phonetic}</p>}
               <div className="mt-2 grid grid-cols-2 gap-2 text-sm">{question.choices.map((choice, choiceIndex) => <span key={choice}>{String.fromCharCode(65 + choiceIndex)}. {choice}</span>)}</div>
               <p className="mt-3 text-sm">Answer: ________</p>
             </li>

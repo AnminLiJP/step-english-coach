@@ -22,6 +22,21 @@ export function getSentenceBlank(entry: VocabularyEntry) {
   return entry.exampleSentence.replace(pattern, "(   )");
 }
 
+export function formatPhonetic(entry?: Pick<VocabularyEntry, "phonetic"> | null) {
+  return entry?.phonetic?.trim() ?? "";
+}
+
+export function findVocabEntryInText(text: string, entries: VocabularyEntry[]) {
+  const quotedWord = text.match(/"([^"]+)"/)?.[1]?.toLowerCase();
+  if (quotedWord) {
+    const exact = entries.find((entry) => entry.word.toLowerCase() === quotedWord);
+    if (exact) return exact;
+  }
+
+  const lowerText = text.toLowerCase();
+  return entries.find((entry) => new RegExp(`\\b${escapeRegExp(entry.word.toLowerCase())}\\b`).test(lowerText));
+}
+
 export function scoreVocabAnswer(mode: VocabMode, entry: VocabularyEntry, answer: string) {
   const normalized = answer.trim().toLowerCase();
   if (mode === "en-to-zh") return answer === entry.chineseMeaning;
@@ -52,5 +67,9 @@ export function nextIndex(index: number, length: number) {
 
 export function levelStoragePrefix(level: ExamLevel) {
   return `step-english-${level}`;
+}
+
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 

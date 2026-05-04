@@ -70,6 +70,12 @@ export default function QuestionCard({ questions, level }: Props) {
       </div>
 
       <p className="mt-6 whitespace-pre-line text-lg leading-8 text-slate-900">{question.question}</p>
+      {question.type === "vocabulary" && question.phonetic && (
+        <p className="mt-2 text-sm font-bold text-slate-500">
+          {question.targetWord ? `${question.targetWord} ` : ""}
+          {question.phonetic}
+        </p>
+      )}
 
       <div className="mt-5 grid gap-3">
         {question.choices.map((choice) => (

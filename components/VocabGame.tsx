@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import LevelTabs from "@/components/LevelTabs";
 import { getLevelData } from "@/lib/loadData";
 import { localStorageKeys } from "@/lib/localStorageKeys";
-import { getSentenceBlank, getVocabChoices, nextIndex } from "@/lib/vocabUtils";
+import { formatPhonetic, getSentenceBlank, getVocabChoices, nextIndex } from "@/lib/vocabUtils";
 import type { ExamLevel } from "@/types/levels";
 
 type GameMode = "match" | "speed" | "fill";
@@ -69,6 +69,7 @@ export default function VocabGame() {
         <div className="mt-8 rounded-lg bg-gradient-to-br from-sky-50 to-emerald-50 p-8">
           <p className="text-sm font-bold text-slate-500">{mode === "fill" ? "Fill the blank" : "Choose the answer"}</p>
           <h2 className="mt-2 text-4xl font-black text-slate-950">{mode === "fill" ? getSentenceBlank(entry) : entry.word}</h2>
+          <p className="mt-2 text-sm font-bold text-slate-600">{formatPhonetic(entry)}</p>
           <div className="mt-6 grid gap-3 sm:grid-cols-2">
             {choices.map((choice) => (
               <button key={choice} disabled={mode === "speed" && timeLeft <= 0} onClick={() => choose(choice)} className="rounded-lg border border-white bg-white px-4 py-4 text-left font-bold shadow-sm hover:border-sky-300">

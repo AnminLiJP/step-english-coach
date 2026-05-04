@@ -3,6 +3,7 @@
 import { useState } from "react";
 import LevelTabs from "@/components/LevelTabs";
 import { getLevelData, levelLabel } from "@/lib/loadData";
+import { formatPhonetic } from "@/lib/vocabUtils";
 import type { ExamLevel } from "@/types/levels";
 
 export default function PrintPack() {
@@ -55,7 +56,7 @@ export default function PrintPack() {
                 <ol className="mt-1 list-decimal pl-5 text-sm">
                   {vocab.map((word) => (
                     <li key={word.id}>
-                      {word.word} / {word.chineseMeaning} / {word.japaneseMeaning}
+                      {word.word} {formatPhonetic(word)} / {word.chineseMeaning} / {word.japaneseMeaning}
                     </li>
                   ))}
                 </ol>

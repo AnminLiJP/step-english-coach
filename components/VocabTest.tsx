@@ -5,7 +5,7 @@ import LevelTabs from "@/components/LevelTabs";
 import { getLevelData } from "@/lib/loadData";
 import { localStorageKeys } from "@/lib/localStorageKeys";
 import { gradeSentence } from "@/lib/sentenceGrader";
-import { getSentenceBlank, getVocabChoices } from "@/lib/vocabUtils";
+import { formatPhonetic, getSentenceBlank, getVocabChoices } from "@/lib/vocabUtils";
 import type { ExamLevel, SentenceGrade, VocabularyEntry } from "@/types/levels";
 
 type TestItem = {
@@ -82,21 +82,22 @@ function buildItems(entries: VocabularyEntry[], count: number): TestItem[] {
 
 function Prompt({ item, entries, value, onChange }: { item: TestItem; entries: VocabularyEntry[]; value: string; onChange: (value: string) => void }) {
   if (item.kind === "sentence") {
-    return <div className="mt-3"><p>Write one English sentence with <b>{item.entry.word}</b>.</p><textarea value={value} onChange={(e) => onChange(e.target.value)} className="mt-3 min-h-28 w-full rounded-md border border-slate-300 p-3" /></div>;
+    return <div className="mt-3"><p>Write one English sentence with <b>{item.entry.word}</b> <span className="text-sm font-semibold text-slate-500">{formatPhonetic(item.entry)}</span>.</p><textarea value={value} onChange={(e) => onChange(e.target.value)} className="mt-3 min-h-28 w-full rounded-md border border-slate-300 p-3" /></div>;
   }
   if (item.kind === "spelling") {
-    return <div className="mt-3"><p>{item.entry.chineseMeaning} / {item.entry.japaneseMeaning}</p><input value={value} onChange={(e) => onChange(e.target.value)} className="mt-3 w-full rounded-md border border-slate-300 p-3" placeholder="Type the English word" /></div>;
+    return <div className="mt-3"><p>{item.entry.chineseMeaning} / {item.entry.japaneseMeaning}</p><p className="mt-1 text-sm font-semibold text-slate-500">{formatPhonetic(item.entry)}</p><input value={value} onChange={(e) => onChange(e.target.value)} className="mt-3 w-full rounded-md border border-slate-300 p-3" placeholder="Type the English word" /></div>;
   }
   const seed = entries.findIndex((entry) => entry.id === item.entry.id) + item.id.length;
   const choices = item.kind === "en-to-zh" ? getVocabChoices(entries, item.entry, "chineseMeaning", 4, seed) : getVocabChoices(entries, item.entry, "word", 4, seed);
   const title = item.kind === "fill" ? getSentenceBlank(item.entry) : item.kind === "en-to-zh" ? item.entry.word : item.entry.chineseMeaning;
-  return <div className="mt-3"><p className="font-semibold">{title}</p><div className="mt-3 grid gap-2 sm:grid-cols-2">{choices.map((choice) => <button key={choice} onClick={() => onChange(choice)} className={`rounded-md border px-3 py-2 text-left ${value === choice ? "border-violet-500 bg-violet-50" : "border-slate-200"}`}>{choice}</button>)}</div></div>;
+  return <div className="mt-3"><p className="font-semibold">{title}</p><p className="mt-1 text-sm font-semibold text-slate-500">{formatPhonetic(item.entry)}</p><div className="mt-3 grid gap-2 sm:grid-cols-2">{choices.map((choice) => <button key={choice} onClick={() => onChange(choice)} className={`rounded-md border px-3 py-2 text-left ${value === choice ? "border-violet-500 bg-violet-50" : "border-slate-200"}`}>{choice}</button>)}</div></div>;
 }
 
 function AnswerReview({ item, answer, grade }: { item: TestItem; answer: string; grade?: SentenceGrade }) {
   if (item.kind === "sentence" && grade) return <div className="mt-4 rounded-md bg-slate-50 p-4"><p className="font-bold">Sentence score: {grade.score}/{grade.maxScore}</p>{grade.feedback.map((f) => <p key={f} className="mt-1 text-sm">{f}</p>)}<p className="mt-2 text-sm text-emerald-700">Sample: {grade.sampleSentence}</p></div>;
   const correct = item.kind === "en-to-zh" ? item.entry.chineseMeaning : item.entry.word;
-  return <p className={`mt-3 text-sm font-bold ${answer === correct ? "text-emerald-700" : "text-rose-700"}`}>{answer === correct ? "Correct" : `Answer: ${correct}`}</p>;
+  const phoneticHint = `${item.entry.word} ${formatPhonetic(item.entry)}`.trim();
+  return <p className={`mt-3 text-sm font-bold ${answer === correct ? "text-emerald-700" : "text-rose-700"}`}>{answer === correct ? `Correct: ${phoneticHint}` : `Answer: ${correct} (${phoneticHint})`}</p>;
 }
 
 function getResult(items: TestItem[], answers: Record<string, string>, grades: Record<string, SentenceGrade>) {

@@ -1,21 +1,30 @@
-﻿import { getLevelData, levelLabel } from "@/lib/loadData";
+import { getLevelData, levelLabel } from "@/lib/loadData";
+import { findVocabEntryInText, formatPhonetic } from "@/lib/vocabUtils";
 import type { ExamLevel as V2Level } from "@/types/levels";
 import type { ExamLevel, Question } from "@/lib/types";
 
 export { levelLabel };
 
 export function getQuestions(level: ExamLevel) {
-  return getLevelData(level as V2Level).questions.map((question) => ({
-    id: question.id,
-    level: question.level,
-    type: normalizeType(question.type),
-    question: question.passage ? `${question.passage}\n\n${question.question}` : question.question,
-    choices: question.choices,
-    answer: question.answer,
-    explanation: question.explanationChinese,
-    difficulty: normalizeDifficulty(question.difficulty),
-    skillTags: question.skillTags,
-  })) as Question[];
+  const data = getLevelData(level as V2Level);
+  return data.questions.map((question) => {
+    const type = normalizeType(question.type);
+    const target = type === "vocabulary" ? findVocabEntryInText(question.question, data.vocabulary) : undefined;
+
+    return {
+      id: question.id,
+      level: question.level,
+      type,
+      question: question.passage ? `${question.passage}\n\n${question.question}` : question.question,
+      choices: question.choices,
+      answer: question.answer,
+      explanation: question.explanationChinese,
+      phonetic: formatPhonetic(target),
+      targetWord: target?.word,
+      difficulty: normalizeDifficulty(question.difficulty),
+      skillTags: question.skillTags,
+    };
+  }) as Question[];
 }
 
 function normalizeType(type: string): Question["type"] {
@@ -28,4 +37,3 @@ function normalizeDifficulty(difficulty: number): 1 | 2 | 3 {
   if (difficulty === 3) return 2;
   return 3;
 }
-
